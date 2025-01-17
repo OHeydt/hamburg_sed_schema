@@ -1,0 +1,2726 @@
+stop_name,parent_station,stop_id,stop_lat,stop_lon,location_type
+Hamburg A Burgwedel,396992,194443,53.648174,9.907798,
+Hamburg A Eidelstedt Zentrum,231596,221461,53.610233,9.901142,
+Hamburg A Eidelstedt Zentrum,231596,265771,53.6098,9.900665,
+Hamburg A Eidelstedt Zentrum,231596,303583,53.609825,9.901768,
+Hamburg A Schnelsen,636814,230186,53.633255,9.905974,
+Hamburg A Schnelsen,636814,90889,53.63356,9.905336,
+Hamburg Airport,354990,173640,53.63257,10.006366,
+"Hamburg Airport, Mast 1=6l",354990,160059,53.632145,10.006562,
+Hamburg Albertinen-Krankenhaus (A Schnelsen),616051,134440,53.632126,9.905363,
+Hamburg Albertinen-Krankenhaus (A Schnelsen),616051,62126,53.632114,9.905498,
+Hamburg Alsterdorf,205174,356392,53.606396,10.011347,
+Hamburg Alsterdorf,205174,73442,53.606304,10.011418,
+Hamburg Alsterdorfer Straße (U S Ohlsdorf),24681,264833,53.619644,10.032116,
+Hamburg Alter Teichweg,398516,470583,53.586613,10.064518,
+Hamburg Alter Teichweg,398516,50559,53.58664,10.064608,
+Hamburg Am Rosengarten,357681,338554,53.52672,9.822961,
+Hamburg Am Rosengarten,357681,409492,53.526356,9.821856,
+Hamburg Argentinienbrücke,419970,440290,53.528225,9.976088,
+Hamburg Barmbek,430866,364092,53.587353,10.044449,
+Hamburg Barmbek,430866,91458,53.587074,10.044297,
+Hamburg Berliner Tor,283444,363990,53.553333,10.022863,
+Hamburg Berliner Tor,283444,423651,53.553448,10.022809,
+Hamburg Berliner Tor,283444,431638,53.553288,10.022872,
+Hamburg Berne,44083,546602,53.62696,10.139707,
+Hamburg Berne,44083,615084,53.626907,10.139842,
+Hamburg Bf. Altona,399812,120056,53.551525,9.934918,
+Hamburg Bf. Altona,399812,80701,53.551502,9.935358,
+Hamburg Bf. Bergedorf,,2764,53.489006,10.205909,1
+Hamburg Bf. Bergedorf,2764,182182,53.488888,10.205756,
+Hamburg Bf. Bergedorf,2764,281777,53.489487,10.206362,
+Hamburg Bf. Bergedorf,2764,294023,53.489,10.205508,
+Hamburg Bf. Bergedorf,2764,440723,53.489105,10.2062,
+Hamburg Bf. Bergedorf,2764,50711,53.48859,10.205122,
+Hamburg Bf. Bergedorf,2764,549374,53.489445,10.206829,
+Hamburg Bf. Bergedorf,2764,589110,53.488804,10.205167,
+Hamburg Bf. Bergedorf,2764,88462,53.489384,10.206227,
+Hamburg Bf. Hasselbrook,140107,256922,53.565296,10.057293,
+Hamburg Bf. Hasselbrook,140107,558203,53.564514,10.0575,
+Hamburg Bf. Tonndorf,165403,147515,53.586483,10.122585,
+Hamburg Bf. Tonndorf,165403,16144,53.58672,10.122163,
+Hamburg Bf. Tonndorf,165403,47974,53.58654,10.122702,
+Hamburg Bf. Tonndorf (Tonndorfer Hauptstraße),278085,160883,53.58565,10.123331,
+Hamburg Bf. Wandsbek,323316,525185,53.570457,10.078442,
+Hamburg Billstedt,390771,524342,53.54259,10.107296,
+Hamburg Billstedt,390771,597526,53.542355,10.107107,
+Hamburg Brandstwiete,529700,181811,53.54707,9.997117,
+Hamburg Brandstwiete,529700,378556,53.5475,9.998528,
+Hamburg Brandstwiete,529700,536613,53.547073,9.996947,
+Hamburg Buchenkamp,211868,289953,53.652897,10.185602,
+Hamburg Buchenkamp,211868,639545,53.65297,10.185602,
+Hamburg Buckhorn,291779,360383,53.66441,10.155643,
+Hamburg Buckhorn,291779,570919,53.664425,10.155778,
+Hamburg Burgstraße,477081,343390,53.55589,10.041746,
+Hamburg Burgstraße,477081,533076,53.555775,10.041764,
+Hamburg Christuskirche,475889,409348,53.569626,9.962415,
+Hamburg Christuskirche,475889,622191,53.569546,9.962415,
+Hamburg Dammtor,294731,209510,53.560757,9.989569,
+Hamburg Dehnhaide,293697,392957,53.578976,10.040793,
+Hamburg Dockland (Fischereihafen),342600,307304,53.54317,9.934981,
+Hamburg Ebertallee,89350,505335,53.567833,9.888529,
+Hamburg Eidelstedter Platz,124773,420135,53.60832,9.904851,
+Hamburg Eilbeker Weg,114700,283645,53.568787,10.043848,
+Hamburg Eilbeker Weg,114700,364639,53.568214,10.043919,
+Hamburg Elbe-Werkstätten Nord,335056,355716,53.638245,10.135179,
+Hamburg Emilienstraße,512250,111368,53.571693,9.952758,
+Hamburg Emilienstraße,512250,171225,53.571625,9.952678,
+Hamburg Farmsen,23336,338672,53.607117,10.117491,
+Hamburg Farmsen,23336,453636,53.607258,10.117617,
+Hamburg Farmsen,23336,490070,53.607025,10.117806,
+Hamburg Flughafenstraße,457236,238616,53.63961,10.012209,
+Hamburg Flughafenstraße,457236,46993,53.639652,10.01282,
+Hamburg Flughafenstraße,457236,487305,53.639736,10.013221,
+Hamburg Flughafenstraße,457236,495567,53.63979,10.013358,
+Hamburg Friedensallee,252863,11726,53.554974,9.928585,
+Hamburg Fuhlsbüttel,223665,400878,53.63238,10.026807,
+Hamburg Fuhlsbüttel,223665,598440,53.63246,10.026896,
+Hamburg Fuhlsbüttel Nord,106295,427818,53.63944,10.016763,
+Hamburg Fuhlsbüttel Nord,106295,52087,53.63944,10.016602,
+Hamburg Griegstraße,397017,63074,53.554382,9.909693,
+Hamburg Gurlittstraße,272727,381217,53.55732,10.011257,
+Hamburg Gurlittstraße,272727,622213,53.557396,10.011257,
+Hamburg Gänsemarkt (Oper),581520,287534,53.555733,9.986481,
+Hamburg Gänsemarkt (Oper),581520,620225,53.555607,9.986463,
+Hamburg HBF/Kirchenallee,310048,493193,53.554066,10.008175,
+Hamburg HBF/Kirchenallee,310048,521604,53.553246,10.008697,
+Hamburg HBF/Mönckebergstraße,595976,28298,53.551548,10.004187,
+Hamburg HBF/Spitalerstraße,452874,391918,53.552605,10.005139,
+Hamburg HBF/Steintordamm,91719,226814,53.552,10.007987,
+Hamburg HBF/Steintorwall,16034,499464,53.551662,10.005705,
+Hamburg Habichtstraße,205703,521669,53.593586,10.052265,
+Hamburg Habichtstraße,205703,613814,53.59368,10.052238,
+Hamburg HafenCity Universität,631488,158927,53.54067,10.007601,
+Hamburg HafenCity Universität,631488,285370,53.54055,10.007583,
+Hamburg Hagenbecks Tierpark,636256,186733,53.5929,9.944081,
+Hamburg Hagenbecks Tierpark,636256,557339,53.592873,9.943856,
+Hamburg Hagendeel,263656,179322,53.60386,9.945257,
+Hamburg Halenreie,87912,477612,53.653194,10.160215,
+Hamburg Halenreie,87912,519005,53.65347,10.160287,
+Hamburg Hallerstraße,525495,378634,53.57292,9.988934,
+Hamburg Hallerstraße,525495,636108,53.57291,9.989131,
+Hamburg Hammer Kirche,614325,132268,53.555622,10.054852,
+Hamburg Hammer Kirche,614325,197008,53.555767,10.054861,
+Hamburg Hasselbrook,347971,338271,53.564716,10.056122,
+Hamburg Hauptbahnhof Nord,271888,500478,53.554024,10.005202,
+Hamburg Hauptbahnhof Nord,271888,553355,53.55414,10.005139,
+Hamburg Hauptbahnhof Süd,334539,195858,53.552017,10.009568,
+Hamburg Hauptbahnhof Süd,334539,553153,53.551914,10.009568,
+Hamburg Hauptbahnhof/ZOB,433334,426340,53.55213,10.009954,
+Hamburg Hauptbahnhof/ZOB,433334,537668,53.552254,10.011209,
+Hamburg Hauptbahnhof/ZOB,433334,612984,53.552002,10.010207,
+Hamburg Haupteingang Ohlsdorf,63664,115818,53.620716,10.034325,
+Hamburg Haupteingang Ohlsdorf,63664,126358,53.620876,10.034263,
+Hamburg Haupteingang Ohlsdorf,63664,372186,53.62119,10.034469,
+Hamburg Haupteingang Ohlsdorf,63664,419602,53.62064,10.034361,
+Hamburg Hbf,407155,65191,53.55271,10.007025,
+Hamburg Herbstsweg,203520,478913,53.59541,10.050118,
+Hamburg Herbstsweg,203520,561083,53.59485,10.050217,
+Hamburg Holstenstraße,604345,618773,53.561764,9.949739,
+Hamburg Horner Rennbahn,639179,165659,53.55353,10.084282,
+Hamburg Horner Rennbahn,639179,214848,53.553864,10.084236,
+Hamburg Horner Rennbahn,639179,215579,53.553997,10.084227,
+Hamburg Hovestieg,74952,102452,53.525127,10.021614,
+Hamburg Hovestieg,74952,188748,53.524452,10.021749,
+Hamburg Hovestieg,74952,37208,53.525326,10.021938,
+Hamburg Hovestieg,74952,630186,53.525063,10.021857,
+Hamburg Hudtwalckerstraße,406108,328651,53.59483,9.996075,
+Hamburg Hudtwalckerstraße,406108,371593,53.59481,9.995949,
+Hamburg Im Grünen Grunde,477658,531691,53.62302,10.031487,
+Hamburg Im Grünen Grunde,477658,572209,53.623108,10.031631,
+Hamburg Immenhöven,449608,214180,53.66083,10.021722,
+Hamburg Joachim-Mähl-Straße,478102,44476,53.629017,9.949893,
+Hamburg Joachim-Mähl-Straße,478102,560241,53.62901,9.949812,
+Hamburg Jungfernstieg,180170,146325,53.553146,9.994467,
+Hamburg Jungfernstieg,180170,146647,53.552166,9.994054,
+Hamburg Jungfernstieg,180170,166577,53.553413,9.994557,
+Hamburg Jungfernstieg,180170,1953,53.55326,9.994566,
+Hamburg Jungfernstieg,180170,198956,53.55209,9.993901,
+Hamburg Kellinghusenstraße,601365,157330,53.58883,9.990577,
+Hamburg Kellinghusenstraße,601365,451692,53.588676,9.990847,
+Hamburg Kellinghusenstraße,601365,87638,53.588737,9.990739,
+Hamburg Kiwittsmoor,572256,384971,53.675133,10.01582,
+Hamburg Kiwittsmoor,572256,503871,53.675198,10.015973,
+Hamburg Klein Borstel,177901,440529,53.628162,10.033265,
+Hamburg Klein Borstel,177901,566181,53.628136,10.033122,
+Hamburg Kleine Seilerstraße,138346,43224,53.551056,9.967967,
+Hamburg Klosterstern,165913,196554,53.58158,9.988386,
+Hamburg Klosterstern,165913,330287,53.581554,9.988233,
+Hamburg Kriegerdankweg,571177,457680,53.632526,9.9084,
+Hamburg Landungsbrücken Brücke 1,335870,240453,53.544785,9.971596,
+Hamburg Landungsbrücken Brücke 1,335870,247673,53.544556,9.972189,
+Hamburg Landungsbrücken Brücke 1,335870,59443,53.544636,9.972153,
+Hamburg Landungsbrücken Brücke 2,580653,437127,53.545025,9.970617,
+Hamburg Landungsbrücken Brücke 3,597371,574524,53.545097,9.969755,
+Hamburg Langenhorn Markt,378597,100749,53.64895,10.017275,
+Hamburg Langenhorn Markt,378597,460172,53.648968,10.017141,
+Hamburg Langenhorn Nord,373778,209414,53.66057,10.017437,
+Hamburg Langenhorn Nord,373778,636412,53.6606,10.017311,
+Hamburg Lattenkamp (Sporthalle),31148,65854,53.599995,9.994566,
+Hamburg Lattenkamp (Sporthalle),31148,83356,53.599995,9.994692,
+Hamburg Lattenkampstieg,164617,201153,53.597225,9.997162,
+Hamburg Legienstraße,172309,105798,53.547016,10.096767,
+Hamburg Legienstraße,172309,478048,53.54676,10.096534,
+Hamburg Lippeltstraße,242320,432192,53.545544,10.016287,
+Hamburg Lippeltstraße,242320,452633,53.54569,10.015852,
+Hamburg Lohmühlenstraße,439219,121020,53.556553,10.019009,
+Hamburg Lohmühlenstraße,439219,578389,53.55662,10.018919,
+Hamburg Lutterothstraße,248210,125185,53.582058,9.947737,
+Hamburg Lutterothstraße,248210,288109,53.58207,9.947548,
+Hamburg Lübecker Straße,562151,211788,53.559574,10.028864,
+Hamburg Lübecker Straße,562151,524800,53.55953,10.02739,
+Hamburg Maria-Louisen-Straße (Nord),546386,217718,53.591747,10.005957,
+Hamburg Maxstraße,592703,414771,53.57085,10.048258,
+Hamburg Maxstraße,592703,478491,53.572186,10.047414,
+Hamburg Meiendorfer Weg,32841,191556,53.6388,10.1562,
+Hamburg Meiendorfer Weg,32841,95918,53.63885,10.156083,
+Hamburg Merkenstraße,196354,30793,53.538704,10.124669,
+Hamburg Merkenstraße,196354,612345,53.53861,10.124678,
+Hamburg Messe (Eingang Mitte),62936,475381,53.56191,9.975832,
+Hamburg Messe (Eingang Mitte),62936,510535,53.56189,9.975952,
+Hamburg Messehallen,323407,242337,53.558197,9.976788,
+Hamburg Messehallen,323407,372972,53.55817,9.976609,
+Hamburg Meßberg,171411,646694,53.54773,10.000746,
+Hamburg Meßberg,171411,85911,53.547607,10.000719,
+Hamburg Moorstieg,284941,267635,53.470642,9.920608,
+Hamburg Mundsburg,199955,321893,53.56944,10.027543,
+Hamburg Mümmelmannsberg,592721,329968,53.528725,10.150055,
+Hamburg Nagelsweg,300679,494818,53.543438,10.022522,
+Hamburg Nagelsweg,300679,62688,53.543324,10.022072,
+Hamburg Neuhof,403575,560450,53.524166,9.940712,
+Hamburg Neuländer Hauptdeich,377290,311646,53.470146,9.995383,
+Hamburg Neuländer Hauptdeich,377290,70637,53.470055,9.995231,
+Hamburg Niendorf Markt,434253,463591,53.619568,9.951537,
+Hamburg Niendorf Markt,434253,90736,53.61959,9.951366,
+Hamburg Niendorf Nord,376853,457359,53.6407,9.950225,
+Hamburg Ochsenzoll,425678,393314,53.678005,10.001492,
+Hamburg Ochsenzoll,425678,425308,53.67814,10.001438,
+Hamburg Ohlsdorf,518692,280133,53.620716,10.03119,
+Hamburg Ohlsdorf,518692,334769,53.620693,10.03155,
+Hamburg Ohlstedt,285928,233542,53.694366,10.137192,
+Hamburg Ohlstedt,285928,350929,53.694378,10.13703,
+Hamburg Osterstraße,410421,535060,53.57614,9.951689,
+Hamburg Parkstraße/Elbchaussee,360726,218573,53.54668,9.881378,
+Hamburg Rauhes Haus,44843,174670,53.554146,10.066458,
+Hamburg Rauhes Haus,44843,387003,53.55421,10.066296,
+Hamburg Reeseberg,229235,522224,53.450752,9.987748,
+Hamburg Ritterstraße,336558,112611,53.56769,10.046623,
+Hamburg Ritterstraße,336558,59588,53.567608,10.046686,
+Hamburg S Allermöhe,38805,552174,53.490536,10.158706,
+Hamburg S Allermöhe,38805,553007,53.490112,10.158616,
+Hamburg S Alte Wöhr,457955,317247,53.59683,10.037029,
+Hamburg S Alte Wöhr,457955,559483,53.598133,10.036688,
+Hamburg S Bahrenfeld,476417,178416,53.55979,9.909873,
+Hamburg S Blankenese,574254,372824,53.56331,9.814409,
+Hamburg S Blankenese,574254,437357,53.563534,9.814741,
+Hamburg S Blankenese,574254,481965,53.56367,9.813595,
+Hamburg S Blankenese,574254,640365,53.563896,9.813816,
+Hamburg S Elbgaustraße,648002,253654,53.60356,9.893749,
+Hamburg S Elbgaustraße,648002,303305,53.603146,9.89306,
+Hamburg S Elbgaustraße,648002,460880,53.603123,9.893227,
+Hamburg S Elbgaustraße,648002,544515,53.603355,9.892566,
+Hamburg S Elbgaustraße,648002,619436,53.603333,9.893034,
+Hamburg S Friedrichsberg,423668,347223,53.576508,10.05857,
+Hamburg S Friedrichsberg,423668,395263,53.57575,10.058052,
+Hamburg S Friedrichsberg,423668,85418,53.576702,10.058922,
+Hamburg S Hamburg Airport,354990,382196,53.63267,10.006585,
+Hamburg S Hamburg Airport,354990,424832,53.63265,10.006496,
+Hamburg S Hamburg Airport,354990,484517,53.63267,10.006298,
+Hamburg S Hamburg Airport,354990,582427,53.63529,10.006532,
+Hamburg S Hochkamp,8003,313129,53.561146,9.842697,
+Hamburg S Iserbrook,424542,15442,53.577423,9.813457,
+Hamburg S Iserbrook,424542,538589,53.577393,9.813897,
+Hamburg S Klein Flottbek,374658,151414,53.55836,9.861355,
+Hamburg S Klein Flottbek,374658,476591,53.558468,9.86175,
+Hamburg S Landwehr (Ramazan-Avci-Platz),480254,12400,53.56148,10.037056,
+Hamburg S Nettelnburg,455587,324285,53.488556,10.181685,
+Hamburg S Nettelnburg,455587,358224,53.488476,10.183167,
+Hamburg S Nettelnburg,455587,41143,53.488564,10.182053,
+Hamburg S Neugraben,135332,316575,53.473255,9.851797,
+Hamburg S Othmarschen,128955,8067,53.559006,9.887199,
+Hamburg S Poppenbüttel (Stormarnplatz),414481,266601,53.65142,10.094468,
+Hamburg S Poppenbüttel (Wentzelplatz),453152,178317,53.651398,10.09268,
+Hamburg S Poppenbüttel (Wentzelplatz),453152,247310,53.65172,10.092779,
+Hamburg S Poppenbüttel (Wentzelplatz),453152,272819,53.651524,10.092428,
+Hamburg S Poppenbüttel (Wentzelplatz),453152,343333,53.65181,10.092482,
+Hamburg S Poppenbüttel (Wentzelplatz),453152,427262,53.65149,10.092536,
+Hamburg S Reeperbahn,344845,211254,53.55095,9.955632,
+Hamburg S Reeperbahn,344845,231497,53.550034,9.955778,
+Hamburg S Reeperbahn,344845,299921,53.54939,9.955265,
+Hamburg S Reeperbahn,344845,417699,53.549652,9.956086,
+Hamburg S Reeperbahn,344845,4916,53.54971,9.954669,
+Hamburg S Rissen,260111,265492,53.58249,9.758606,
+Hamburg S Rissen,260111,326326,53.58244,9.759091,
+Hamburg S Rübenkamp,589285,39775,53.60739,10.033032,
+Hamburg S Rübenkamp (Zugang S-Bahn),419821,282509,53.60739,10.032987,
+Hamburg S Sülldorf,94334,261673,53.580315,9.796317,
+Hamburg S Tiefstack,22903,277402,53.530495,10.064805,
+Hamburg S Tiefstack,22903,95311,53.530605,10.064446,
+Hamburg S Wellingsbüttel,369998,468634,53.640953,10.082736,
+Hamburg Sachsenstraße,577788,133734,53.54628,10.027085,
+Hamburg Sachsenstraße,577788,96018,53.546364,10.027435,
+Hamburg Saselbekstraße,83312,127526,53.656193,10.134101,
+Hamburg Saselbekstraße,83312,5219,53.655804,10.132655,
+Hamburg Schippelsweg,596831,564841,53.6348,9.952678,
+Hamburg Schippelsweg,596831,567491,53.634808,9.952812,
+Hamburg Schlump,52178,314713,53.56761,9.969916,
+Hamburg Schlump,52178,603280,53.567764,9.969952,
+Hamburg Sengelmannstraße (City Nord),612376,358642,53.60944,10.021992,
+Hamburg Sengelmannstraße (City Nord),612376,386072,53.609344,10.022063,
+Hamburg Seumestraße,361739,242038,53.573597,10.052283,
+Hamburg Seumestraße,361739,633237,53.573,10.054744,
+Hamburg Sievekingplatz,144724,137540,53.555958,9.97746,
+Hamburg Sievekingplatz,144724,573944,53.556953,9.977664,
+Hamburg Sievekingplatz,144724,630001,53.55615,9.977329,
+Hamburg Steinfurther Allee,437053,270513,53.541084,10.139177,
+Hamburg Steinfurther Allee,437053,417645,53.54103,10.139213,
+Hamburg Steinfurther Allee (Nord),214446,45263,53.54128,10.137946,
+Hamburg Steinfurther Allee (Nord),214446,503520,53.541252,10.137614,
+Hamburg Steinstraße,365356,268315,53.54907,10.006289,
+Hamburg Steinstraße,365356,513276,53.54908,10.006127,
+Hamburg Steinwerder,6126,538728,53.54004,9.966476,
+Hamburg Stephansplatz (Oper/CCH),481291,43038,53.558556,9.98932,
+Hamburg Stephansplatz (Oper/CCH),481291,6410,53.558586,9.989491,
+Hamburg Straßburger Straße,300045,119457,53.581657,10.068183,
+Hamburg Straßburger Straße,300045,357045,53.581635,10.068021,
+Hamburg Süderelbe (Süd),611500,172283,53.470257,9.993731,
+Hamburg Süderelbe (Süd),611500,201064,53.47016,9.993217,
+Hamburg Theater im Hafen,134745,267612,53.540764,9.974156,
+Hamburg Theater im Hafen,134745,541958,53.540546,9.974947,
+Hamburg Trabrennbahn,228681,234383,53.59831,10.102579,
+Hamburg Trabrennbahn,228681,307795,53.598427,10.102499,
+Hamburg Trabrennbahn Bahrenfeld,519907,178707,53.573635,9.89197,
+Hamburg Trabrennbahn Bahrenfeld,519907,476237,53.573803,9.892306,
+Hamburg Trabrennbahn Bahrenfeld,519907,484791,53.573856,9.892428,
+Hamburg Trabrennbahn Bahrenfeld,519907,647406,53.573917,9.891553,
+Hamburg U Alsterdorf,195991,171438,53.60689,10.011715,
+Hamburg U Alsterdorf,195991,265871,53.606888,10.01202,
+Hamburg U Alsterdorf,195991,353652,53.60723,10.011796,
+Hamburg U Alsterdorf,195991,96710,53.607162,10.012442,
+Hamburg U Alter Teichweg,172301,328776,53.58612,10.064958,
+Hamburg U Alter Teichweg,172301,413686,53.587154,10.064033,
+Hamburg U Alter Teichweg,172301,49257,53.586197,10.063709,
+Hamburg U Baumwall,341929,280491,53.54444,9.981666,
+Hamburg U Baumwall,341929,587269,53.544067,9.981352,
+Hamburg U Baumwall,341929,59070,53.544067,9.980741,
+Hamburg U Berne,345947,137766,53.62597,10.140138,
+Hamburg U Berne,345947,395843,53.626778,10.140192,
+Hamburg U Berne (Berner Heerweg),576926,165484,53.626602,10.138701,
+Hamburg U Berne (Berner Heerweg),576926,372329,53.62663,10.138593,
+Hamburg U Billstedt,98052,105436,53.54256,10.107664,
+Hamburg U Billstedt,98052,235399,53.54239,10.106353,
+Hamburg U Billstedt,98052,445989,53.542583,10.106541,
+Hamburg U Billstedt,98052,58381,53.54222,10.107817,
+Hamburg U Billstedt,98052,635730,53.54243,10.107152,
+Hamburg U Borgweg,215108,115616,53.590664,10.015524,
+Hamburg U Borgweg,215108,53455,53.590916,10.015757,
+Hamburg U Buchenkamp,309633,294485,53.65305,10.186608,
+Hamburg U Burgstraße,313560,261415,53.55579,10.042985,
+Hamburg U Burgstraße,313560,403858,53.55585,10.041264,
+Hamburg U Burgstraße,313560,625171,53.55567,10.040156,
+Hamburg U Burgstraße,313560,93149,53.55548,10.040623,
+Hamburg U Christuskirche,138129,107801,53.569565,9.964787,
+Hamburg U Christuskirche,138129,508305,53.569336,9.964553,
+Hamburg U Dehnhaide,544480,149390,53.580223,10.040991,
+Hamburg U Dehnhaide,544480,18705,53.580112,10.041764,
+Hamburg U Dehnhaide,544480,218173,53.579365,10.041799,
+Hamburg U Dehnhaide,544480,219134,53.579582,10.041629,
+Hamburg U Emilienstraße,601879,283902,53.57147,9.952462,
+Hamburg U Emilienstraße,601879,76221,53.571533,9.952588,
+Hamburg U Eppendorfer Baum,6692,399074,53.584003,9.983598,
+Hamburg U Eppendorfer Baum,6692,537597,53.583763,9.983562,
+Hamburg U Farmsen,363001,59410,53.607174,10.117447,
+Hamburg U Farmsen,363001,71611,53.60664,10.118614,
+Hamburg U Farmsen,363001,86049,53.607445,10.117105,
+Hamburg U Feldstraße,548777,375903,53.5574,9.969216,
+Hamburg U Feldstraße,548777,524618,53.557285,9.969404,
+Hamburg U Fuhlsbüttel,348083,285147,53.631897,10.026097,
+Hamburg U Fuhlsbüttel,348083,294787,53.632378,10.025926,
+Hamburg U Fuhlsbüttel,348083,359026,53.632137,10.025666,
+Hamburg U Fuhlsbüttel,348083,97152,53.632584,10.02598,
+Hamburg U Fuhlsbüttel Nord,638511,118598,53.640163,10.017105,
+Hamburg U Fuhlsbüttel Nord,638511,16575,53.64012,10.016458,
+Hamburg U Gänsemarkt,378788,135600,53.555454,9.988592,
+Hamburg U HafenCity Universität,468528,27308,53.54083,10.006559,
+Hamburg U HafenCity Universität,468528,377115,53.540657,10.005454,
+Hamburg U Hagenbecks Tierpark,233885,460535,53.593327,9.94356,
+Hamburg U Hallerstraße,110045,134309,53.572742,9.98932,
+Hamburg U Hallerstraße,110045,198508,53.57326,9.988623,
+Hamburg U Hallerstraße,110045,508576,53.572636,9.989288,
+Hamburg U Hallerstraße,110045,533977,53.57344,9.988733,
+Hamburg U Hamburger Straße,374250,143413,53.574192,10.037128,
+Hamburg U Hamburger Straße,374250,38434,53.574814,10.035826,
+Hamburg U Hamburger Straße,374250,431329,53.57425,10.033697,
+Hamburg U Hamburger Straße,374250,442863,53.575214,10.035924,
+Hamburg U Hamburger Straße,374250,495341,53.57458,10.036221,
+Hamburg U Hammer Kirche,577264,215963,53.555515,10.054582,
+Hamburg U Hammer Kirche,577264,333941,53.555332,10.055526,
+Hamburg U Hammer Kirche,577264,521519,53.55539,10.055445,
+Hamburg U Hoheluftbrücke,253735,338162,53.578674,9.976061,
+Hamburg U Hoheluftbrücke,253735,571135,53.578236,9.976285,
+Hamburg U Horner Rennbahn,369540,329472,53.55444,10.084631,
+Hamburg U Horner Rennbahn,369540,601856,53.554173,10.084254,
+Hamburg U Horner Rennbahn,369540,71519,53.553177,10.085377,
+Hamburg U Hudtwalckerstraße,33214,194202,53.594093,9.996228,
+Hamburg U Kellinghusenstraße,480650,230276,53.5882,9.991313,
+Hamburg U Kellinghusenstraße,480650,353987,53.58908,9.991566,
+Hamburg U Klosterstern,286281,551573,53.582302,9.987371,
+Hamburg U Klosterstern,286281,58093,53.582195,9.987388,
+Hamburg U Langenhorn Markt,131555,249873,53.649433,10.017356,
+Hamburg U Langenhorn Markt,131555,507438,53.64928,10.017554,
+Hamburg U Langenhorn Markt,131555,526563,53.649292,10.017042,
+Hamburg U Langenhorn Markt (Tangstedter Landstraße,111197,402543,53.648956,10.016368,
+Hamburg U Langenhorn Nord,397957,610021,53.66136,10.018722,
+Hamburg U Lattenkamp,640777,150467,53.59989,9.993937,
+Hamburg U Lattenkamp,640777,526573,53.599834,9.995114,
+Hamburg U Lattenkamp,640777,618815,53.600075,9.995033,
+Hamburg U Lohmühlenstraße,480614,594362,53.55713,10.02006,
+Hamburg U Lübecker Straße,558648,222163,53.560047,10.028783,
+Hamburg U Lübecker Straße,558648,288958,53.560192,10.028765,
+Hamburg U Meiendorfer Weg,369064,396247,53.63906,10.157089,
+Hamburg U Meiendorfer Weg,369064,601610,53.6394,10.156317,
+Hamburg U Merkenstraße,566960,394184,53.539154,10.127328,
+Hamburg U Merkenstraße,566960,420449,53.538773,10.126843,
+Hamburg U Merkenstraße,566960,496297,53.53895,10.127256,
+Hamburg U Merkenstraße,566960,624224,53.538773,10.127804,
+Hamburg U Mundsburg,271672,177393,53.5697,10.027597,
+Hamburg U Mundsburg,271672,365916,53.569912,10.026259,
+Hamburg U Mundsburg,271672,498325,53.56994,10.027211,
+Hamburg U Mundsburg,271672,594648,53.56979,10.02757,
+Hamburg U Mümmelmannsberg,490920,154665,53.52712,10.14984,
+Hamburg U Niendorf Markt,16910,154033,53.61888,9.952094,
+Hamburg U Niendorf Markt,16910,160783,53.61917,9.952022,
+Hamburg U Niendorf Markt,16910,228384,53.61911,9.952157,
+Hamburg U Niendorf Markt,16910,44345,53.619526,9.952273,
+Hamburg U Niendorf Markt,16910,456340,53.61924,9.952007,
+Hamburg U Niendorf Markt,16910,588869,53.619453,9.952336,
+Hamburg U Niendorf Markt,16910,637825,53.6195,9.95236,
+Hamburg U Niendorf Nord,156061,254754,53.64034,9.949596,
+Hamburg U Niendorf Nord,156061,274150,53.64047,9.949848,
+Hamburg U Niendorf Nord,156061,438602,53.64024,9.949659,
+Hamburg U Niendorf Nord,156061,618547,53.640217,9.949533,
+Hamburg U Niendorf Nord,156061,643687,53.64045,9.949453,
+Hamburg U Ochsenzoll,253145,105257,53.677616,10.000661,
+Hamburg U Ochsenzoll,253145,277769,53.67817,10.000826,
+Hamburg U Ochsenzoll,253145,5745,53.677982,10.0007,
+Hamburg U Ochsenzoll,253145,633718,53.677376,10.000429,
+Hamburg U Ritterstraße,543311,444514,53.567276,10.043946,
+Hamburg U Ritterstraße,543311,60192,53.567204,10.044198,
+Hamburg U Rödingsmarkt,128169,183727,53.548363,9.989717,
+Hamburg U Rödingsmarkt,128169,218252,53.548424,9.989824,
+Hamburg U Rödingsmarkt,128169,75808,53.54851,9.98794,
+Hamburg U S Barmbek,257563,151853,53.58755,10.045357,
+Hamburg U S Barmbek,257563,204403,53.587906,10.043542,
+Hamburg U S Barmbek,257563,237617,53.586987,10.043713,
+Hamburg U S Barmbek,257563,337830,53.58684,10.044962,
+Hamburg U S Barmbek,257563,384194,53.58692,10.044216,
+Hamburg U S Barmbek,257563,448134,53.58763,10.044944,
+Hamburg U S Barmbek,257563,602250,53.586617,10.045509,
+Hamburg U S Barmbek,257563,89728,53.586853,10.044881,
+Hamburg U S Berliner Tor,235279,424781,53.55341,10.025046,
+Hamburg U S Berliner Tor,235279,494315,53.55348,10.025711,
+Hamburg U S Berliner Tor (Beim Strohhause),449069,123055,53.553307,10.021746,
+Hamburg U S Berliner Tor (Beim Strohhause),449069,53995,53.55341,10.025046,
+Hamburg U S Berliner Tor (Beim Strohhause),449069,623665,53.553463,10.023079,
+Hamburg U S Berliner Tor (Beim Strohhause),449069,74521,53.553307,10.023348,
+Hamburg U S Berliner Tor (Beim Strohhause),449069,93069,53.55333,10.022872,
+Hamburg U S Jungfernstieg,277540,583026,53.55304,9.992653,
+Hamburg U S Landungsbrücken,119500,360757,53.5457,9.970465,
+Hamburg U S Landungsbrücken,119500,398591,53.545685,9.971083,
+Hamburg U S Landungsbrücken,119500,423717,53.54643,9.970089,
+Hamburg U S Landungsbrücken,119500,545121,53.54557,9.970884,
+Hamburg U S Ohlsdorf,635375,115835,53.621597,10.031424,
+Hamburg U S Ohlsdorf(Freibad),397344,209604,53.620796,10.030984,
+Hamburg U S Ohlsdorf(Freibad),397344,482159,53.62067,10.030993,
+Hamburg U S Ohlsdorf(Freibad),397344,544931,53.621597,10.031424,
+Hamburg U S Sternschanze,352174,241354,53.56415,9.96635,
+Hamburg U S Sternschanze,352174,512272,53.56409,9.966062,
+Hamburg U S Sternschanze (Kehre),556881,379897,53.56417,9.968641,
+Hamburg U S Wandsbeker Chaussee,293476,133742,53.570156,10.058625,
+Hamburg U Saarlandstraße,221155,153902,53.58773,10.034272,
+Hamburg U Saarlandstraße,221155,187385,53.587418,10.033221,
+Hamburg U Saarlandstraße,221155,300796,53.58813,10.032152,
+Hamburg U Schlump,537646,12035,53.56783,9.969372,
+Hamburg U Schlump,537646,260237,53.567665,9.971058,
+Hamburg U Schlump,537646,475261,53.56839,9.970381,
+Hamburg U Schlump,537646,550984,53.567986,9.969239,
+Hamburg U Schlump,537646,558531,53.568092,9.970449,
+Hamburg U Schlump,537646,595622,53.567722,9.970441,
+Hamburg U Schlump,537646,605999,53.5683,9.970409,
+Hamburg U Sengelmannstraße,47578,302393,53.60899,10.022162,
+Hamburg U Sengelmannstraße,47578,344291,53.608826,10.021731,
+Hamburg U Sierichstraße,462554,112809,53.590553,10.002417,
+Hamburg U Sierichstraße,462554,197569,53.59057,10.002561,
+Hamburg U St.Pauli,507670,110267,53.550182,9.970446,
+Hamburg U St.Pauli,507670,25768,53.55119,9.969314,
+Hamburg U St.Pauli,507670,260582,53.55001,9.97078,
+Hamburg U St.Pauli,507670,407728,53.54995,9.97068,
+Hamburg U St.Pauli,507670,497616,53.549805,9.969568,
+Hamburg U Steinfurther Allee,457783,211734,53.54147,10.139006,
+Hamburg U Steinstraße,190305,474446,53.55009,10.004558,
+Hamburg U Stephansplatz,80211,106633,53.558296,9.98808,
+Hamburg U Stephansplatz,80211,217204,53.5576,9.988745,
+Hamburg U Stephansplatz,80211,297326,53.55785,9.988934,
+Hamburg U Stephansplatz,80211,98297,53.55815,9.988278,
+Hamburg U Straßburger Straße,52662,118551,53.582405,10.067815,
+Hamburg U Uhlandstraße,485643,513450,53.56549,10.025908,
+Hamburg U Volksdorf,647688,126457,53.650635,10.161796,
+Hamburg U Volksdorf,647688,145442,53.65051,10.163485,
+Hamburg U Volksdorf,647688,257796,53.650208,10.162237,
+Hamburg U Volksdorf,647688,376726,53.65044,10.163548,
+Hamburg U Volksdorf,647688,79683,53.650394,10.163449,
+Hamburg U Wandsbek Markt,33066,161562,53.571804,10.068083,
+Hamburg U Wandsbek Markt,33066,205693,53.572334,10.069078,
+Hamburg U Wandsbek Markt,33066,464632,53.572037,10.069357,
+Hamburg U Wandsbek Markt,33066,492504,53.57151,10.06797,
+Hamburg U Wandsbek Markt,33066,555929,53.572075,10.068256,
+Hamburg U Wandsbek Markt,33066,568149,53.572273,10.068971,
+Hamburg U Wandsbek Markt,33066,572809,53.57224,10.0698,
+Hamburg U Wandsbek Markt,33066,575081,53.572063,10.069494,
+Hamburg U Wandsbek Markt,33066,83215,53.57166,10.069438,
+Hamburg U Wandsbek Markt,33066,95324,53.571873,10.068538,
+Hamburg U Wandsbek-Gartenstadt,68516,540590,53.592014,10.076061,
+Hamburg U Wartenau,481156,312573,53.56295,10.033292,
+Hamburg U Wartenau,481156,383886,53.56367,10.033804,
+Hamburg U Wartenau,481156,412083,53.564518,10.034155,
+Hamburg U Wartenau,481156,516821,53.56389,10.03473,
+Hamburg U Überseequartier,443853,494810,53.541252,9.999282,
+Hamburg Uhlandstraße,308185,628804,53.56425,10.027004,
+Hamburg Volksdorf,149267,228078,53.650482,10.163261,
+Hamburg Volksdorf,149267,488063,53.650517,10.163072,
+Hamburg Wagnerstraße,121042,153139,53.57013,10.039922,
+Hamburg Waltershof,13769,375337,53.52566,9.937227,
+Hamburg Wandsbek Markt,402929,110984,53.5716,10.066719,
+Hamburg Wandsbek Markt,402929,75066,53.571693,10.066674,
+Hamburg Wandsbek-Gartenstadt,645263,137854,53.592484,10.074893,
+Hamburg Wandsbek-Gartenstadt,645263,234037,53.592556,10.07483,
+Hamburg Wandsbek-Gartenstadt,645263,323989,53.592365,10.074983,
+Hamburg Wandsbek-Gartenstadt,645263,53875,53.592434,10.074929,
+Hamburg Wandsbeker Chaussee,111945,120878,53.5698,10.057736,
+Hamburg Wandsbeker Chaussee,111945,164030,53.569733,10.059975,
+Hamburg Wandsbeker Chaussee,111945,450378,53.56987,10.057655,
+Hamburg Wartenau,543804,428025,53.56468,10.035556,
+Hamburg Wartenau,543804,510694,53.56474,10.035466,
+Hamburg Winterhuder Marktplatz,280235,316399,53.594723,9.999381,
+Hamburg Wohlersweg,621243,277649,53.455696,9.999731,
+Hamburg central bus station,433334,387786,53.551765,10.011657,
+Hamburg Überseequartier,96750,325267,53.540493,9.998456,
+Hamburg Überseequartier,96750,60381,53.540375,9.998492,
+"Hamburg, A Burgwedel",,396992,53.647,9.908657,1
+"Hamburg, A Eidelstedt Zentrum",,231596,53.6102,9.901142,1
+"Hamburg, A S Eidelstedt",,412878,53.59609,9.905433,1
+"Hamburg, A Schnelsen",,636814,53.633335,9.905777,1
+"Hamburg, AIRBUS",,361899,53.536594,9.847978,1
+"Hamburg, AIRBUS (Fähranleger/Haus 25)",,581281,53.543102,9.841063,1
+"Hamburg, AIRBUS (Kehre)",,582852,53.5371,9.847294,1
+"Hamburg, AIRBUS (Osttor/Einfahrt)",,264594,53.53784,9.846781,1
+"Hamburg, AIRBUS (Schiffsanleger)",,138090,53.544823,9.840992,1
+"Hamburg, AIRBUS (Werkgelände)",,484182,53.54317,9.832647,1
+"Hamburg, AK Altona (Eingang)",,135781,53.555035,9.898248,1
+"Hamburg, AK Barmbek",,453997,53.60512,10.039917,1
+"Hamburg, AK Harburg",,548375,53.459,9.951442,1
+"Hamburg, AK St. Georg",,45277,53.55996,10.014677,1
+"Hamburg, AK Wandsbek",,333883,53.568703,10.091341,1
+"Hamburg, Achter de Höf",,269128,53.57946,9.761448,1
+"Hamburg, Achterdeich",,437232,53.408684,10.246628,1
+"Hamburg, Achterdiekbrücke",,607375,53.427082,10.203356,1
+"Hamburg, Achterkamp",,330036,53.43802,10.008081,1
+"Hamburg, Achtern Born (Kindermuseum)",,528280,53.587082,9.851707,1
+"Hamburg, Achtern Brack (Ost)",,409107,53.50809,9.849458,1
+"Hamburg, Achtern Brack (West)",,29485,53.507153,9.843561,1
+"Hamburg, Achtern Sand",,101503,53.584377,9.770822,1
+"Hamburg, Achtern Styg",,379041,53.58136,9.866812,1
+"Hamburg, Achterschlag",,46773,53.468174,10.237544,1
+"Hamburg, Adebarweg",,641354,53.58356,9.74538,1
+"Hamburg, Adolf-Köster-Damm",,382987,53.485397,10.146946,1
+"Hamburg, Afrikastraße",,283862,53.527508,9.989833,1
+"Hamburg, Agathe-Lasch-Weg",,625137,53.552544,9.893608,1
+"Hamburg, Ahrensburger Platz",,433382,53.655777,10.176027,1
+"Hamburg, Alaskaweg",,456283,53.62835,10.150564,1
+"Hamburg, Albert-Schweitzer-Ring",,420414,53.579433,10.123114,1
+"Hamburg, Albertinen-Krankenhaus (A Schnelsen)",,616051,53.63204,9.904979,1
+"Hamburg, Albertstraße",,469662,53.5491,10.019774,1
+"Hamburg, Alfred-Mahlau-Weg",,22023,53.609818,10.054477,1
+"Hamburg, Alfredstraße",,175884,53.55762,10.033022,1
+"Hamburg, Algermissenstraße",,496868,53.49701,10.011515,1
+"Hamburg, Allermöher Deich 187",,345375,53.47606,10.140563,1
+"Hamburg, Allermöher Deich 355",,364061,53.47253,10.162518,1
+"Hamburg, Allermöher Deich 365",,569149,53.472454,10.164835,1
+"Hamburg, Allermöher Deich 75",,219027,53.48292,10.124553,1
+"Hamburg, Allermöher Kirche",,184626,53.48216,10.129309,1
+"Hamburg, Allermöher Werftstegel",,344002,53.471718,10.17233,1
+"Hamburg, Alsenplatz",,327091,53.56648,9.951802,1
+"Hamburg, Alsterblick",,71992,53.69929,10.1237,1
+"Hamburg, Alsterchaussee",,267424,53.57274,9.994015,1
+"Hamburg, Alsterdorf",,205174,53.60616,10.01092,1
+"Hamburg, Alsterdorfer Damm",,581686,53.61342,9.999383,1
+"Hamburg, Alsterdorfer Straße/Überseekolleg",,141572,53.617237,10.026705,1
+"Hamburg, Alsterkrugchaussee (Mitte)",,608088,53.61785,10.005352,1
+"Hamburg, Alsterkrugchaussee 244",,343893,53.610394,9.99564,1
+"Hamburg, Alsterredder",,508685,53.659157,10.095584,1
+"Hamburg, Alstertal-Einkaufszentrum",,607354,53.655323,10.093019,1
+"Hamburg, Alte Holstenstraße",,34683,53.49048,10.208376,1
+"Hamburg, Alte Horster Schule",,464384,53.455887,10.283164,1
+"Hamburg, Alte Landstraße (Nord)",,86749,53.653202,10.077295,1
+"Hamburg, Alte Schule Moorburg",,257350,53.494865,9.927744,1
+"Hamburg, Alte Schule Neuland",,288255,53.470463,10.027449,1
+"Hamburg, Alte Schule Reitbrook",,559272,53.468044,10.148812,1
+"Hamburg, Alte Schule Seefeld",,472618,53.44401,10.164312,1
+"Hamburg, Alte Twiete",,502431,53.41923,10.20139,1
+"Hamburg, Altengamme (Feuerwehr)",,317599,53.430325,10.274404,1
+"Hamburg, Altengamme (Süd)",,526706,53.427605,10.285863,1
+"Hamburg, Altengammer Elbwiesen",,83020,53.426716,10.279336,1
+"Hamburg, Altengammer Löschplatz",,44681,53.428722,10.290726,1
+"Hamburg, Altengammer Marschbahndamm",,385036,53.44157,10.301681,1
+"Hamburg, Altenwerder Hauptstraße (Mitte)",,224300,53.500343,9.921444,1
+"Hamburg, Altenwerder Hauptstraße (Süd)",,180218,53.499012,9.919245,1
+"Hamburg, Alter Bahnhof Kirchwerder",,291396,53.42516,10.200714,1
+"Hamburg, Alter Berner Weg",,389948,53.64403,10.12167,1
+"Hamburg, Alter Fährweg",,28763,53.53181,9.778312,1
+"Hamburg, Alter Fährweg (Kehre)",,584024,53.531925,9.777364,1
+"Hamburg, Alter Güterbahnhof",,322380,53.59108,10.035419,1
+"Hamburg, Alter Teichweg",,398516,53.586643,10.064486,1
+"Hamburg, Alter Zollweg",,512699,53.60791,10.137211,1
+"Hamburg, Altes Estesperrwerk",,70658,53.533638,9.77542,1
+"Hamburg, Altes Rathaus Rahlstedt",,213526,53.60229,10.159025,1
+"Hamburg, Altona (Fischmarkt)",,314450,53.54394,9.952231,1
+"Hamburg, Altonaer Poststraße",,383647,53.55011,9.940314,1
+"Hamburg, Altwiedenthaler Straße",,241614,53.478085,9.888246,1
+"Hamburg, Aluminiumwerk",,376369,53.5178,9.88953,1
+"Hamburg, Am Altenwerder Kirchtal",,12214,53.507046,9.921605,1
+"Hamburg, Am Altenwerder Kirchtal (Süd)",,307026,53.503952,9.921839,1
+"Hamburg, Am Baum",,398956,53.48927,10.225804,1
+"Hamburg, Am Bergedorfer Hafen",,524674,53.48828,10.206234,1
+"Hamburg, Am Born",,127849,53.554386,9.924007,1
+"Hamburg, Am Botterbarg",,171359,53.574856,9.83493,1
+"Hamburg, Am Callabrack",,386918,53.48245,10.009773,1
+"Hamburg, Am Damm",,634746,53.63197,10.089165,1
+"Hamburg, Am Dornberg",,386351,53.60171,10.108206,1
+"Hamburg, Am Elisabethgehölz",,640528,53.5572,10.062056,1
+"Hamburg, Am Frankenberg",,590012,53.436367,9.985521,1
+"Hamburg, Am Fuchsberg",,200993,53.46524,9.948314,1
+"Hamburg, Am Gehöckel",,646222,53.640087,10.054598,1
+"Hamburg, Am Genter Ufer",,345146,53.515553,9.895663,1
+"Hamburg, Am Gleisdreieck",,238730,53.49552,10.129182,1
+"Hamburg, Am Gnadenberg",,325256,53.638107,10.035483,1
+"Hamburg, Am Güterbahnhof",,97479,53.485233,10.201824,1
+"Hamburg, Am Hegen",,27850,53.589096,10.180486,1
+"Hamburg, Am Hehsel",,197333,53.647137,10.056286,1
+"Hamburg, Am Hirschpark",,172877,53.55665,9.821262,1
+"Hamburg, Am Hohen Feld",,212696,53.57103,10.115585,1
+"Hamburg, Am Hohen Hause (Rentenversicherung)",,465256,53.592354,10.109818,1
+"Hamburg, Am Horner Moor",,148973,53.55461,10.100364,1
+"Hamburg, Am Husarendenkmal",,173599,53.56477,10.077928,1
+"Hamburg, Am Isfeld",,251605,53.571632,9.840875,1
+"Hamburg, Am Jenfelder Moor",,626283,53.57651,10.113796,1
+"Hamburg, Am Kaiserkai (Elbphilharmonie)",,490351,53.542717,9.985572,1
+"Hamburg, Am Kroog",,236212,53.609497,10.141137,1
+"Hamburg, Am Langberg",,85419,53.51598,10.157843,1
+"Hamburg, Am Licentiatenberg",,585253,53.614178,9.983626,1
+"Hamburg, Am Lilienberg",,608792,53.584377,9.775443,1
+"Hamburg, Am Mühlenbach",,622925,53.53101,10.154347,1
+"Hamburg, Am Neumarkt 63",,111885,53.575672,10.096669,1
+"Hamburg, Am Ohlendorffturm",,243232,53.59487,10.168745,1
+"Hamburg, Am Papenbrack",,36224,53.48807,10.009012,1
+"Hamburg, Am Pavillon",,77663,53.433926,9.968767,1
+"Hamburg, Am Pfeilshof",,30958,53.640675,10.098401,1
+"Hamburg, Am Pulverhof",,454828,53.592873,10.137441,1
+"Hamburg, Am Pulverhof (Mitte)",,131613,53.59407,10.13446,1
+"Hamburg, Am Radeland",,445546,53.47181,9.925645,1
+"Hamburg, Am Rosengarten",,357681,53.52628,9.822076,1
+"Hamburg, Am Sandtorkai",,446941,53.54315,9.991713,1
+"Hamburg, Am Schilfpark",,282900,53.47976,10.204636,1
+"Hamburg, Am Schleusengraben",,534524,53.47741,10.206347,1
+"Hamburg, Am Schulwald",,615954,53.6501,10.027232,1
+"Hamburg, Am Stadtrand",,317625,53.588886,10.098869,1
+"Hamburg, Am Stühm-Süd",,470547,53.627785,10.09991,1
+"Hamburg, Am Volkspark",,198862,53.585506,9.908287,1
+"Hamburg, Ameisweg",,275768,53.47716,10.181578,1
+"Hamburg, Amtsstraße",,249920,53.596436,10.163366,1
+"Hamburg, An de Geest",,133770,53.469944,9.819345,1
+"Hamburg, An den Wiesen",,475010,53.479313,9.855676,1
+"Hamburg, An der Bergkoppel",,570568,53.500668,10.198794,1
+"Hamburg, An der Eiche",,144914,53.43418,10.010629,1
+"Hamburg, An der Lohe",,513668,53.623844,9.95264,1
+"Hamburg, An der Pollhofsbrücke",,216184,53.479706,10.231146,1
+"Hamburg, An der Schleemer Mühle",,419351,53.53726,10.115948,1
+"Hamburg, Andreas-Meyer-Straße (Mitte)",,136854,53.518078,10.078294,1
+"Hamburg, Andreas-Meyer-Straße (Ost)",,625181,53.51601,10.081634,1
+"Hamburg, Andreas-Meyer-Straße (West)",,263095,53.522053,10.071882,1
+"Hamburg, Angerburger Straße",,21414,53.591743,10.087505,1
+"Hamburg, Anna-Susanna-Stieg",,136951,53.64303,9.921439,1
+"Hamburg, Anne-Frank-Straße",,556019,53.570396,9.789316,1
+"Hamburg, Anton-Rée-Schule",,180129,53.48241,10.17446,1
+"Hamburg, Apostelkirche",,469728,53.575317,9.945237,1
+"Hamburg, Appelbütteler Weg",,180074,53.436623,9.9346,1
+"Hamburg, Archenholzstraße (Ost)",,540,53.544636,10.125496,1
+"Hamburg, Arenen",,4833,53.588585,9.899353,1
+"Hamburg, Arenen (Luftbadweg)",,559136,53.58416,9.897443,1
+"Hamburg, Argentinienbrücke",,419970,53.528214,9.976082,1
+"Hamburg, Argentinienbrücke (Fähre)",,94869,53.528,9.974493,1
+"Hamburg, Armbruststraße",,304731,53.57422,9.939929,1
+"Hamburg, Arningstraße",,381004,53.537045,9.985199,1
+"Hamburg, Arningstraße (Fähre)",,97269,53.537148,9.984568,1
+"Hamburg, Arnswalder Straße",,53183,53.613667,10.151464,1
+"Hamburg, Arp-Schnitger-Stieg",,434720,53.513695,9.811446,1
+"Hamburg, Aschenputtelstraße",,167655,53.562473,10.119646,1
+"Hamburg, Asklepios Westklinikum (Mitte)",,216505,53.582478,9.778926,1
+"Hamburg, Asklepios Westklinikum (Ost)",,626494,53.581997,9.782224,1
+"Hamburg, Asklepios Westklinikum (West)",,130395,53.58225,9.773637,1
+"Hamburg, Auedeich",,174963,53.526787,9.884711,1
+"Hamburg, Auenstraße",,541734,53.57242,10.050693,1
+"Hamburg, Auf dem Sande (Speicherstadt)",,577588,53.54387,9.989883,1
+"Hamburg, Auf dem Sülzbrack",,248128,53.40755,10.177812,1
+"Hamburg, Auf der Bojewiese",,258590,53.496716,10.177827,1
+"Hamburg, Auf der Hohen Schaar",,531764,53.497566,9.963503,1
+"Hamburg, Auf der Jahnhöhe",,97607,53.453876,9.929665,1
+"Hamburg, August-Bebel-Straße",,493771,53.48318,10.233929,1
+"Hamburg, August-Kirch-Straße",,458285,53.571438,9.89769,1
+"Hamburg, Augustastraße",,621997,53.49085,10.215302,1
+"Hamburg, Auguste-Baur-Straße",,116522,53.559147,9.813493,1
+"Hamburg, Augustenburger Straße",,609505,53.56544,9.944624,1
+"Hamburg, Aurubis Werk Ost",,56343,53.51537,10.03535,1
+"Hamburg, Aurubis Zentrale",,543579,53.5216,10.033829,1
+"Hamburg, Ausschläger Allee (Kfz-Verwahrstelle)",,276743,53.53102,10.060043,1
+"Hamburg, Ausschläger Weg (LBV)",,406461,53.547573,10.038294,1
+"Hamburg, Außenmühle",,420922,53.45054,9.981951,1
+"Hamburg, Averhoffstraße",,550632,53.570637,10.01682,1
+"Hamburg, Axel-Springer-Platz",,375565,53.552208,9.985521,1
+"Hamburg, BAB-Auffahrt Horn",,51689,53.559444,10.067757,1
+"Hamburg, BAB-Auffahrt Stellingen",,514522,53.596596,9.92221,1
+"Hamburg, BAB-Auffahrt Waltershof",,332543,53.514236,9.911917,1
+"Hamburg, BAB-Auffahrt Waltershof (N)",,518860,53.5144,9.912433,1
+"Hamburg, BG Klinikum Boberg",,603368,53.5076,10.180179,1
+"Hamburg, Baakenhöft",,481608,53.538307,10.008576,1
+"Hamburg, Bachstraße",,155892,53.577038,10.024855,1
+"Hamburg, Bahngärten",,323316,53.57039,10.077814,1
+"Hamburg, Bahnübergang Sieversstücken",,426792,53.581223,9.78523,1
+"Hamburg, Bahrenfelder Marktplatz",,339113,53.56447,9.901784,1
+"Hamburg, Bahrenfelder Straße",,445254,53.55042,9.928266,1
+"Hamburg, Banksstraße (Großmarkt)",,216852,53.544655,10.015005,1
+"Hamburg, Bargkoppelweg",,70210,53.626,10.161181,1
+"Hamburg, Bargteheider Straße (Nord)",,336649,53.6139,10.15549,1
+"Hamburg, Bargteheider Straße (Süd)",,246004,53.602455,10.145464,1
+"Hamburg, Barmbek",,430866,53.587406,10.044456,1
+"Hamburg, Barmwisch",,216812,53.597027,10.091782,1
+"Hamburg, Baron-Voght-Straße (Mitte)",,187548,53.557533,9.865011,1
+"Hamburg, Bartholomäus-Therme",,50620,53.577843,10.028307,1
+"Hamburg, Basselweg",,409436,53.587402,9.931931,1
+"Hamburg, Bauerberg",,321056,53.550255,10.078464,1
+"Hamburg, Bauernholztal",,192345,53.456356,9.866731,1
+"Hamburg, Bauernrosenweg",,82028,53.598396,10.065824,1
+"Hamburg, Bauernstegel",,111436,53.47977,10.054456,1
+"Hamburg, Baumacker",,309877,53.6207,9.897648,1
+"Hamburg, Baumläuferweg",,416620,53.604355,9.876574,1
+"Hamburg, Bebelallee",,323265,53.605705,9.996255,1
+"Hamburg, Beckers Treppe",,553211,53.55823,9.808044,1
+"Hamburg, Beerbuschredder",,559604,53.677715,10.119054,1
+"Hamburg, Beerentalweg",,319256,53.448345,9.94291,1
+"Hamburg, Beethovenstraße",,612646,53.574673,10.021854,1
+"Hamburg, Behnsrade",,236762,53.512226,10.199181,1
+"Hamburg, Behnstraße",,352844,53.546116,9.943002,1
+"Hamburg, Behringstraße (AK Altona)",,561865,53.557037,9.90078,1
+"Hamburg, Behrmannplatz",,122575,53.599094,9.957596,1
+"Hamburg, Bei St. Annen",,262493,53.545525,9.997209,1
+"Hamburg, Bei der Blauen Brücke",,293884,53.436775,10.237037,1
+"Hamburg, Beim Avenberg",,508114,53.4711,10.082554,1
+"Hamburg, Beim Bieberhof",,208689,53.485348,10.072161,1
+"Hamburg, Beim Farenland",,446743,53.635387,10.13597,1
+"Hamburg, Beim Hammer Marktplatz",,472393,53.557114,10.054041,1
+"Hamburg, Bekkamp",,210302,53.576004,10.143646,1
+"Hamburg, Bekkampsweg",,85340,53.574978,10.138923,1
+"Hamburg, Bekstück",,12493,53.609947,9.964731,1
+"Hamburg, Bergheide",,482393,53.46779,9.854736,1
+"Hamburg, Bergstedter Alte Landstraße",,124098,53.67402,10.13309,1
+"Hamburg, Bergstedter Markt",,131710,53.67022,10.126208,1
+"Hamburg, Berkefeldweg",,441112,53.470654,9.952697,1
+"Hamburg, Berliner Platz",,524412,53.583984,10.141506,1
+"Hamburg, Berliner Tor",,283444,53.553047,10.024627,1
+"Hamburg, Bernadottestraße",,266221,53.548634,9.890056,1
+"Hamburg, Berne",,44083,53.627068,10.139878,1
+"Hamburg, Berner Chaussee",,208178,53.619076,10.080355,1
+"Hamburg, Berner Heerweg",,139179,53.618595,10.126405,1
+"Hamburg, Berner Straße",,138915,53.618973,10.149236,1
+"Hamburg, Bernhard-Nocht-Straße",,301658,53.547108,9.962908,1
+"Hamburg, Bernstorffstraße",,6665,53.56011,9.959838,1
+"Hamburg, Bertha-Uhl-Kamp",,359856,53.56507,9.870372,1
+"Hamburg, Berufsförderungswerk Hamburg",,562275,53.611996,10.115441,1
+"Hamburg, Berufsschulcampus Elbinsel",,208541,53.500515,10.001577,1
+"Hamburg, Berufsschulzentrum Bergedorf",,279444,53.491673,10.182629,1
+"Hamburg, Berzeliusstraße (Mitte)",,227007,53.534145,10.097209,1
+"Hamburg, Berzeliusstraße (West)",,641357,53.535736,10.088246,1
+"Hamburg, Berzeliusstraße 42",,14384,53.5346,10.094672,1
+"Hamburg, Bethesda Krankenhaus Bergedorf",,63025,53.48593,10.234084,1
+"Hamburg, Bethesdastraße",,16243,53.558258,10.039221,1
+"Hamburg, Beutnerring",,218976,53.443295,9.955702,1
+"Hamburg, Beutnerring (Kehre)",,23474,53.44358,9.953676,1
+"Hamburg, Bezirksamt Eimsbüttel",,100780,53.572342,9.978527,1
+"Hamburg, Bezirksamt Hamburg-Nord",,212389,53.590515,9.987395,1
+"Hamburg, Bf. Altona",,399812,53.55154,9.934296,1
+"Hamburg, Bf. Dammtor",,424045,53.561047,9.990305,1
+"Hamburg, Bf. Harburg (Großmoordamm)",,150814,53.45759,9.99336,1
+"Hamburg, Bf. Hasselbrook",,140107,53.565594,10.057301,1
+"Hamburg, Bf. Rahlstedt (Amtsstraße)",,548036,53.60365,10.153971,1
+"Hamburg, Bf. Rahlstedt (Doberaner Weg)",,158455,53.604465,10.153283,1
+"Hamburg, Bf. Tonndorf",,165403,53.58643,10.122454,1
+"Hamburg, Bf. Tonndorf (Tonndorfer Hauptstraße)",,278085,53.585606,10.123308,1
+"Hamburg, Biedermannplatz",,574697,53.579872,10.032292,1
+"Hamburg, Billbrookdeich",,256557,53.535892,10.076967,1
+"Hamburg, Billbrookdeich (Ost)",,319754,53.531006,10.111259,1
+"Hamburg, Billbrookdeich 210",,280856,53.534744,10.104992,1
+"Hamburg, Bille-Bad",,605523,53.493053,10.214868,1
+"Hamburg, Billerhuder Insel",,162650,53.54424,10.058714,1
+"Hamburg, Billhorner Brückenstraße",,108171,53.540394,10.032009,1
+"Hamburg, Billhorner Deich",,368061,53.534184,10.042491,1
+"Hamburg, Billhorner Deich (Wasserforum)",,229848,53.533688,10.041544,1
+"Hamburg, Billhorner Mühlenweg",,311947,53.536453,10.034915,1
+"Hamburg, Billhorner Röhrendamm",,513291,53.537834,10.030861,1
+"Hamburg, Billstedt",,390771,53.542263,10.107411,1
+"Hamburg, Billstedter Hauptstraße",,616095,53.540302,10.100612,1
+"Hamburg, Billstedter Mühlenweg",,257073,53.533318,10.115392,1
+"Hamburg, Billstieg",,407655,53.534096,10.108459,1
+"Hamburg, Billstieg (Kehre)",,160816,53.533573,10.109516,1
+"Hamburg, Billstraße",,123752,53.54141,10.033376,1
+"Hamburg, Billwerder (Feuerwehr)",,20489,53.504555,10.135662,1
+"Hamburg, Billwerder Billdeich (Ost)",,26615,53.4962,10.179817,1
+"Hamburg, Billwerder Billdeich (West)",,357559,53.52341,10.112282,1
+"Hamburg, Billwerder Billdeich 174",,476940,53.509834,10.129381,1
+"Hamburg, Billwerder Billdeich 318",,177271,53.50127,10.147495,1
+"Hamburg, Billwerder Billdeich 356",,12143,53.50229,10.153596,1
+"Hamburg, Billwerder Bucht",,304474,53.523037,10.067579,1
+"Hamburg, Billwerder Kirche",,380680,53.514362,10.127723,1
+"Hamburg, Billwerder Ring (Ost)",,9855,53.494347,10.121631,1
+"Hamburg, Billwerder Straße (HAW)",,94336,53.492878,10.198327,1
+"Hamburg, Billwiese",,112424,53.491226,10.188448,1
+"Hamburg, Bindfeldweg",,515364,53.62241,9.941603,1
+"Hamburg, Binnenfeldredder",,231172,53.503654,10.210635,1
+"Hamburg, Birkenallee (Süd)",,139,53.597504,10.141005,1
+"Hamburg, Birtstraße",,75279,53.575405,10.092194,1
+"Hamburg, Bismarckstraße",,91688,53.57669,9.969378,1
+"Hamburg, Bissingstraße",,478608,53.469563,9.962963,1
+"Hamburg, Björnsonweg",,435994,53.566288,9.793647,1
+"Hamburg, Blankenese (Fähre)",,55099,53.557034,9.803783,1
+"Hamburg, Blankeneser Friedhof",,359368,53.576363,9.802562,1
+"Hamburg, Blaue Brücke",,192227,53.538895,10.083877,1
+"Hamburg, Blaumeisenweg",,518815,53.45107,9.943287,1
+"Hamburg, Bleickenallee (Kinderkrankenhaus)",,299530,53.55115,9.918369,1
+"Hamburg, Blohmstraße",,171949,53.467182,9.981838,1
+"Hamburg, Blomkamp",,41065,53.577286,9.859965,1
+"Hamburg, Blumensand Abzweigung",,140980,53.50035,9.968533,1
+"Hamburg, Blättnerring",,535571,53.43323,9.986472,1
+"Hamburg, Blücherstraße",,83620,53.54922,9.950283,1
+"Hamburg, Boberg",,619864,53.51442,10.167313,1
+"Hamburg, Boberger Drift",,608869,53.51365,10.17088,1
+"Hamburg, Boberger Furtweg",,598666,53.506393,10.164032,1
+"Hamburg, Bogenstraße",,262283,53.574013,9.972849,1
+"Hamburg, Bojendamm",,356504,53.50265,10.170712,1
+"Hamburg, Bojeweg",,522356,53.500538,10.174828,1
+"Hamburg, Boltenhagener Straße",,507760,53.60011,10.137445,1
+"Hamburg, Bookweetenkamp",,224152,53.57592,9.749125,1
+"Hamburg, Borchertring",,370192,53.614796,10.067446,1
+"Hamburg, Borgfelder Straße",,278235,53.55471,10.03364,1
+"Hamburg, Borghorst",,582457,53.439953,10.303151,1
+"Hamburg, Bornkampsweg",,215497,53.563976,9.919296,1
+"Hamburg, Bornmühlenweg",,203559,53.49935,10.210542,1
+"Hamburg, Borsigstraße (Mitte)",,290422,53.5332,10.074667,1
+"Hamburg, Borstelmannsweg",,311232,53.550404,10.049664,1
+"Hamburg, Borstelmannsweg 133",,82111,53.548187,10.051058,1
+"Hamburg, Bostelbek",,304899,53.47085,9.932039,1
+"Hamburg, Bovestraße",,512714,53.568977,10.085613,1
+"Hamburg, Braamkamp",,153043,53.601585,9.996808,1
+"Hamburg, Brabandstraße",,64721,53.613373,10.008841,1
+"Hamburg, Bramfelder Dorfplatz",,312681,53.614872,10.076273,1
+"Hamburg, Bramfelder See",,423527,53.618668,10.073695,1
+"Hamburg, Bramkoppel",,343151,53.661568,10.106993,1
+"Hamburg, Brandstwiete",,529700,53.547043,9.997064,1
+"Hamburg, Braune Brücke",,353594,53.54676,10.061086,1
+"Hamburg, Bredenbekstraße",,275093,53.692806,10.131233,1
+"Hamburg, Bredowbrücke",,219758,53.529526,10.076534,1
+"Hamburg, Bredowstraße (Mitte)",,578604,53.52432,10.083836,1
+"Hamburg, Bredowstraße (Ost)",,189750,53.51917,10.096671,1
+"Hamburg, Breitenfelder Straße",,622209,53.587135,9.975492,1
+"Hamburg, Breslauer Straße",,488450,53.520355,9.958863,1
+"Hamburg, Brillkamp",,371179,53.64664,10.049136,1
+"Hamburg, Brockdorffstraße",,562957,53.59647,10.152537,1
+"Hamburg, Brombeerweg (West)",,66095,53.62787,10.026722,1
+"Hamburg, BrookHus",,244234,53.71425,10.139533,1
+"Hamburg, Brucknerstraße (Arbeitsgerichte)",,638294,53.583565,10.033423,1
+"Hamburg, Brunnenstieg",,373312,53.53385,9.870787,1
+"Hamburg, Brunsberg",,312072,53.594154,9.966655,1
+"Hamburg, Brunskamp",,306545,53.59385,10.181344,1
+"Hamburg, Brünschentwiete",,557632,53.583153,9.7419,1
+"Hamburg, Bubendey-Ufer",,525574,53.540123,9.885367,1
+"Hamburg, Bubendey-Ufer (Fähre)",,43356,53.539482,9.88472,1
+"Hamburg, Buchenkamp",,211868,53.65294,10.184893,1
+"Hamburg, Buchenstieg",,221492,53.64824,10.185723,1
+"Hamburg, Buchholzer Weg",,27753,53.43171,9.983503,1
+"Hamburg, Buchwaldstraße",,325613,53.59928,10.162704,1
+"Hamburg, Buckhorn",,291779,53.66435,10.155877,1
+"Hamburg, Buddenbrookweg",,589645,53.626236,10.116724,1
+"Hamburg, Bullenhuser Damm (Ost)",,555264,53.54216,10.051934,1
+"Hamburg, Bullenhuser Damm (West)",,220562,53.542664,10.04282,1
+"Hamburg, Bullenkoppel",,234543,53.595306,10.091521,1
+"Hamburg, Bundesstraße",,471830,53.569202,9.974067,1
+"Hamburg, Burbekstraße",,104199,53.616108,9.874913,1
+"Hamburg, Burgstraße",,477081,53.555756,10.04191,1
+"Hamburg, Burgwedelkamp",,447226,53.64273,9.915801,1
+"Hamburg, Burgwedeltwiete",,404360,53.641937,9.911556,1
+"Hamburg, Burgweide",,388786,53.486595,10.022823,1
+"Hamburg, Burmesterstraße",,525816,53.587444,10.036916,1
+"Hamburg, Busbrookhöhe",,572592,53.62192,10.130288,1
+"Hamburg, Buschrosenweg",,365434,53.601643,10.062552,1
+"Hamburg, Böcklerstraße",,538743,53.56344,10.107687,1
+"Hamburg, Böcklinstraße",,231181,53.56297,9.887127,1
+"Hamburg, Böckmannstraße",,246837,53.55488,10.015153,1
+"Hamburg, Bökenbarg",,380382,53.69658,10.100372,1
+"Hamburg, Böttcherkamp",,446845,53.59347,9.852923,1
+"Hamburg, Böttgerstraße",,459508,53.56835,9.995527,1
+"Hamburg, Bünte",,595004,53.455273,9.943109,1
+"Hamburg, Bürgerweide (Ost)",,271777,53.559242,10.03874,1
+"Hamburg, Carl-Bremer-Ring",,625991,53.603027,10.084528,1
+"Hamburg, Carl-Cohn-Straße",,398253,53.607338,10.005449,1
+"Hamburg, Carlsbrack",,106031,53.40358,10.196663,1
+"Hamburg, Caspar-Voght-Straße",,52469,53.560364,10.061517,1
+"Hamburg, Celsiusweg",,408443,53.56197,9.92295,1
+"Hamburg, Charitas-Bischoff-Treppe",,46716,53.559246,9.80512,1
+"Hamburg, Christuskirche",,475889,53.569603,9.962368,1
+"Hamburg, Claudiusstraße",,432566,53.56476,10.071226,1
+"Hamburg, Claus-Ferck-Straße",,90667,53.651722,10.167066,1
+"Hamburg, Container Terminal Burchardkai",,541625,53.52665,9.929721,1
+"Hamburg, Container Terminal EUROGATE",,624278,53.523037,9.924048,1
+"Hamburg, Cornehlsweg",,276131,53.647034,10.177946,1
+"Hamburg, Cranz (Fähre)",,357795,53.535374,9.779358,1
+"Hamburg, Cranzer Elbdeich",,245898,53.540363,9.774653,1
+"Hamburg, Culinstraße",,205100,53.551964,10.073196,1
+"Hamburg, Curslack (Feuerwehr)",,321012,53.450047,10.222039,1
+"Hamburg, Curslacker Brückendamm",,208089,53.46294,10.199357,1
+"Hamburg, Curslacker Deich 200",,224085,53.452732,10.219753,1
+"Hamburg, Curslacker Deich 336",,406204,53.463787,10.208009,1
+"Hamburg, Curslacker Heerweg 118",,628295,53.459167,10.234421,1
+"Hamburg, Curslacker Heerweg 258",,103907,53.473587,10.239117,1
+"Hamburg, Curt-Bär-Weg",,606980,53.48401,10.158719,1
+"Hamburg, Cuxhavener Straße (West)",,386732,53.467327,9.809145,1
+"Hamburg, Dahlgrünring",,74441,53.483414,10.018633,1
+"Hamburg, Dahrendorfweg",,46752,53.5569,10.106458,1
+"Hamburg, Daimlerstraße",,88209,53.55604,9.921478,1
+"Hamburg, Dakarweg",,445625,53.602783,10.025297,1
+"Hamburg, Dallbregen",,461356,53.61889,9.896189,1
+"Hamburg, Dannerallee",,251770,53.559044,10.108644,1
+"Hamburg, Darbovenstieg",,609447,53.572025,9.824428,1
+"Hamburg, Davidstraße",,431389,53.549427,9.961648,1
+"Hamburg, Deelwisch",,188924,53.59836,9.941945,1
+"Hamburg, Deepenbrook (Möbel Höffner)",,126258,53.621017,9.90837,1
+"Hamburg, Dehnhaide",,293697,53.579144,10.04088,1
+"Hamburg, Deichtorhallen",,80087,53.546288,10.007863,1
+"Hamburg, Dempwolffstraße",,389982,53.45787,9.9658,1
+"Hamburg, Denickestraße",,9868,53.458984,9.956621,1
+"Hamburg, Denksteinweg",,261815,53.5711,10.131135,1
+"Hamburg, Dernauer Straße",,202405,53.58068,10.08632,1
+"Hamburg, Dessauer Straße",,244891,53.523514,10.007578,1
+"Hamburg, Diagonalstraße",,565004,53.549255,10.059458,1
+"Hamburg, Dimpfelweg",,445808,53.552814,10.049256,1
+"Hamburg, Distelacker",,8697,53.46835,9.855666,1
+"Hamburg, Distelkoppel",,458154,53.635937,10.043473,1
+"Hamburg, Dockland (Fischereihafen)",,342600,53.543083,9.935814,1
+"Hamburg, Domstraße",,75381,53.548214,9.994587,1
+"Hamburg, Dorferbogen",,368100,53.468094,10.067193,1
+"Hamburg, Dornröschenweg",,523831,53.648354,9.920663,1
+"Hamburg, Dorotheenstraße",,406366,53.587288,10.004988,1
+"Hamburg, Dortmunder Straße",,215193,53.673626,9.994302,1
+"Hamburg, Dradenau",,327896,53.525143,9.900103,1
+"Hamburg, Dradenauer Deichweg",,397867,53.51125,9.900577,1
+"Hamburg, Dragonerstall",,418014,53.555622,9.982055,1
+"Hamburg, Dratelnstraße",,306159,53.498722,9.999129,1
+"Hamburg, Dreyerpfad",,374371,53.6535,10.006805,1
+"Hamburg, Drosselstieg",,115128,53.671318,10.061128,1
+"Hamburg, Durchdeich (Süd)",,642958,53.44121,10.121585,1
+"Hamburg, Durchdeich 141",,34441,53.45197,10.135808,1
+"Hamburg, Dörpsweg",,331185,53.611053,9.911525,1
+"Hamburg, Düpenautal",,327702,53.568703,9.834869,1
+"Hamburg, EEZ (Julius-Brecht-Straße)",,146887,53.569977,9.861431,1
+"Hamburg, EKZ Hummelsbüttel",,236918,53.642536,10.048006,1
+"Hamburg, EUROPA-CENTER Air30",,513035,53.537807,9.864247,1
+"Hamburg, Ebeersreye",,614579,53.595306,10.114684,1
+"Hamburg, Ebertallee",,89350,53.56785,9.888542,1
+"Hamburg, Eckerkoppel",,54758,53.600002,10.118061,1
+"Hamburg, Eckerwiese",,260699,53.59913,10.108606,1
+"Hamburg, Eckhoffplatz (Lurup Center)",,13379,53.590897,9.873577,1
+"Hamburg, Eddelbüttelkamp",,307578,53.439217,9.965422,1
+"Hamburg, Eekholtesweg",,603238,53.54151,10.083597,1
+"Hamburg, Eggerskamp",,51278,53.610718,10.156506,1
+"Hamburg, Ehestorfer Weg (Mitte)",,16381,53.455006,9.937112,1
+"Hamburg, Eichbaumsee",,586335,53.487503,10.104712,1
+"Hamburg, Eichberg",,128649,53.61298,10.16506,1
+"Hamburg, Eichenallee",,255043,53.62711,10.077023,1
+"Hamburg, Eichenlohweg",,453850,53.60793,10.044474,1
+"Hamburg, Eichholzfelder Deich",,55820,53.479305,10.091168,1
+"Hamburg, Eichtalstraße",,494880,53.57793,10.089149,1
+"Hamburg, Eichwischen",,136223,53.614403,10.171159,1
+"Hamburg, Eidelstedter Brook",,82152,53.622517,9.908734,1
+"Hamburg, Eidelstedter Platz",,124773,53.608177,9.904604,1
+"Hamburg, Eidelstedter Weg",,43947,53.580894,9.957124,1
+"Hamburg, Eilbeker Weg",,114700,53.568382,10.043408,1
+"Hamburg, Eimsbütteler Marktplatz",,113352,53.573227,9.946292,1
+"Hamburg, Einhausring",,367518,53.434048,9.989906,1
+"Hamburg, Einkaufszentrum Steilshoop",,453248,53.61037,10.058752,1
+"Hamburg, Einlagedeich",,97709,53.479607,10.045565,1
+"Hamburg, Eisenhansweg",,177510,53.645336,9.921958,1
+"Hamburg, Eissporthalle",,279154,53.604137,10.11966,1
+"Hamburg, Eißendorfer Mühlenweg",,345831,53.448177,9.961742,1
+"Hamburg, Eißendorfer Pferdeweg (Mitte)",,512825,53.462788,9.949801,1
+"Hamburg, Eißendorfer Pferdeweg (Nord)",,42525,53.47103,9.945688,1
+"Hamburg, Eißendorfer Straße (TU Hamburg)",,144824,53.459126,9.970451,1
+"Hamburg, Elbberg",,493691,53.5453,9.931367,1
+"Hamburg, Elbbrücken",,550107,53.53523,10.023623,1
+"Hamburg, Elbe-Einkaufszentrum",,641387,53.571808,9.861906,1
+"Hamburg, Elbe-Werkstätten Nord",,335056,53.639015,10.133482,1
+"Hamburg, Elbhöhenweg",,171606,53.56192,9.792463,1
+"Hamburg, Elbphilharmonie",,623867,53.54033,9.986437,1
+"Hamburg, Elbschloßstraße (Seegerichtshof)",,412124,53.54914,9.85277,1
+"Hamburg, Elbuferweg",,322294,53.5543,9.820719,1
+"Hamburg, Elisabeth-von-Thadden-Kehre",,576573,53.480183,10.167457,1
+"Hamburg, Ellernreihe",,556726,53.606274,10.081272,1
+"Hamburg, Ellernreihe (Mitte)",,645298,53.608402,10.080218,1
+"Hamburg, Elversweg",,591899,53.47365,10.079426,1
+"Hamburg, Emder Straße",,632306,53.52993,9.878865,1
+"Hamburg, Emekesweg",,208616,53.646786,10.077192,1
+"Hamburg, Emilie-Günther-Weg",,503708,53.50247,10.194776,1
+"Hamburg, Emilienstraße",,512250,53.571655,9.952754,1
+"Hamburg, Emkendorfstraße",,634113,53.55561,9.890655,1
+"Hamburg, Emmauskirche",,113739,53.59013,10.10828,1
+"Hamburg, Energie-Campus Bergedorf",,452054,53.477154,10.203794,1
+"Hamburg, Engelbrechtweg",,512551,53.598118,9.856582,1
+"Hamburg, Entenwerder Stieg",,487353,53.53036,10.042819,1
+"Hamburg, Eppendorfer Marktplatz",,17343,53.59282,9.988974,1
+"Hamburg, Eppendorfer Park (UKE)",,289561,53.590084,9.978595,1
+"Hamburg, Eppendorfer Weg (Ost)",,126420,53.582,9.971887,1
+"Hamburg, Erdkampsweg (Ost)",,104161,53.628128,10.024506,1
+"Hamburg, Erich-Ziegel-Ring",,569732,53.612106,10.063842,1
+"Hamburg, Ericusspitze",,7207,53.546047,10.003195,1
+"Hamburg, Erlenbruch",,646796,53.481964,9.86763,1
+"Hamburg, Ermlandweg",,401786,53.64902,9.992316,1
+"Hamburg, Erna-Mohr-Kehre",,643938,53.478542,10.177353,1
+"Hamburg, Ernastraße",,34023,53.518646,9.983159,1
+"Hamburg, Ernst-August-Schleuse",,44202,53.524113,9.981913,1
+"Hamburg, Ernst-August-Straße",,205819,53.549553,9.898283,1
+"Hamburg, Eschenhofweg",,610703,53.47138,10.232622,1
+"Hamburg, Essener Straße",,122309,53.67103,9.992137,1
+"Hamburg, Estebogen",,108453,53.530678,9.772033,1
+"Hamburg, Euckenstraße",,643847,53.58865,10.125415,1
+"Hamburg, Eulenkamp",,152168,53.58333,10.072693,1
+"Hamburg, Eulenkrugstraße",,388731,53.646393,10.158662,1
+"Hamburg, Eurokombi",,147238,53.53435,9.887313,1
+"Hamburg, Eva-Rühmkorf-Straße",,300405,53.561375,9.940549,1
+"Hamburg, Eversween (Mitte)",,12165,53.489105,9.978603,1
+"Hamburg, Eversween (Nord)",,134498,53.496937,9.97598,1
+"Hamburg, Eversween (Süd)",,282634,53.484093,9.979391,1
+"Hamburg, Fabriciusstraße",,284046,53.608536,10.067454,1
+"Hamburg, Fabriciusstraße (Mitte)",,559359,53.604847,10.065926,1
+"Hamburg, Fabrik",,565487,53.55651,9.929546,1
+"Hamburg, Fahrenkrön",,86146,53.61935,10.096608,1
+"Hamburg, Falkenstein",,315711,53.566776,9.779377,1
+"Hamburg, Falkensteiner Ufer (ElbeCamp)",,446081,53.564987,9.763934,1
+"Hamburg, Falkentaler Weg",,326530,53.5595,9.790984,1
+"Hamburg, Fangdieckstraße",,306222,53.601345,9.889548,1
+"Hamburg, Fanny-Lewald-Ring",,289990,53.47667,10.176021,1
+"Hamburg, Farmsen",,23336,53.607258,10.117618,1
+"Hamburg, Farnhornweg",,557697,53.59357,9.88292,1
+"Hamburg, Farnstieg",,336884,53.57635,9.752907,1
+"Hamburg, Fasanengrund",,440929,53.480125,10.076006,1
+"Hamburg, Fehrsweg",,314282,53.631744,10.020058,1
+"Hamburg, Feiningerstraße",,542929,53.529747,10.14831,1
+"Hamburg, Feldblumenweg",,480138,53.66459,10.106588,1
+"Hamburg, Feldrosenweg",,236491,53.613884,9.885505,1
+"Hamburg, Felix-Jud-Ring (Mitte)",,180378,53.481297,10.15387,1
+"Hamburg, Fersenweg",,133685,53.432858,10.158169,1
+"Hamburg, Feuerbergstraße",,442868,53.614113,10.035741,1
+"Hamburg, Feuerteichweg",,427597,53.436478,9.966759,1
+"Hamburg, Feuerwehrakademie Hamburg",,8169,53.52669,10.07969,1
+"Hamburg, Fichtestraße",,562524,53.568512,10.051441,1
+"Hamburg, Fiddigshagen",,608695,53.47909,10.197514,1
+"Hamburg, Fiersbarg",,591386,53.689644,10.09621,1
+"Hamburg, Finkenwerder",,543480,53.53638,9.878863,1
+"Hamburg, Finkenwerder (Fähre)",,428936,53.535385,9.878707,1
+"Hamburg, Finkenwerder Landscheideweg",,485000,53.52821,9.859799,1
+"Hamburg, Fischauktionshalle",,24241,53.545147,9.951821,1
+"Hamburg, Fischbeker Heideweg",,425818,53.459026,9.851489,1
+"Hamburg, Fischbeker Heuweg",,545958,53.47105,9.826685,1
+"Hamburg, Fischbeker Holtweg",,440145,53.467415,9.859713,1
+"Hamburg, Fischbeker Moor (Schule)",,191857,53.473167,9.836471,1
+"Hamburg, Fischers Allee",,453564,53.548203,9.922198,1
+"Hamburg, Fischmarkt",,268703,53.547375,9.950815,1
+"Hamburg, Fiskalische Straße (Energieberg)",,113118,53.51617,10.020429,1
+"Hamburg, Flachsland",,638908,53.58423,10.047256,1
+"Hamburg, Flerrentwiete (Nord)",,163343,53.58311,9.75265,1
+"Hamburg, Flotowstraße",,56443,53.58071,10.025699,1
+"Hamburg, Flottbeker Drift",,548412,53.570667,9.875122,1
+"Hamburg, Flottbeker Kirche",,367845,53.565376,9.877503,1
+"Hamburg, Flughafenstraße",,457236,53.639618,10.012356,1
+"Hamburg, Flurkamp",,327812,53.572758,9.864869,1
+"Hamburg, Flurstraße (Nord)",,381366,53.59341,9.870321,1
+"Hamburg, Flurstraße/Rugenbarg",,112252,53.58545,9.866729,1
+"Hamburg, Flüggestraße",,532037,53.58678,10.03169,1
+"Hamburg, Fockenweide",,349861,53.49036,10.179022,1
+"Hamburg, Fontenay",,393334,53.5648,9.994508,1
+"Hamburg, Foorthkamp",,557595,53.656635,10.004914,1
+"Hamburg, Forstweg",,517188,53.459435,9.93887,1
+"Hamburg, Forum Gymnasium Rahlstedt",,608823,53.600346,10.142642,1
+"Hamburg, Foßredder",,601527,53.647533,10.172652,1
+"Hamburg, Frahmredder",,567176,53.647285,10.102172,1
+"Hamburg, Frahmstraße",,287978,53.56397,9.826194,1
+"Hamburg, Francoper Hinterdeich",,241429,53.496876,9.874444,1
+"Hamburg, Francoper Straße",,272607,53.471394,9.863408,1
+"Hamburg, Frankring",,292058,53.660297,10.156714,1
+"Hamburg, Franzosenheide",,108732,53.63144,9.900204,1
+"Hamburg, Franzosenkoppel",,550449,53.600876,9.880188,1
+"Hamburg, Freegen",,10049,53.440826,10.12937,1
+"Hamburg, Freihafenelbbrücke (Süd)",,295629,53.530857,10.019868,1
+"Hamburg, Freiluftschule Moorwerder",,156139,53.46317,10.06198,1
+"Hamburg, Freizeitbad Bondenwald",,531676,53.626163,9.937152,1
+"Hamburg, Freizeitbad MidSommerland",,231688,53.447754,9.980908,1
+"Hamburg, Freudenthalweg",,136198,53.43935,9.987903,1
+"Hamburg, Frickestraße",,354430,53.59756,9.978496,1
+"Hamburg, Friedensallee",,252863,53.555355,9.926699,1
+"Hamburg, Friedhof Bergedorf",,400238,53.478874,10.249981,1
+"Hamburg, Friedhof Bergedorf (Kapelle 1)",,425994,53.48082,10.245067,1
+"Hamburg, Friedhof Finkenriek",,632570,53.47467,10.01142,1
+"Hamburg, Friedhof Finkenriek (Eingang)",,450762,53.47551,10.004572,1
+"Hamburg, Friedhof Holstenkamp",,255176,53.57174,9.91317,1
+"Hamburg, Friedhof Neuwiedenthal",,4649,53.476295,9.869171,1
+"Hamburg, Friedhof Nienstedten",,426455,53.555473,9.843029,1
+"Hamburg, Friedhof Ohlsdorf (Kapelle 1)",,263738,53.622322,10.040431,1
+"Hamburg, Friedhof Ohlsdorf (Kapelle 10)",,37131,53.619987,10.054807,1
+"Hamburg, Friedhof Ohlsdorf (Kapelle 11)",,400843,53.629555,10.074908,1
+"Hamburg, Friedhof Ohlsdorf (Kapelle 12)",,135353,53.62444,10.070365,1
+"Hamburg, Friedhof Ohlsdorf (Kapelle 13)",,525900,53.62433,10.076589,1
+"Hamburg, Friedhof Ohlsdorf (Kapelle 2)",,531929,53.62335,10.041137,1
+"Hamburg, Friedhof Ohlsdorf (Kapelle 3)",,574287,53.61779,10.045987,1
+"Hamburg, Friedhof Ohlsdorf (Kapelle 4)",,193057,53.61692,10.04184,1
+"Hamburg, Friedhof Ohlsdorf (Kapelle 6)",,29302,53.62739,10.054659,1
+"Hamburg, Friedhof Ohlsdorf (Kapelle 7)",,499477,53.62816,10.046908,1
+"Hamburg, Friedhof Ohlsdorf (Kapelle 8)",,254723,53.626755,10.038273,1
+"Hamburg, Friedhof Ohlsdorf (Kapelle 9)",,83796,53.624527,10.062659,1
+"Hamburg, Friedhof Tonndorf",,94800,53.583153,10.11453,1
+"Hamburg, Friedhof Öjendorf (Feierhallen)",,602164,53.556866,10.126424,1
+"Hamburg, Friedhof Öjendorf (Haupteingang)",,251836,53.557285,10.121863,1
+"Hamburg, Friedhof Öjendorf (Nord-Ring)",,107435,53.55901,10.125047,1
+"Hamburg, Friedhof Öjendorf (Nordeingang)",,39212,53.558372,10.131293,1
+"Hamburg, Friedhof Öjendorf (Ost-Ring)",,483696,53.554993,10.13161,1
+"Hamburg, Friedhof Öjendorf (Süd-Ring)",,421851,53.554207,10.123532,1
+"Hamburg, Friedhof Öjendorf (Südeingang)",,447691,53.553493,10.128719,1
+"Hamburg, Friedmannbogen",,14655,53.477993,10.183785,1
+"Hamburg, Friedrich-Ebert-Damm (Nord)",,314742,53.59966,10.113515,1
+"Hamburg, Friedrich-Ebert-Damm (West)",,526018,53.584747,10.078587,1
+"Hamburg, Friedrich-Frank-Bogen (Mitte)",,154275,53.492275,10.1779,1
+"Hamburg, Friedrich-Frank-Bogen (Nord)",,640157,53.494118,10.179653,1
+"Hamburg, Fritz-Flinte-Ring",,641729,53.61062,10.049345,1
+"Hamburg, Fritz-Lindemann-Weg",,128320,53.51018,10.185451,1
+"Hamburg, Fritz-Neubers-Weg",,193746,53.591393,10.039837,1
+"Hamburg, Frobeniusweg",,490636,53.536892,10.108909,1
+"Hamburg, Frohmestraße (Mitte)",,569736,53.63229,9.921362,1
+"Hamburg, Fruchtallee (Hamburg-Haus)",,365655,53.571354,9.956999,1
+"Hamburg, Fruteweg",,141514,53.571377,9.75143,1
+"Hamburg, Fuchsbergredder",,129901,53.560562,10.118493,1
+"Hamburg, Fuchsbergweg",,42593,53.562378,10.132502,1
+"Hamburg, Fuhlsbüttel",,223665,53.63243,10.026969,1
+"Hamburg, Fuhlsbüttel Nord",,106295,53.639347,10.01678,1
+"Hamburg, Fuhlsbütteler Weg",,75258,53.6223,9.954811,1
+"Hamburg, Furchenacker",,463984,53.61697,9.897115,1
+"Hamburg, Furtweg",,128691,53.605885,9.899207,1
+"Hamburg, Försterkamp",,172527,53.470486,9.91649,1
+"Hamburg, Fünfhausen",,78449,53.444756,10.130859,1
+"Hamburg, Fünfhausen (Durchdeich)",,230009,53.444347,10.127582,1
+"Hamburg, Fünfhausener Hauptdeich",,254038,53.466446,10.045076,1
+"Hamburg, Fünfhausener Straße",,180047,53.46302,10.049665,1
+"Hamburg, Gammer Weg (Süd)",,437898,53.426937,10.273431,1
+"Hamburg, Gammer Weg 146",,307329,53.44131,10.278135,1
+"Hamburg, Garleff-Bindt-Weg",,317871,53.665947,10.077877,1
+"Hamburg, Gartenfreunde Francoper Straße",,169958,53.4872,9.867993,1
+"Hamburg, Gauert",,512115,53.463802,10.088422,1
+"Hamburg, Gauerter Hauptdeich 35",,90400,53.46322,10.066754,1
+"Hamburg, Gauerter Hauptdeich 77",,387717,53.46026,10.069977,1
+"Hamburg, Geesthachter Weg",,418285,53.588425,10.17124,1
+"Hamburg, Gellersenweg",,120770,53.455006,9.947574,1
+"Hamburg, Genslerstraße",,117735,53.592922,10.038183,1
+"Hamburg, Georg-Blume-Straße",,318625,53.561996,10.102126,1
+"Hamburg, Georg-Heyken-Straße",,410176,53.482723,9.900229,1
+"Hamburg, Georgswerder Damm",,575490,53.52645,10.026332,1
+"Hamburg, Geranienweg",,110430,53.578545,9.86606,1
+"Hamburg, Gerda-Gmelin-Platz",,394771,53.53979,10.0143,1
+"Hamburg, Gerhart-Hauptmann-Platz",,407350,53.55075,9.998428,1
+"Hamburg, Gerichtstraße",,576229,53.55573,9.943251,1
+"Hamburg, Gersonsweg",,441195,53.474762,10.182595,1
+"Hamburg, Gerstenwiese",,598812,53.618362,10.160402,1
+"Hamburg, Gertigstraße",,422334,53.581055,10.011952,1
+"Hamburg, Gertrud-Seele-Kehre",,312535,53.480595,10.173312,1
+"Hamburg, Geutensweg",,539382,53.472324,9.839828,1
+"Hamburg, Gewerbegebiet Moorfleet",,384606,53.50481,10.090663,1
+"Hamburg, Gewerbegebiet Obergeorgswerder",,518290,53.50894,10.048051,1
+"Hamburg, Gewerbepark Merkur",,373377,53.60751,10.188585,1
+"Hamburg, Gewerbepark Merkur (Süd)",,584385,53.603218,10.188222,1
+"Hamburg, Gewerbepark Victoria",,640634,53.603565,10.193273,1
+"Hamburg, Gilcherweg",,453158,53.642242,10.113457,1
+"Hamburg, Ginsterstieg",,587259,53.573162,9.757545,1
+"Hamburg, Gladowstraße",,46563,53.579414,10.0751,1
+"Hamburg, Glashütter Landstraße",,5309,53.64773,10.041541,1
+"Hamburg, Glatzer Straße",,318907,53.579678,10.144576,1
+"Hamburg, Gleiwitzer Bogen",,207829,53.57054,10.141088,1
+"Hamburg, Glockenhausbrücke",,349066,53.51731,10.123746,1
+"Hamburg, Gluckstraße",,106249,53.572044,10.038939,1
+"Hamburg, Godeffroystraße",,26664,53.560448,9.818634,1
+"Hamburg, Goebenstraße",,137192,53.57774,9.961995,1
+"Hamburg, Goerdelerstraße",,178674,53.501442,10.210918,1
+"Hamburg, Goethestraße",,167339,53.55198,9.940084,1
+"Hamburg, Goetjensorter Deich",,300966,53.49061,10.048156,1
+"Hamburg, Goldbekplatz",,39158,53.583546,10.009761,1
+"Hamburg, Goldene Wiege (Jahnhöhe)",,218122,53.458347,9.935153,1
+"Hamburg, Goldröschenweg",,222553,53.651413,10.068508,1
+"Hamburg, Gorch-Fock-Schule",,448242,53.56295,9.80184,1
+"Hamburg, Goseburg",,280722,53.471638,10.104375,1
+"Hamburg, Gottschalkring",,433305,53.449753,9.966263,1
+"Hamburg, Gottschalkweg",,218348,53.635715,9.943337,1
+"Hamburg, Graf-Anton-Weg",,633141,53.627205,9.944259,1
+"Hamburg, Graf-Johann-Weg",,107444,53.627934,9.919266,1
+"Hamburg, Graf-Otto-Weg",,269567,53.64529,9.912483,1
+"Hamburg, Graf-Otto-Weg (West)",,392908,53.644413,9.908676,1
+"Hamburg, Grandkoppel",,92694,53.503925,10.191064,1
+"Hamburg, Grandkoppel (West)",,624210,53.505543,10.186392,1
+"Hamburg, Grandkoppelstieg",,474937,53.506092,10.191893,1
+"Hamburg, Grandweg (Süd)",,171590,53.585823,9.967579,1
+"Hamburg, Grashofweg",,618423,53.453777,10.232519,1
+"Hamburg, Graumannsweg",,185356,53.56197,10.016361,1
+"Hamburg, Greifenberger Straße",,64321,53.617027,10.135552,1
+"Hamburg, Greifenberger Straße (Ost)",,339589,53.618446,10.144824,1
+"Hamburg, Grelckstraße",,4815,53.602417,9.953532,1
+"Hamburg, Grenzacker",,611918,53.62009,9.892904,1
+"Hamburg, Grenzkehre",,173327,53.416615,9.984472,1
+"Hamburg, Gretchen-Wohlwill-Platz",,487403,53.53661,10.0174,1
+"Hamburg, Grevenweg",,162519,53.550987,10.043417,1
+"Hamburg, Griegstraße",,397017,53.55439,9.909808,1
+"Hamburg, Griesstraße",,158235,53.56236,10.047138,1
+"Hamburg, Grimmstraße",,310023,53.58054,9.813512,1
+"Hamburg, Grindelhof",,424992,53.567074,9.980949,1
+"Hamburg, Grootmoor",,215103,53.632633,10.105025,1
+"Hamburg, Grotefendweg",,49891,53.566544,9.827306,1
+"Hamburg, Grothwisch",,148998,53.651756,9.918695,1
+"Hamburg, Grotiusweg (Mitte)",,526621,53.56949,9.765736,1
+"Hamburg, Grotkoppelweg",,354202,53.639473,9.970108,1
+"Hamburg, Groß Flottbeker Straße",,329895,53.569378,9.878567,1
+"Hamburg, Große Bergstraße",,283255,53.551212,9.946223,1
+"Hamburg, Große Brunnenstraße",,194538,53.5508,9.925589,1
+"Hamburg, Große Elbstraße",,245251,53.544117,9.94252,1
+"Hamburg, Große Freiheit",,401219,53.55162,9.958348,1
+"Hamburg, Große Rainstraße",,293922,53.554096,9.932345,1
+"Hamburg, Große Straße",,168899,53.45052,9.923751,1
+"Hamburg, Großer Ring",,415845,53.641098,9.925978,1
+"Hamburg, Großheidestraße",,62375,53.58539,10.027156,1
+"Hamburg, Großlohe",,523221,53.602066,10.181966,1
+"Hamburg, Großmannstraße",,196116,53.541145,10.048892,1
+"Hamburg, Großmoorbogen",,144334,53.453045,10.006049,1
+"Hamburg, Großmoorbogen (Neuländer See)",,346613,53.460293,10.010798,1
+"Hamburg, Großmoordamm 121",,110978,53.451687,10.009253,1
+"Hamburg, Großmoordamm 181",,290805,53.448784,10.017704,1
+"Hamburg, Großmoorring",,315605,53.456635,10.008633,1
+"Hamburg, Grubenstieg",,136496,53.582172,9.857678,1
+"Hamburg, Grumbrechtstraße",,236619,53.46802,9.967958,1
+"Hamburg, Grundheide",,226138,53.464138,9.855175,1
+"Hamburg, Grundschule Kirchwerder",,599707,53.420425,10.202271,1
+"Hamburg, Grunewaldstraße",,385061,53.581886,10.151188,1
+"Hamburg, Grusonstraße",,512975,53.531895,10.080772,1
+"Hamburg, Gründgensstraße (Ost)",,283976,53.61382,10.066137,1
+"Hamburg, Gründgensstraße (West)",,540393,53.611465,10.045785,1
+"Hamburg, Grüne Brücke",,208724,53.543625,10.040837,1
+"Hamburg, Grünebergstraße",,252987,53.55807,9.91446,1
+"Hamburg, Grünerdeich",,371445,53.40221,10.190595,1
+"Hamburg, Grüningweg",,202448,53.56013,10.101021,1
+"Hamburg, Gudrunstraße",,79017,53.58894,9.760319,1
+"Hamburg, Gumbinner Kehre",,328349,53.625946,10.092365,1
+"Hamburg, Gurlittstraße",,272727,53.557312,10.011128,1
+"Hamburg, Gussau",,325607,53.65885,10.174872,1
+"Hamburg, Gustav-Adolf-Straße",,544099,53.57101,10.08263,1
+"Hamburg, Gustav-Kunst-Straße",,258930,53.537548,10.059603,1
+"Hamburg, Gustav-Seitz-Weg",,442216,53.608658,10.063469,1
+"Hamburg, Gut Karlshöhe",,267805,53.629005,10.107833,1
+"Hamburg, Gymnasium Marienthal",,609486,53.566357,10.10713,1
+"Hamburg, Gymnasium Meiendorf",,210158,53.62519,10.151308,1
+"Hamburg, Gyula-Trebitsch-Schule",,496640,53.59538,10.121588,1
+"Hamburg, Gänsemarkt (Oper)",,581520,53.55561,9.986043,1
+"Hamburg, Gärtnerstraße",,489496,53.584156,9.969533,1
+"Hamburg, Gätgensstraße",,458416,53.5598,9.82167,1
+"Hamburg, Göhlbachtal",,18930,53.45326,9.954686,1
+"Hamburg, Götkensweg",,556602,53.671894,10.026824,1
+"Hamburg, HBF/Kirchenallee",,310048,53.552914,10.008549,1
+"Hamburg, HBF/Mönckebergstraße",,595976,53.55155,10.003908,1
+"Hamburg, HBF/Spitalerstraße",,452874,53.55267,10.005389,1
+"Hamburg, HBF/Steintordamm",,91719,53.551975,10.007983,1
+"Hamburg, HBF/Steintorwall",,16034,53.55113,10.005936,1
+"Hamburg, Haake",,483206,53.47107,9.901262,1
+"Hamburg, Habichtsplatz",,460371,53.595985,10.046626,1
+"Hamburg, Habichtstraße",,205703,53.593586,10.052699,1
+"Hamburg, Habichtstraße (Mitte)",,249905,53.591446,10.056044,1
+"Hamburg, Hachmannbrücke",,559233,53.52025,9.951729,1
+"Hamburg, Haempten",,607827,53.511757,10.192459,1
+"Hamburg, Hafen Harburg",,122246,53.46525,9.979971,1
+"Hamburg, HafenCity Universität",,631488,53.54052,10.008998,1
+"Hamburg, Hafenbahnhof Alte Süderelbe",,522897,53.502197,9.907921,1
+"Hamburg, Hafentreppe",,454892,53.54593,9.957465,1
+"Hamburg, Haffkruger Weg",,404011,53.609104,10.150207,1
+"Hamburg, Hagenbeck (Nordeingang)",,307156,53.598095,9.93629,1
+"Hamburg, Hagenbecks Tierpark",,636256,53.59249,9.944176,1
+"Hamburg, Hagendeel",,263656,53.60382,9.945245,1
+"Hamburg, Hainholzweg (Mitte)",,177264,53.45071,9.930349,1
+"Hamburg, Haithabuweg",,338645,53.4251,9.967985,1
+"Hamburg, Halbmondsweg",,492639,53.54645,9.887807,1
+"Hamburg, Haldesdorfer Straße",,216672,53.596664,10.072275,1
+"Hamburg, Haldesdorfer Straße (Nord)",,30442,53.607353,10.089815,1
+"Hamburg, Halenreie",,87912,53.653255,10.160015,1
+"Hamburg, Hallenbad Bramfeld",,56725,53.61106,10.069271,1
+"Hamburg, Hallerstraße",,525495,53.573204,9.989165,1
+"Hamburg, Halstenbeker Stieg",,556201,53.616898,9.890752,1
+"Hamburg, Halstenbeker Straße",,490262,53.62733,9.90979,1
+"Hamburg, Hamburg Dammtor",,294731,53.560783,9.989403,1
+"Hamburg, Hamburg Hbf",,407155,53.552753,10.007925,1
+"Hamburg, Hamburg Messe (Eingang Mitte)",,62936,53.562,9.975894,1
+"Hamburg, Hamburg-Altona",,168085,53.55325,9.935405,1
+"Hamburg, Hamburg-Harburg",,382485,53.456375,9.990947,1
+"Hamburg, Hamburger Straße",,548368,53.574368,10.037215,1
+"Hamburg, Hammer Deich (Ost)",,301924,53.545498,10.048472,1
+"Hamburg, Hammer Kirche",,614325,53.555546,10.055577,1
+"Hamburg, Hammer Steindamm",,7586,53.5608,10.055687,1
+"Hamburg, Hammer Straße",,84094,53.568897,10.061595,1
+"Hamburg, Handwerkskammer",,607628,53.553368,9.976721,1
+"Hamburg, Hannoversche Straße 10",,217302,53.465782,9.994169,1
+"Hamburg, Hans-Dewitz-Ring",,352203,53.46168,9.943959,1
+"Hamburg, Hans-Duncker-Straße (Mitte)",,189483,53.490967,10.115892,1
+"Hamburg, Hans-Duncker-Straße (Nord)",,487153,53.493603,10.120316,1
+"Hamburg, Hans-Henny-Jahnn-Weg",,583757,53.57854,10.013975,1
+"Hamburg, Hans-Rubbert-Straße",,589790,53.56537,10.132627,1
+"Hamburg, Hansa-Gymnasium",,161387,53.49381,10.221053,1
+"Hamburg, Harburger Chaussee",,301804,53.520782,10.007594,1
+"Hamburg, Harburger Ring",,246443,53.458218,9.984612,1
+"Hamburg, Harburger Schloßstraße",,450904,53.465084,9.983311,1
+"Hamburg, Hardauring",,185567,53.478363,9.883688,1
+"Hamburg, Hardenbergstraße",,54196,53.565098,9.798303,1
+"Hamburg, Harmsstraße",,603087,53.454773,9.976192,1
+"Hamburg, Harnackring",,480345,53.507843,10.210784,1
+"Hamburg, Hartzloh",,149423,53.601643,10.04092,1
+"Hamburg, Harvestehuder Weg",,114549,53.579247,9.993911,1
+"Hamburg, Harzensweg",,197153,53.59171,10.049894,1
+"Hamburg, Hasencleverstraße",,353737,53.55091,10.088364,1
+"Hamburg, Haseneck",,265301,53.529896,10.137486,1
+"Hamburg, Hasloher Kehre",,544560,53.679264,10.030878,1
+"Hamburg, Hasselbrook",,347971,53.564934,10.056565,1
+"Hamburg, Hasselwerder Straße",,245472,53.513023,9.824955,1
+"Hamburg, Haulander Weg",,312250,53.4883,9.99001,1
+"Hamburg, Hauptbahnhof Nord",,271888,53.554096,10.005957,1
+"Hamburg, Hauptbahnhof Süd",,334539,53.552017,10.009463,1
+"Hamburg, Hauptbahnhof/ZOB",,433334,53.551903,10.010341,1
+"Hamburg, Haupteingang Ohlsdorf",,63664,53.620552,10.034357,1
+"Hamburg, Haus Rissen",,169763,53.577084,9.773754,1
+"Hamburg, Haus des KFZ-Gewerbes",,540180,53.54131,10.0363,1
+"Hamburg, Hausbruch",,620543,53.47177,9.893732,1
+"Hamburg, Hausbrucher Bahnhofstraße",,617996,53.477463,9.89474,1
+"Hamburg, Havighorster Redder (West)",,174758,53.52745,10.135596,1
+"Hamburg, Havighorster Weg",,145575,53.51268,10.209565,1
+"Hamburg, Haynstraße",,554333,53.5862,9.983217,1
+"Hamburg, Hebbelstraße",,505510,53.577396,10.018568,1
+"Hamburg, Hebebrandstraße",,536209,53.608253,10.038676,1
+"Hamburg, Heckende",,301763,53.606964,10.173597,1
+"Hamburg, Heckkaten",,353904,53.490093,10.18932,1
+"Hamburg, Heerbrook",,263691,53.579716,9.830044,1
+"Hamburg, Heestweg",,239212,53.602028,10.149214,1
+"Hamburg, Hegholt",,236143,53.60118,10.080764,1
+"Hamburg, Heideblütenweg",,337127,53.464527,9.81245,1
+"Hamburg, Heidemoor",,56565,53.482265,9.861113,1
+"Hamburg, Heidkamp",,76908,53.659676,10.059761,1
+"Hamburg, Heidkampsredder",,571896,53.506763,10.199283,1
+"Hamburg, Heidrand",,568218,53.465446,9.865787,1
+"Hamburg, Heidschnuckenring",,143452,53.466087,9.815747,1
+"Hamburg, Heimfelder Straße 123",,431991,53.461025,9.940527,1
+"Hamburg, Heimgarten",,416393,53.67351,10.056961,1
+"Hamburg, Hein-Baxmann-Stieg",,1381,53.512962,10.083667,1
+"Hamburg, Hein-Hoyer-Straße",,338481,53.55127,9.961735,1
+"Hamburg, Hein-Saß-Stieg (ZAL)",,489003,53.535454,9.866808,1
+"Hamburg, Heinrich-Helbing-Straße",,397737,53.594784,10.060628,1
+"Hamburg, Heinrich-Hertz-Turm",,532305,53.56459,9.976376,1
+"Hamburg, Heinrich-Osterath-Straße (Mitte)",,132297,53.455177,10.147787,1
+"Hamburg, Heinrich-Osterath-Straße (Ost)",,625029,53.444057,10.173554,1
+"Hamburg, Heinrich-Osterath-Straße 241",,333741,53.456272,10.141508,1
+"Hamburg, Heinrich-Schulz-Weg",,630550,53.598705,10.18009,1
+"Hamburg, Heinrich-Stubbe-Weg",,469714,53.445156,10.229394,1
+"Hamburg, Heinrich-Traun-Platz",,499947,53.633472,10.034402,1
+"Hamburg, Helbingtwiete",,20699,53.587685,10.092888,1
+"Hamburg, Hellbrookkamp",,73544,53.597733,10.060656,1
+"Hamburg, Hellbrookstraße",,412184,53.591404,10.044449,1
+"Hamburg, Hellgrundweg (Arenen)",,106664,53.592785,9.898838,1
+"Hamburg, Hellmesbergerweg",,224859,53.63036,10.179295,1
+"Hamburg, Helvetierweg",,597816,53.626957,9.959013,1
+"Hamburg, Hemmingstedter Weg",,201875,53.566257,9.866412,1
+"Hamburg, Henriette-Herz-Ring",,486009,53.4841,10.172099,1
+"Hamburg, Herbert-Pardo-Weg",,278902,53.48482,10.151796,1
+"Hamburg, Herderstraße",,444050,53.58047,10.01917,1
+"Hamburg, Herkenkrug",,376205,53.64575,10.182311,1
+"Hamburg, Hermann-Balk-Straße",,391171,53.624123,10.140428,1
+"Hamburg, Hermann-Distel-Straße",,239256,53.494865,10.220691,1
+"Hamburg, Hermann-Kauffmann-Straße",,353091,53.594273,10.044076,1
+"Hamburg, Hermann-Wüsthof-Ring (Ost)",,23698,53.493282,10.111206,1
+"Hamburg, Hermann-Wüsthof-Ring (West)",,610766,53.497387,10.101669,1
+"Hamburg, Hermelinweg",,62872,53.616184,10.122004,1
+"Hamburg, Herthastraße",,314424,53.611984,10.074552,1
+"Hamburg, Herwigredder",,437185,53.576794,9.764359,1
+"Hamburg, Herzog-Bruno-Weg",,154871,53.62548,9.947044,1
+"Hamburg, Heselstücken",,429197,53.61875,9.999509,1
+"Hamburg, Heuckenlock",,54741,53.476166,10.03923,1
+"Hamburg, Heukoppel",,75772,53.611526,10.080313,1
+"Hamburg, Heulandhagen",,18202,53.480625,10.187293,1
+"Hamburg, Hexentwiete",,274528,53.584843,9.765606,1
+"Hamburg, Heykenaubrook",,436166,53.471916,9.918509,1
+"Hamburg, Heykenaukamp",,74281,53.47898,9.905361,1
+"Hamburg, Heykenaukamp (Kehre)",,587065,53.477997,9.909482,1
+"Hamburg, Heykenauweg (Nord)",,12241,53.481728,9.904546,1
+"Hamburg, Heykenauweg (Süd)",,455261,53.47937,9.901347,1
+"Hamburg, Heykenstieg",,494853,53.481956,9.906509,1
+"Hamburg, Hilda-Monte-Weg",,418563,53.482384,10.170395,1
+"Hamburg, Hindenburgstraße",,94899,53.608932,10.01147,1
+"Hamburg, Hinsbleek",,52883,53.65122,10.078623,1
+"Hamburg, Hinter der Dorfkirche",,521345,53.490402,10.008555,1
+"Hamburg, Hinter der Lieth",,307361,53.60593,9.95565,1
+"Hamburg, Hirschgraben",,119106,53.563866,10.044489,1
+"Hamburg, Hitscherberg",,549668,53.437504,10.197285,1
+"Hamburg, Hochrad",,545797,53.55375,9.876296,1
+"Hamburg, Hoffmann-von-Fallersleben-Straße",,356692,53.481873,10.230245,1
+"Hamburg, Hoffmannstieg",,589914,53.60331,10.179795,1
+"Hamburg, Hofschläger Deich",,585725,53.486214,10.054586,1
+"Hamburg, Hogrevestraße",,471553,53.576965,10.072713,1
+"Hamburg, Hohe Liedt",,80501,53.669853,10.025942,1
+"Hamburg, Hohe Schaar",,463182,53.480106,9.982674,1
+"Hamburg, Hohe-Schaar-Kamp",,433986,53.49644,9.970589,1
+"Hamburg, Hohedeich",,574024,53.44076,10.117163,1
+"Hamburg, Hohedeich (Feuerwehr)",,434041,53.44163,10.111422,1
+"Hamburg, Hohendeicher See (Nord)",,422641,53.449432,10.09972,1
+"Hamburg, Hohenesch",,372526,53.554695,9.928601,1
+"Hamburg, Hohenkamp",,450961,53.605965,10.146133,1
+"Hamburg, Hohenwisch (Kehre)",,180092,53.502552,9.877334,1
+"Hamburg, Hohenwischer Straße 101",,72215,53.507107,9.876117,1
+"Hamburg, Hohenwischer Straße 123",,562437,53.508995,9.869946,1
+"Hamburg, Hohenwischer Straße 149",,110309,53.508408,9.865517,1
+"Hamburg, Hohenwischer Straße 20",,567371,53.499924,9.884287,1
+"Hamburg, Hohenwischer Straße 223",,548358,53.50826,9.853998,1
+"Hamburg, Hohenzollernring",,577133,53.54864,9.916308,1
+"Hamburg, Hohenzollernring (Süd)",,396929,53.546032,9.915739,1
+"Hamburg, Hohnerkamp",,571413,53.61797,10.089439,1
+"Hamburg, Hohnerkamp (Mitte)",,302748,53.623566,10.090399,1
+"Hamburg, Holsteiner Tor",,388432,53.569855,10.149249,1
+"Hamburg, Holsteinischer Kamp",,539060,53.575806,10.048784,1
+"Hamburg, Holstenkamp (West)",,12845,53.573112,9.908836,1
+"Hamburg, Holstenstraße",,604345,53.56198,9.94908,1
+"Hamburg, Holtbarg",,594071,53.583614,9.822495,1
+"Hamburg, Holtenklinke",,348517,53.4779,10.240433,1
+"Hamburg, Holzmühlenstraße",,192664,53.576694,10.082897,1
+"Hamburg, Holztwiete",,100911,53.547108,9.874152,1
+"Hamburg, Homannring",,417133,53.447598,10.124056,1
+"Hamburg, Horner Brückenweg",,477916,53.545338,10.088853,1
+"Hamburg, Horner Rampe",,494594,53.54743,10.084819,1
+"Hamburg, Horner Redder",,170179,53.55242,10.102993,1
+"Hamburg, Horner Rennbahn",,639179,53.55383,10.083857,1
+"Hamburg, Horster Damm",,512297,53.461903,10.271616,1
+"Hamburg, Horster Moor",,597154,53.452038,10.286631,1
+"Hamburg, Hovestieg",,74952,53.524776,10.021451,1
+"Hamburg, Hovestraße (Kehre)",,396501,53.51642,10.049789,1
+"Hamburg, Hovestraße 44",,414229,53.522697,10.030417,1
+"Hamburg, Hovestraße 49",,19054,53.51989,10.039109,1
+"Hamburg, Hovestraße 68",,145222,53.517776,10.045601,1
+"Hamburg, Howe",,318311,53.420074,10.148344,1
+"Hamburg, Howe (Ost)",,284601,53.41149,10.152309,1
+"Hamburg, Hower Brack",,485377,53.418453,10.150693,1
+"Hamburg, Hower Hauptdeich",,567828,53.416252,10.148693,1
+"Hamburg, Hudtwalckerstraße",,406108,53.594746,9.996118,1
+"Hamburg, Hufnerstraße",,359352,53.582886,10.041349,1
+"Hamburg, Hummelsbüttler Hauptstraße",,8951,53.640923,10.037049,1
+"Hamburg, Huusbarg (Mitte)",,104160,53.64353,10.176548,1
+"Hamburg, Huusbarg (West)",,258444,53.644264,10.171578,1
+"Hamburg, Händelstraße",,183930,53.562263,9.905646,1
+"Hamburg, Högenkamp",,303832,53.6569,10.060735,1
+"Hamburg, Högenstraße",,407733,53.580765,9.938519,1
+"Hamburg, Höpengrund",,43170,53.42471,9.993279,1
+"Hamburg, Höpenstraße",,498444,53.44169,10.003428,1
+"Hamburg, Höperfeld",,112129,53.495865,10.199126,1
+"Hamburg, Hövelbrook",,378235,53.507313,10.022477,1
+"Hamburg, Hübbesweg",,492893,53.554543,10.061356,1
+"Hamburg, Hüllenkamp",,232733,53.587673,10.15491,1
+"Hamburg, Hültkoppel",,394317,53.65303,10.140573,1
+"Hamburg, IKEA Moorfleet",,354330,53.511448,10.09617,1
+"Hamburg, IKEA Schnelsen",,446889,53.647606,9.927058,1
+"Hamburg, Ida-Boy-Ed-Straße",,627163,53.483883,10.230635,1
+"Hamburg, Ida-Ehre-Allee",,254902,53.6248,10.054806,1
+"Hamburg, Iland",,360421,53.66458,10.119992,1
+"Hamburg, Ilsenweg",,284150,53.65875,10.107388,1
+"Hamburg, Im Allhorn",,151335,53.653923,10.174599,1
+"Hamburg, Im Fischbeker Heidbrook (Ost)",,369622,53.46783,9.814034,1
+"Hamburg, Im Fischbeker Heidbrook (West)",,209736,53.466835,9.810175,1
+"Hamburg, Im Grünen Grunde",,477658,53.623055,10.031517,1
+"Hamburg, Im Schönenfelde",,56874,53.500286,10.018119,1
+"Hamburg, Im Vogelkamp",,178673,53.478268,9.850715,1
+"Hamburg, Immenbusch",,641424,53.583908,9.85341,1
+"Hamburg, Immenhöven",,449608,53.66085,10.021669,1
+"Hamburg, Immenseeweg",,442517,53.59437,10.174834,1
+"Hamburg, In der Hörn",,146952,53.474243,10.194811,1
+"Hamburg, In der Ohe-Nord",,487416,53.41944,10.204404,1
+"Hamburg, Indiastraße",,90362,53.526787,9.994521,1
+"Hamburg, Industriestraße",,128578,53.517014,9.982141,1
+"Hamburg, Informatikum",,171275,53.59768,9.931825,1
+"Hamburg, Inselpark",,547753,53.4973,10.003847,1
+"Hamburg, Inselstraße",,76990,53.606792,9.993138,1
+"Hamburg, Isfeldstraße",,56233,53.573772,9.837022,1
+"Hamburg, Isoldeweg",,381604,53.586395,9.743482,1
+"Hamburg, Israelitisches Krankenhaus",,572586,53.605537,9.989543,1
+"Hamburg, Iversstraße",,542527,53.58173,10.09364,1
+"Hamburg, Jaarsmoor",,616641,53.60856,9.89112,1
+"Hamburg, Jahnbrücke",,410568,53.601624,10.035632,1
+"Hamburg, Jahnring (Mitte)",,391948,53.59984,10.013685,1
+"Hamburg, Jakobikirchhof",,422354,53.550068,10.000726,1
+"Hamburg, Jarrestraße (Kampnagel)",,289777,53.583958,10.020477,1
+"Hamburg, Jasminweg",,275601,53.61474,9.88037,1
+"Hamburg, Jean-Dolidier-Weg",,527572,53.438015,10.233552,1
+"Hamburg, Jeanette-Wolff-Ring",,436253,53.477905,10.173314,1
+"Hamburg, Jenfeld-Zentrum",,319902,53.57092,10.135845,1
+"Hamburg, Jenfelder Allee",,389310,53.575085,10.126969,1
+"Hamburg, Jenfelder Straße",,172596,53.574036,10.135139,1
+"Hamburg, Jevenstedter Straße",,90846,53.60048,9.873986,1
+"Hamburg, Jeverländer Weg",,617322,53.52792,9.880754,1
+"Hamburg, Joachim-Mähl-Straße",,478102,53.628258,9.950356,1
+"Hamburg, Jochim-Sahling-Weg",,246878,53.576385,9.851069,1
+"Hamburg, Johannes-Brahms-Platz",,431968,53.555004,9.978751,1
+"Hamburg, Johanneskirche Rissen",,259810,53.58055,9.762388,1
+"Hamburg, Johannssenstegel",,281802,53.42393,10.139769,1
+"Hamburg, Johnsallee",,24412,53.565918,9.988879,1
+"Hamburg, Josephstraße",,441568,53.57279,10.079626,1
+"Hamburg, Julius-Reincke-Stieg (Bethanien)",,529981,53.591953,9.982928,1
+"Hamburg, Julius-Vosseler-Straße",,536656,53.590492,9.946875,1
+"Hamburg, Jungestraße",,514706,53.556187,10.027172,1
+"Hamburg, Jungfernstieg",,180170,53.55275,9.99491,1
+"Hamburg, Justus-Brinckmann-Straße",,378991,53.481377,10.232084,1
+"Hamburg, Jägerhof",,181616,53.4712,9.888569,1
+"Hamburg, Jägerlauf",,537770,53.603073,9.967732,1
+"Hamburg, Jütländer Allee",,47972,53.601406,9.931333,1
+"Hamburg, KZ-Gedenkstätte (Ausstellung)",,576319,53.427967,10.226686,1
+"Hamburg, KZ-Gedenkstätte (Klinkerwerk)",,454738,53.4324,10.229838,1
+"Hamburg, KZ-Gedenkstätte (Mahnmal)",,611202,53.43498,10.231688,1
+"Hamburg, Kahlkamp",,241520,53.560177,9.803539,1
+"Hamburg, Kaiser-Friedrich-Ufer",,629905,53.573044,9.964872,1
+"Hamburg, Kalckreuthweg (Mitte)",,39494,53.56516,9.887369,1
+"Hamburg, Kaltehofe-Hinterdeich",,341475,53.526882,10.046036,1
+"Hamburg, Kaltenkircher Platz",,291165,53.563633,9.94155,1
+"Hamburg, Kamerstücken",,430454,53.581795,9.811362,1
+"Hamburg, Kamerunweg",,474824,53.527096,9.986084,1
+"Hamburg, Kamerunweg (Kehre)",,469131,53.530907,9.986052,1
+"Hamburg, Kanalplatz",,182371,53.46656,9.984128,1
+"Hamburg, Kandinskyallee (Nord)",,77454,53.532936,10.1509,1
+"Hamburg, Kantstraße",,120743,53.569717,10.053011,1
+"Hamburg, Kanzlershofer Weg",,371974,53.4478,10.023415,1
+"Hamburg, Kanzlerstraße",,635637,53.439724,10.006361,1
+"Hamburg, Kap-Horn-Weg",,136408,53.534645,9.874182,1
+"Hamburg, Kapstadtring",,504483,53.605434,10.025256,1
+"Hamburg, Karkenland",,379287,53.416946,10.197084,1
+"Hamburg, Karl-Arnold-Ring",,426990,53.486,10.016903,1
+"Hamburg, Karl-Müller-Ring",,288448,53.602898,10.078235,1
+"Hamburg, Karl-Rüther-Stieg",,106857,53.489677,10.153344,1
+"Hamburg, Karlshöhe",,442657,53.623566,10.111,1
+"Hamburg, Karlshöher Weg",,302080,53.631535,10.137786,1
+"Hamburg, Karstenstraße",,432598,53.565483,9.801088,1
+"Hamburg, Kasernenstraße (TU Hamburg)",,244026,53.463867,9.969655,1
+"Hamburg, Kaskadenpark",,41702,53.581352,10.132028,1
+"Hamburg, Katendeich",,993,53.476807,10.192081,1
+"Hamburg, Kattensteert",,452613,53.549828,10.099567,1
+"Hamburg, Kattwykdamm",,591635,53.493137,9.975517,1
+"Hamburg, Katzbachstraße",,118924,53.601097,9.884316,1
+"Hamburg, Kedenburgstraße",,625532,53.574997,10.087654,1
+"Hamburg, Kellinghusenstraße",,601365,53.58875,9.991008,1
+"Hamburg, Keltenweg",,464201,53.64538,9.957526,1
+"Hamburg, Kiebitzbrack",,54209,53.410957,10.236393,1
+"Hamburg, Kiebitzdeich (Mitte)",,114645,53.415222,10.226139,1
+"Hamburg, Kiebitzdeich (West)",,434363,53.425068,10.215079,1
+"Hamburg, Kiebitzdeich 154",,585999,53.413933,10.231666,1
+"Hamburg, Kielkoppelstraße",,333048,53.589733,10.167592,1
+"Hamburg, Kielmannseggstraße",,467954,53.573093,10.092345,1
+"Hamburg, Kienenhagen",,469759,53.48384,10.188518,1
+"Hamburg, Kienholt",,103314,53.62122,10.104319,1
+"Hamburg, Kinderkrankenhaus Wilhelmstift",,287190,53.589222,10.161159,1
+"Hamburg, Kirchdorf (Süd)",,236968,53.48451,10.018886,1
+"Hamburg, Kirchdorfer Straße (Museum Elbinsel)",,17430,53.490986,10.019041,1
+"Hamburg, Kirchenheerweg",,385294,53.404305,10.186022,1
+"Hamburg, Kirchhofsweg",,473261,53.48373,10.220657,1
+"Hamburg, Kirchlinden",,294064,53.541676,10.101899,1
+"Hamburg, Kirchsteinbek",,591830,53.529865,10.129206,1
+"Hamburg, Kirchwerder Hausdeich (Mitte)",,165032,53.43079,10.1983,1
+"Hamburg, Kirchwerder Hausdeich (West)",,472716,53.440807,10.184029,1
+"Hamburg, Kirchwerder Hausdeich 404",,154073,53.414806,10.206168,1
+"Hamburg, Kirchwerder Kirche",,70938,53.418648,10.199508,1
+"Hamburg, Kirchwerder Landweg 182",,222388,53.449253,10.180381,1
+"Hamburg, Kirchwerder Landweg 70",,568717,53.4575,10.19163,1
+"Hamburg, Kirchwerder Mühlendamm",,307197,53.412292,10.210413,1
+"Hamburg, Kirchwerder Schulweg",,281319,53.429996,10.134018,1
+"Hamburg, Kirschenallee",,400888,53.624504,10.073223,1
+"Hamburg, Kirschgarten",,445838,53.50264,10.197358,1
+"Hamburg, Kirschtenstraße",,353195,53.56242,9.807459,1
+"Hamburg, Kiwittsmoor",,572256,53.675213,10.015964,1
+"Hamburg, Klaus-Schaumann-Straße",,494953,53.477245,10.189292,1
+"Hamburg, Klein Borstel",,177901,53.62826,10.033216,1
+"Hamburg, Kleine Seilerstraße",,138346,53.55105,9.967856,1
+"Hamburg, Klgv Rothenhauschaussee",,72810,53.47354,10.255382,1
+"Hamburg, Klinikum Nord (Heidberg)",,342561,53.67486,10.028077,1
+"Hamburg, Klinikum Nord (Ochsenzoll)",,238471,53.672184,10.002394,1
+"Hamburg, Klosterstern",,165913,53.5816,9.988395,1
+"Hamburg, Klotzenmoor (Mitte)",,339773,53.60916,9.9836,1
+"Hamburg, Klärwerk Dradenau",,639047,53.518414,9.914253,1
+"Hamburg, Klövensteenweg (Mitte)",,226273,53.58938,9.76303,1
+"Hamburg, Klövensteenweg (Süd)",,420075,53.582474,9.764235,1
+"Hamburg, Knabeweg",,245459,53.571938,9.856218,1
+"Hamburg, Knappe Böge",,40512,53.612385,10.015512,1
+"Hamburg, Kneidenweg",,273279,53.500744,10.072429,1
+"Hamburg, Kneienblick",,256097,53.533966,9.864923,1
+"Hamburg, Knoopstraße/Bremer Straße",,416944,53.45735,9.979579,1
+"Hamburg, Kohövedstraße",,409150,53.608776,10.144335,1
+"Hamburg, Konsul-Ritter-Straße",,88152,53.470413,9.972214,1
+"Hamburg, Korachstraße",,446328,53.51067,10.198489,1
+"Hamburg, Koreastraße",,236233,53.543526,10.002155,1
+"Hamburg, Kornweide",,434896,53.481792,9.993609,1
+"Hamburg, Kottwitzstraße",,203359,53.580727,9.964684,1
+"Hamburg, Kraftwerk Tiefstack",,152717,53.52713,10.06913,1
+"Hamburg, Krankenhaus Groß-Sand",,618332,53.506,9.986106,1
+"Hamburg, Krankenhaus Mariahilf",,526938,53.47106,9.937315,1
+"Hamburg, Krankenhaus Tabea",,478456,53.56538,9.790777,1
+"Hamburg, Krapphofschleuse",,500896,53.46814,10.189519,1
+"Hamburg, Krapphofstraße",,628314,53.47519,10.188225,1
+"Hamburg, Kraueler Hauptdeich",,160760,53.397964,10.234527,1
+"Hamburg, Kraueler Hauptdeich 261",,364936,53.4027,10.241671,1
+"Hamburg, Krausestraße",,218023,53.580025,10.057268,1
+"Hamburg, Kressenweg",,524771,53.58641,9.87285,1
+"Hamburg, Kreuzbrook",,277616,53.546387,10.045476,1
+"Hamburg, Kreuzfahrtterminal Altona",,514810,53.544193,9.936397,1
+"Hamburg, Kreuzfahrtterminal Steinwerder",,108813,53.526833,9.967744,1
+"Hamburg, Kreuzkirche Kirchdorf",,246599,53.486866,10.015462,1
+"Hamburg, Kreuzkirche Ottensen",,230409,53.55385,9.916783,1
+"Hamburg, Kriegerdankweg",,571177,53.63328,9.911808,1
+"Hamburg, Krieterstraße",,573515,53.496258,10.009795,1
+"Hamburg, Kroogblöcke",,592955,53.552437,10.097185,1
+"Hamburg, Krumdal",,476826,53.558075,9.797582,1
+"Hamburg, Krummer Hagen",,453137,53.40626,10.207701,1
+"Hamburg, Krähenhorst",,645351,53.56817,9.793123,1
+"Hamburg, Krähenweg",,547627,53.630444,9.962085,1
+"Hamburg, Krögers Treppe (Fischerhaus)",,492232,53.558456,9.8034,1
+"Hamburg, Kuehnstraße",,524304,53.58224,10.126555,1
+"Hamburg, Kunsthalle",,447498,53.555622,10.000645,1
+"Hamburg, Kurfürstendeich",,604493,53.466446,10.201805,1
+"Hamburg, Kurfürstenstraße",,610668,53.57909,10.096999,1
+"Hamburg, Kurt-A.-Körber-Chaussee (Mitte)",,173472,53.489132,10.19303,1
+"Hamburg, Kurt-A.-Körber-Chaussee (Ost)",,565610,53.488926,10.198357,1
+"Hamburg, Kurt-Schumacher-Allee",,268430,53.551907,10.01622,1
+"Hamburg, Kurzer Kamp",,270512,53.636696,10.03374,1
+"Hamburg, Kälbersteert",,393404,53.44196,10.194536,1
+"Hamburg, Köhlbrandhöft (nur für Betriebsangehörige)",,476189,53.53996,9.93656,1
+"Hamburg, König-Georg-Deich",,364935,53.477722,9.995773,1
+"Hamburg, Königsberger Straße",,258625,53.623173,10.084102,1
+"Hamburg, Köpenicker Straße",,391004,53.584515,10.133296,1
+"Hamburg, Köppenstraße",,491658,53.607265,9.978555,1
+"Hamburg, Künnekestraße",,594273,53.635883,10.178663,1
+"Hamburg, Küstersweg",,55218,53.437378,10.004204,1
+"Hamburg, Lademannbogen",,56944,53.648697,10.036877,1
+"Hamburg, Lademannbogen (Ost)",,24861,53.647816,10.037072,1
+"Hamburg, Lademannbogen (Süd)",,111546,53.642822,10.028612,1
+"Hamburg, Lademannbogen (West)",,373906,53.64782,10.0325,1
+"Hamburg, Lademannbogen 51",,644775,53.643276,10.030937,1
+"Hamburg, Landahlweg",,88259,53.65609,10.060912,1
+"Hamburg, Landungsbrücken Brücke 1",,335870,53.544727,9.971559,1
+"Hamburg, Landungsbrücken Brücke 2",,580653,53.544987,9.970599,1
+"Hamburg, Landungsbrücken Brücke 3",,597371,53.545094,9.969847,1
+"Hamburg, Langbargheide (Nord)",,484987,53.59887,9.887009,1
+"Hamburg, Langbargheide (Süd)",,22483,53.593174,9.891264,1
+"Hamburg, Langelohstraße (Nord)",,51423,53.572834,9.84659,1
+"Hamburg, Langenberg",,23618,53.439552,9.941376,1
+"Hamburg, Langenfelder Damm",,112071,53.58275,9.935226,1
+"Hamburg, Langenfelder Damm (Kieler Straße)",,436790,53.583454,9.933611,1
+"Hamburg, Langenfelder Straße",,120552,53.568977,9.944129,1
+"Hamburg, Langenfort",,63463,53.59977,10.050738,1
+"Hamburg, Langenhorn Markt",,378597,53.64911,10.017317,1
+"Hamburg, Langenhorn Nord",,373778,53.660778,10.017568,1
+"Hamburg, Langenrehm",,481864,53.582756,10.046873,1
+"Hamburg, Langer Hagen",,520053,53.535908,10.065309,1
+"Hamburg, Langkamp",,347168,53.563026,9.864822,1
+"Hamburg, Langobardenweg",,649805,53.63483,9.966645,1
+"Hamburg, Lapplandring",,280138,53.630463,10.168822,1
+"Hamburg, Lattenkamp (Sporthalle)",,31148,53.599995,9.994731,1
+"Hamburg, Lattenkampstieg",,164617,53.597507,9.996968,1
+"Hamburg, Lauenbruch Ost",,154645,53.472675,9.982447,1
+"Hamburg, Lauensteinstraße",,247992,53.600113,10.036063,1
+"Hamburg, Lawaetzhaus",,199260,53.544315,9.920333,1
+"Hamburg, Lederstraße",,182571,53.589584,9.907423,1
+"Hamburg, Leeschenblick",,410703,53.614944,10.071938,1
+"Hamburg, Legienstraße",,172309,53.54727,10.095533,1
+"Hamburg, Leharstraße",,522216,53.629875,10.145995,1
+"Hamburg, Lehfeld",,610563,53.48053,10.207827,1
+"Hamburg, Lemsahler Dorfstraße",,167576,53.685856,10.102851,1
+"Hamburg, Lentersweg",,400209,53.639202,10.028524,1
+"Hamburg, Lerchenberg",,551625,53.653305,10.168713,1
+"Hamburg, Leuteritzweg",,279108,53.658863,10.060044,1
+"Hamburg, Leverkusenstraße",,317623,53.565464,9.925643,1
+"Hamburg, Lichtenauerweg",,42366,53.455147,9.945349,1
+"Hamburg, Lichtheimweg",,189630,53.565975,9.783664,1
+"Hamburg, Liebermannstraße",,140760,53.54587,9.900106,1
+"Hamburg, Liebezeitstraße",,252445,53.542805,10.118704,1
+"Hamburg, Liebigstraße (Mitte)",,334804,53.532497,10.096216,1
+"Hamburg, Liedenkummer Bogen",,241380,53.52418,9.778429,1
+"Hamburg, Liegnitzer Straße",,398013,53.580185,10.137659,1
+"Hamburg, Lienaustraße",,536098,53.627064,10.12317,1
+"Hamburg, Liliencronpark",,296276,53.600857,10.153079,1
+"Hamburg, Lilo-Gloeden-Kehre",,545679,53.47878,10.170506,1
+"Hamburg, Lily-Braun-Straße",,167423,53.48704,10.173838,1
+"Hamburg, Lippeltstraße",,242320,53.54554,10.015937,1
+"Hamburg, Lisbeth-Bruhn-Straße",,610305,53.485332,10.172931,1
+"Hamburg, Lohbrügger Kirchstraße",,478759,53.49865,10.202776,1
+"Hamburg, Lohbrügger Markt",,607688,53.49486,10.207626,1
+"Hamburg, Lohbrügger Weg",,521636,53.501583,10.205723,1
+"Hamburg, Lohe",,629545,53.70863,10.105972,1
+"Hamburg, Lohengrinweg",,20261,53.587593,9.753001,1
+"Hamburg, Loher Straße",,267874,53.59397,10.144977,1
+"Hamburg, Lohkamp",,273892,53.531284,10.122638,1
+"Hamburg, Lohkampstraße 45",,499169,53.609913,9.898915,1
+"Hamburg, Lohkoppelweg",,176395,53.59218,9.954192,1
+"Hamburg, Lohmannsweg",,242772,53.46409,9.956636,1
+"Hamburg, Lohmühlenstraße",,439219,53.556698,10.019096,1
+"Hamburg, Lokstedter Weg",,331550,53.59572,9.983997,1
+"Hamburg, Lola-Rogge-Platz",,93953,53.53759,10.013297,1
+"Hamburg, Luckmoor",,431164,53.596996,9.86535,1
+"Hamburg, Luetkensallee",,27359,53.57433,10.099035,1
+"Hamburg, Lufthansa-Basis",,324360,53.620575,9.997512,1
+"Hamburg, Lufthansa-Basis (Haupteingang)",,389203,53.62157,9.996916,1
+"Hamburg, Luisen-Gymnasium",,157502,53.49209,10.227633,1
+"Hamburg, Luisenweg",,219800,53.54821,10.046547,1
+"Hamburg, Luruper Chaussee (DESY)",,113176,53.57629,9.888856,1
+"Hamburg, Lutterothstraße",,248210,53.582005,9.947717,1
+"Hamburg, Lämmersieth (Mitte)",,419774,53.584778,10.053295,1
+"Hamburg, Lämmersieth (Nord)",,528118,53.58891,10.061372,1
+"Hamburg, Lärchenallee",,147348,53.622208,10.073618,1
+"Hamburg, Löwenstraße (Facharztklinik)",,38409,53.587326,9.971736,1
+"Hamburg, Lübbersweg",,477549,53.455948,9.955369,1
+"Hamburg, Lübecker Straße",,562151,53.56009,10.028791,1
+"Hamburg, Lüdersring",,289773,53.596848,9.885315,1
+"Hamburg, Lühmannstraße",,185564,53.45773,9.947033,1
+"Hamburg, Lürade",,472520,53.425484,9.93085,1
+"Hamburg, Lürader Weg",,436752,53.4218,9.929837,1
+"Hamburg, Lütjenburg (Kirchwerder)",,543762,53.40049,10.168565,1
+"Hamburg, Lütte Stegel",,632757,53.445213,10.224835,1
+"Hamburg, Lüttmattensteed",,527585,53.459244,9.866443,1
+"Hamburg, Lüttwetter",,597669,53.434944,10.276017,1
+"Hamburg, Madacker",,330822,53.686977,10.106948,1
+"Hamburg, Magellan-Terrassen",,368276,53.542484,9.993321,1
+"Hamburg, Maienweg",,525819,53.62116,10.025471,1
+"Hamburg, Maike-Harder-Weg",,196316,53.666023,10.09024,1
+"Hamburg, Maisredder",,20081,53.62732,10.085444,1
+"Hamburg, Majestätische Aussicht",,559990,53.453876,9.92542,1
+"Hamburg, Maler- und Lackierer-Museum",,178764,53.52148,10.118775,1
+"Hamburg, Manilabrücke",,212114,53.6071,10.022425,1
+"Hamburg, Mannesallee",,375227,53.51477,9.98725,1
+"Hamburg, Manshardtstraße",,11870,53.55731,10.115721,1
+"Hamburg, Mansteinstraße",,262762,53.57865,9.965784,1
+"Hamburg, Marco-Polo-Terrassen",,390715,53.540405,9.993709,1
+"Hamburg, Maretstraße (Bürgerzentrum)",,192015,53.452206,9.982787,1
+"Hamburg, Margit-Zinke-Straße (Nord)",,642051,53.48879,10.166036,1
+"Hamburg, Maria-Louisen-Straße",,415348,53.58687,10.002396,1
+"Hamburg, Maria-Louisen-Straße (Nord)",,546386,53.59146,10.007292,1
+"Hamburg, Marie-Henning-Weg",,280084,53.484528,10.154289,1
+"Hamburg, Marienkrankenhaus",,473170,53.56076,10.034301,1
+"Hamburg, Marienkäferweg",,464820,53.42538,9.964351,1
+"Hamburg, Marktkanal",,386202,53.5275,10.025482,1
+"Hamburg, Marlowring",,634620,53.573105,9.925351,1
+"Hamburg, Marmstorfer Kirche",,571763,53.439407,9.967503,1
+"Hamburg, Marmstorfer Weg (Nord)",,211801,53.451782,9.971969,1
+"Hamburg, Marner Straße",,25117,53.58682,10.10404,1
+"Hamburg, Marschbahndamm",,528128,53.428616,10.154458,1
+"Hamburg, Marschkamper Deich",,444836,53.51503,9.794452,1
+"Hamburg, Marschkamper Deich 72",,10956,53.5202,9.799433,1
+"Hamburg, Marschweg (Kehre)",,92659,53.584423,9.778086,1
+"Hamburg, Martensallee",,388613,53.59066,10.134044,1
+"Hamburg, Marxsenweg",,348501,53.555214,9.865175,1
+"Hamburg, Mattkamp",,401311,53.545822,10.126478,1
+"Hamburg, Max-Brauer-Allee (Mitte)",,501103,53.55859,9.949452,1
+"Hamburg, Max-Eichholz-Ring",,395544,53.50453,10.218241,1
+"Hamburg, Max-Klinger-Straße",,267311,53.52981,10.144361,1
+"Hamburg, Max-Tau-Straße",,621286,53.592262,9.951083,1
+"Hamburg, Maxstraße",,592703,53.57085,10.048239,1
+"Hamburg, Maybachstraße",,613353,53.598137,10.056316,1
+"Hamburg, Mehrenskamp",,549210,53.53446,10.121244,1
+"Hamburg, Mehringweg",,423495,53.456825,9.960131,1
+"Hamburg, Meiendorfer Weg",,32841,53.638687,10.155871,1
+"Hamburg, Mellande",,402191,53.641674,10.105852,1
+"Hamburg, Mellingburgredder",,115969,53.668365,10.106127,1
+"Hamburg, Mendelstraße",,350346,53.51143,10.186345,1
+"Hamburg, Mengestraße",,58511,53.50081,9.991462,1
+"Hamburg, Mensingstraße",,297342,53.44274,9.996986,1
+"Hamburg, Mergenthalerweg",,610127,53.61333,9.895935,1
+"Hamburg, Meriandamm",,445124,53.552174,10.111241,1
+"Hamburg, Merkenstraße",,196354,53.538643,10.125463,1
+"Hamburg, Merlingasse",,253567,53.47601,9.846121,1
+"Hamburg, Messehallen",,323407,53.557835,9.976784,1
+"Hamburg, Mesterbrooksweg",,159787,53.704975,10.102969,1
+"Hamburg, Meßberg",,171411,53.547714,10.000821,1
+"Hamburg, Michael-Pritzl-Weg",,571355,53.481007,10.156859,1
+"Hamburg, Michaeliskirche",,510797,53.549248,9.978527,1
+"Hamburg, Minsbekweg",,244072,53.655983,10.076982,1
+"Hamburg, Mittelallee",,194294,53.622856,10.057176,1
+"Hamburg, Mittlerer Landweg (Nord)",,554705,53.502396,10.139613,1
+"Hamburg, Mittlerer Landweg (Süd)",,565104,53.488823,10.119075,1
+"Hamburg, Modering",,462224,53.63779,9.920523,1
+"Hamburg, Mohnhof",,377457,53.486275,10.213785,1
+"Hamburg, Moltrechtweg",,403942,53.615936,10.007543,1
+"Hamburg, Moorburger Alter Deich",,599443,53.499043,9.891261,1
+"Hamburg, Moorburger Bogen",,610630,53.474487,9.950599,1
+"Hamburg, Moorburger Elbdeich 227",,258713,53.493362,9.931735,1
+"Hamburg, Moorburger Elbdeich 273",,35680,53.495052,9.922158,1
+"Hamburg, Moorburger Elbdeich 297",,516470,53.49517,9.91865,1
+"Hamburg, Moorburger Elbdeich 379",,11974,53.498005,9.901457,1
+"Hamburg, Moorburger Kirchdeich",,641271,53.48985,9.936388,1
+"Hamburg, Moorburger Kirche",,394038,53.48963,9.94131,1
+"Hamburg, Moorburger Kreuzung",,111819,53.495693,9.910303,1
+"Hamburg, Moorburger Ring",,638303,53.480686,9.873072,1
+"Hamburg, Moorburger Straße",,302784,53.473034,9.958232,1
+"Hamburg, Moorfleet",,282890,53.511917,10.088042,1
+"Hamburg, Moorfleet (Châu-und-Lân-Straße)",,636690,53.51246,10.088725,1
+"Hamburg, Moorfleet (Feuerwehr)",,52997,53.512054,10.086659,1
+"Hamburg, Moorfleeter Brückenstraße",,232445,53.50107,10.081178,1
+"Hamburg, Moorfleeter Deich",,429987,53.518158,10.069462,1
+"Hamburg, Moorfleeter Deich (Ost)",,379196,53.484882,10.116109,1
+"Hamburg, Moorfleeter Deich 344",,314043,53.495667,10.091393,1
+"Hamburg, Moorfleeter Deich 380",,450383,53.4922,10.092298,1
+"Hamburg, Moorfleeter Deich 427",,125418,53.487602,10.094922,1
+"Hamburg, Moorfleeter Hauptdeich",,141394,53.500988,10.079217,1
+"Hamburg, Moorfleeter Kirchenweg",,227667,53.51339,10.08018,1
+"Hamburg, Moorfleeter Straße (Mitte)",,149538,53.529713,10.094546,1
+"Hamburg, Moorfleeter Straße (Nord)",,608891,53.536057,10.09842,1
+"Hamburg, Moorfleeter Straße (Süd)",,340276,53.522343,10.088852,1
+"Hamburg, Moorlage",,459103,53.429314,9.972359,1
+"Hamburg, Moorrand",,293275,53.64306,9.972382,1
+"Hamburg, Moorredder",,372318,53.6592,10.182506,1
+"Hamburg, Moorstieg",,284941,53.470585,9.921085,1
+"Hamburg, Moorstraße (Phoenix-Center)",,345596,53.456917,9.986464,1
+"Hamburg, Moorwerder Hauptdeich 35",,15396,53.465965,10.055695,1
+"Hamburg, Moorwerder Hauptdeich 69",,119075,53.47267,10.046389,1
+"Hamburg, Moorwerder Mühle",,254802,53.470676,10.060526,1
+"Hamburg, Moorwerder Norderdeich (Fußweg)",,2144,53.476402,10.058229,1
+"Hamburg, Moorwerder Norderdeich (Ost)",,143928,53.473682,10.0603,1
+"Hamburg, Moorwerder Osterdeich",,293315,53.46781,10.060605,1
+"Hamburg, Moosberg (Pflegezentrum)",,57405,53.498,10.182067,1
+"Hamburg, Moränenweg",,137276,53.610836,10.163686,1
+"Hamburg, Mozartstraße",,643098,53.57838,10.021837,1
+"Hamburg, Mundsburg",,199955,53.569427,10.027539,1
+"Hamburg, Mundsburger Brücke",,565549,53.56557,10.019747,1
+"Hamburg, Museum am Rothenbaum",,433407,53.56795,9.988378,1
+"Hamburg, Museum für Hamburgische Geschichte",,647783,53.550488,9.974014,1
+"Hamburg, Musäusstraße",,505433,53.580456,9.816605,1
+"Hamburg, Mörkenstraße",,631966,53.54944,9.945822,1
+"Hamburg, Müggenburger Schleuse",,481926,53.512684,10.055266,1
+"Hamburg, Müggenburger Straße",,185086,53.51164,10.052761,1
+"Hamburg, Mühlenauweg",,208356,53.604744,9.909637,1
+"Hamburg, Mühlenberg",,427226,53.56076,9.822972,1
+"Hamburg, Mühlenhagen",,524802,53.53658,10.067452,1
+"Hamburg, Mühlenredder",,524591,53.710743,10.129836,1
+"Hamburg, Mümmelmannsberg",,592721,53.528156,10.149932,1
+"Hamburg, Münterweg",,575815,53.527462,10.144674,1
+"Hamburg, Müssenredder (Mitte)",,498740,53.655422,10.073147,1
+"Hamburg, Nachtigallenweg",,605911,53.45133,9.947899,1
+"Hamburg, Nagelshof",,463195,53.581722,9.752112,1
+"Hamburg, Nagelstegel",,164817,53.456165,10.080413,1
+"Hamburg, Nagelsweg",,300679,53.5435,10.022158,1
+"Hamburg, Naturschutzgebiet Höltigbaum",,74166,53.611244,10.183477,1
+"Hamburg, Neckersstücken",,402310,53.47135,9.819899,1
+"Hamburg, Nedderfeld",,457939,53.603245,9.96197,1
+"Hamburg, Nedderfeld (Anscharhöhe)",,524704,53.60097,9.984195,1
+"Hamburg, Nedderfeld (Kehre)",,87712,53.603867,9.963006,1
+"Hamburg, Nedderfeld Center",,593692,53.601685,9.973999,1
+"Hamburg, Neesentwiete",,270667,53.40996,10.171983,1
+"Hamburg, Nehlsstraße",,443250,53.53008,9.96964,1
+"Hamburg, Neißestraße",,328141,53.60705,9.864981,1
+"Hamburg, Nektarweg",,363508,53.63731,10.13339,1
+"Hamburg, Nesselstraße",,385529,53.618214,10.019717,1
+"Hamburg, Nettelnburger Kirchenweg",,394222,53.48018,10.182776,1
+"Hamburg, Nettelnburger Landweg (Süd)",,571657,53.471157,10.174588,1
+"Hamburg, Nettelnburger Landweg 192",,429784,53.475792,10.177509,1
+"Hamburg, Nettelnburger Straße",,289026,53.476326,10.195802,1
+"Hamburg, Nettelnburger Straße (Mitte)",,536455,53.47743,10.187384,1
+"Hamburg, Neue Bullerrinne",,264656,53.530746,9.847936,1
+"Hamburg, Neue Wöhr",,621975,53.598976,10.041549,1
+"Hamburg, Neuenfelder Damm",,493048,53.53,9.805228,1
+"Hamburg, Neuenfelder Fährdeich (Ost)",,448371,53.52839,9.79728,1
+"Hamburg, Neuenfelder Kirche",,636260,53.52399,9.810271,1
+"Hamburg, Neuenfelder Straße (Schule)",,604149,53.493584,10.012946,1
+"Hamburg, Neuengammer Elbdeich",,6070,53.422535,10.257338,1
+"Hamburg, Neuengammer Hauptdeich",,41199,53.417343,10.252748,1
+"Hamburg, Neuengammer Hausdeich 310",,760,53.449093,10.214591,1
+"Hamburg, Neuengammer Hausdeich 331",,274530,53.451138,10.214875,1
+"Hamburg, Neuengammer Hausdeich 351",,446571,53.45323,10.213896,1
+"Hamburg, Neuengammer Hausdeich 421",,25690,53.45785,10.205687,1
+"Hamburg, Neuengammer Hausdeich 490",,325687,53.463078,10.198291,1
+"Hamburg, Neuengammer Hausdeich 52",,437043,53.42648,10.249601,1
+"Hamburg, Neuengammer Heerweg",,194027,53.419643,10.220821,1
+"Hamburg, Neuengammer Hinterdeich",,296371,53.446648,10.176726,1
+"Hamburg, Neuengammer Hinterdeich (Ost)",,498373,53.427753,10.21511,1
+"Hamburg, Neuengammer Hinterdeich 123",,349138,53.433033,10.203028,1
+"Hamburg, Neuengammer Hinterdeich 143",,582422,53.435593,10.205087,1
+"Hamburg, Neuengammer Hinterdeich 180",,189519,53.438854,10.203102,1
+"Hamburg, Neuengammer Hinterdeich 60",,46421,53.428787,10.205466,1
+"Hamburg, Neuengammer Kirche",,81620,53.44603,10.222255,1
+"Hamburg, Neuengammer Marschbahndamm",,378883,53.42406,10.253502,1
+"Hamburg, Neuer Friedhof",,416377,53.44587,9.956061,1
+"Hamburg, Neuer Fährweg",,235141,53.5303,9.790892,1
+"Hamburg, Neuer Höltigbaum",,413540,53.608143,10.185414,1
+"Hamburg, Neuer Pferdemarkt",,263704,53.5584,9.963346,1
+"Hamburg, Neugraben",,420741,53.47402,9.851885,1
+"Hamburg, Neugrabener Heideweg",,334640,53.462223,9.866103,1
+"Hamburg, Neugrabener Markt",,466443,53.47075,9.854419,1
+"Hamburg, Neuhof",,403575,53.524166,9.94071,1
+"Hamburg, Neuhof (Fähre)",,239284,53.52527,9.94198,1
+"Hamburg, Neuhöfer Damm",,144024,53.512794,9.969335,1
+"Hamburg, Neuhöfer Straße (Mitte)",,370018,53.510704,9.982281,1
+"Hamburg, Neuhöfer Straße (Ost)",,169381,53.510185,9.992676,1
+"Hamburg, Neuland",,46003,53.462936,10.003904,1
+"Hamburg, Neuländer Elbdeich 174",,183613,53.47103,10.021123,1
+"Hamburg, Neuländer Elbdeich 76",,269840,53.468163,10.006648,1
+"Hamburg, Neuländer Hauptdeich",,377290,53.470085,9.994856,1
+"Hamburg, Neuländer Straße",,189708,53.466606,9.991839,1
+"Hamburg, Neuländer Weg",,556763,53.462868,10.007004,1
+"Hamburg, Neumühlen/Övelgönne",,271681,53.543533,9.914523,1
+"Hamburg, Neumühlen/Övelgönne (Fähre)",,459722,53.544224,9.91487,1
+"Hamburg, Neumühler Kirchenweg",,112012,53.54476,9.925683,1
+"Hamburg, Neurahlstedter Graben",,260946,53.610386,10.177499,1
+"Hamburg, Neusurenland",,640316,53.61639,10.113517,1
+"Hamburg, Neuwiedenthaler Straße (Ost)",,592290,53.47709,9.898904,1
+"Hamburg, Neuwiedenthaler Straße (West)",,258463,53.47676,9.861845,1
+"Hamburg, Neßpriel",,18845,53.536083,9.858028,1
+"Hamburg, Niedergeorgswerder Deich (Süd)",,65784,53.503685,10.027394,1
+"Hamburg, Niekampsweg",,470740,53.61116,9.89536,1
+"Hamburg, Niendorf Markt",,434253,53.620358,9.951886,1
+"Hamburg, Niendorf Nord",,376853,53.64084,9.9502,1
+"Hamburg, Niendorfer Gehege",,248026,53.609985,9.926626,1
+"Hamburg, Niendorfer Straße",,573368,53.61018,9.958204,1
+"Hamburg, Nienstedtener Marktplatz",,118957,53.5538,9.844731,1
+"Hamburg, Nincoper Straße 160",,219591,53.51547,9.792198,1
+"Hamburg, Nincoper Straße 28",,208156,53.512848,9.819389,1
+"Hamburg, Nincoper Straße 99",,399569,53.513504,9.803664,1
+"Hamburg, Nippoldstraße (Ost)",,137923,53.515247,9.969241,1
+"Hamburg, Nippoldstraße (West)",,110890,53.520702,9.944472,1
+"Hamburg, Norbert-Schmid-Platz",,95107,53.65389,10.062777,1
+"Hamburg, Norderkirchenweg",,244102,53.528545,9.864088,1
+"Hamburg, Norderloch",,62392,53.537403,9.967349,1
+"Hamburg, Norderquerweg 42",,97561,53.4343,10.191583,1
+"Hamburg, Norderquerweg 92",,28592,53.4295,10.196835,1
+"Hamburg, Norderschulweg",,485992,53.53349,9.875923,1
+"Hamburg, Nordmarkstraße",,480030,53.581993,10.110392,1
+"Hamburg, Nordmeerstraße",,71427,53.53481,9.859088,1
+"Hamburg, Nordmeertwiete",,496304,53.531574,9.859053,1
+"Hamburg, Nordteich",,279486,53.625057,10.042055,1
+"Hamburg, Normannenweg",,327374,53.55118,10.035561,1
+"Hamburg, Nymphenweg",,75485,53.44179,9.968415,1
+"Hamburg, Nüßlerkamp",,555019,53.622616,10.084329,1
+"Hamburg, O'Swaldstraße",,262928,53.556328,10.07975,1
+"Hamburg, Obenhauptstraße",,630333,53.620743,10.007491,1
+"Hamburg, Oberer Landweg (Eisenbahnbrücke)",,395338,53.487766,10.185714,1
+"Hamburg, Oberhafenbrücke",,225108,53.544415,10.005359,1
+"Hamburg, Oberschleems",,453138,53.53814,10.118913,1
+"Hamburg, Oberstraße",,184557,53.577633,9.988951,1
+"Hamburg, Oberwerder Damm",,104624,53.525154,10.026979,1
+"Hamburg, Ochsenwerder Elbdeich",,66962,53.446663,10.107836,1
+"Hamburg, Ochsenwerder Elbdeich 3",,82284,53.45747,10.075342,1
+"Hamburg, Ochsenwerder Kirche",,252479,53.476627,10.084518,1
+"Hamburg, Ochsenwerder Mühlenweg",,162878,53.478382,10.098932,1
+"Hamburg, Ochsenwerder Norderdeich 194",,285521,53.46774,10.109123,1
+"Hamburg, Ochsenwerder Norderdeich 220",,396829,53.465527,10.113086,1
+"Hamburg, Ochsenwerder Norderdeich 320",,414741,53.461365,10.130548,1
+"Hamburg, Ochsenzoll",,425678,53.678146,10.001597,1
+"Hamburg, Oddernskamp",,301169,53.59868,9.952299,1
+"Hamburg, Odemanns Heck",,194365,53.44656,10.220359,1
+"Hamburg, Oehleckerring",,75857,53.6603,10.002701,1
+"Hamburg, Oesterleystraße",,415176,53.561394,9.81165,1
+"Hamburg, Offakamp",,620303,53.59864,9.971528,1
+"Hamburg, Offenbachweg",,256014,53.632633,10.173916,1
+"Hamburg, Ohkamp",,324884,53.638046,10.023809,1
+"Hamburg, Ohlendieck",,616585,53.662582,10.087443,1
+"Hamburg, Ohlendorffs Tannen",,509582,53.66806,10.147304,1
+"Hamburg, Ohlsdorf",,518692,53.62059,10.031668,1
+"Hamburg, Ohlsdorfer Straße (Planetarium)",,522323,53.599346,10.00677,1
+"Hamburg, Ohlstedt",,285928,53.694393,10.137216,1
+"Hamburg, Ohnsorgweg",,222417,53.55488,9.869575,1
+"Hamburg, Ohrnsweg",,312877,53.473904,9.822208,1
+"Hamburg, Oldenburger Straße",,86218,53.605576,9.929068,1
+"Hamburg, Oldenfelde",,613340,53.617603,10.128772,1
+"Hamburg, Oldesloer Straße",,260520,53.63547,9.918486,1
+"Hamburg, Olivaer Straße",,72689,53.583588,10.057584,1
+"Hamburg, Oortkaten",,503354,53.44904,10.090422,1
+"Hamburg, Oortkatenufer",,119205,53.440666,10.101239,1
+"Hamburg, Oortkatenweg",,345768,53.456528,10.105699,1
+"Hamburg, Oortkatenweg (Nord)",,501849,53.46419,10.120233,1
+"Hamburg, Op de Elg",,333484,53.654957,10.11833,1
+"Hamburg, Op'n Hainholt",,272099,53.58073,9.810632,1
+"Hamburg, Opferberg",,36490,53.47198,9.876462,1
+"Hamburg, Orchideenstieg",,123649,53.602665,9.990231,1
+"Hamburg, Organistenweg",,327172,53.520638,9.811895,1
+"Hamburg, Ortwinstieg",,172468,53.57886,9.773953,1
+"Hamburg, Osakaallee (Überseequartier)",,352915,53.5428,9.998583,1
+"Hamburg, Osdorfer Weg",,355374,53.565872,9.895429,1
+"Hamburg, Ost-Kraueler Bogen",,414635,53.397686,10.224988,1
+"Hamburg, Osterbrookplatz",,553424,53.547108,10.057519,1
+"Hamburg, Osterfelddeich",,363006,53.520004,9.885731,1
+"Hamburg, Osterfeldweg",,183645,53.435966,9.971864,1
+"Hamburg, Osterkamp",,440476,53.569656,10.100076,1
+"Hamburg, Ostermeyerstraße",,37791,53.568424,9.866396,1
+"Hamburg, Osterstraße",,410421,53.576088,9.951676,1
+"Hamburg, Oststeinbeker Weg (Mitte)",,280195,53.5386,10.14045,1
+"Hamburg, Oststeinbeker Weg (West)",,611613,53.53572,10.131353,1
+"Hamburg, Otto-Grot-Straße",,604309,53.488663,10.147561,1
+"Hamburg, Otto-Hahn-Schule Jenfeld",,647970,53.579136,10.127998,1
+"Hamburg, Overhaken",,595465,53.436775,10.106977,1
+"Hamburg, Overwerder",,311926,53.430614,10.113407,1
+"Hamburg, Owiesenstraße",,134522,53.606445,10.067069,1
+"Hamburg, Paeplowstieg",,317661,53.615704,9.986139,1
+"Hamburg, Pahlblöckensstieg",,172366,53.606487,10.169081,1
+"Hamburg, Palstek",,44088,53.533775,9.851315,1
+"Hamburg, Paracelsusstraße",,590422,53.59744,10.13196,1
+"Hamburg, Parkallee",,458319,53.57255,9.983994,1
+"Hamburg, Parkplatz Dradenau",,443042,53.523933,9.903033,1
+"Hamburg, Parkstraße",,507488,53.55297,9.881938,1
+"Hamburg, Paul-Roosen-Straße",,515462,53.553368,9.954178,1
+"Hamburg, Paulinenstraße",,223731,53.554955,9.964641,1
+"Hamburg, Pepermölenbek",,51302,53.54745,9.953939,1
+"Hamburg, Perelsstraße",,537149,53.510956,10.203441,1
+"Hamburg, Perelsstraße (Mitte)",,561721,53.509216,10.201915,1
+"Hamburg, Peter-Timm-Straße",,411185,53.63965,9.915963,1
+"Hamburg, Peuter Elbdeich",,209222,53.521652,10.043374,1
+"Hamburg, Peutestraße 22",,229724,53.523987,10.036209,1
+"Hamburg, Peutestraße 50",,151736,53.520138,10.04792,1
+"Hamburg, Peutestraße 72",,284955,53.517902,10.052735,1
+"Hamburg, Pfeilshofer Weg",,156396,53.64171,10.097279,1
+"Hamburg, Pfingstberg",,210572,53.488075,10.228285,1
+"Hamburg, Pflegezentrum Farmsen",,485116,53.613716,10.114867,1
+"Hamburg, Pflegezentrum Holstenhof",,146836,53.567944,10.122915,1
+"Hamburg, Pflegezentrum Lutherpark",,475532,53.572914,9.906326,1
+"Hamburg, Pflugacker",,614994,53.61368,9.898345,1
+"Hamburg, Philosophenweg",,178955,53.54924,9.909697,1
+"Hamburg, Pieperweg",,170171,53.580265,9.823049,1
+"Hamburg, Pinkertbrücke",,154287,53.527527,10.084687,1
+"Hamburg, Pinkertweg (Mitte)",,62887,53.52624,10.092782,1
+"Hamburg, Pinkertweg (Ost)",,245972,53.522373,10.104866,1
+"Hamburg, Pinkertweg 12",,20982,53.5268,10.089645,1
+"Hamburg, Pinneberger Chaussee",,451666,53.6185,9.889637,1
+"Hamburg, Plattenfoort",,200598,53.6289,10.137261,1
+"Hamburg, Platz der Arbeiterinnen",,291792,53.55836,9.938656,1
+"Hamburg, Plettenbergstraße",,13623,53.504715,10.203566,1
+"Hamburg, Pollhof",,469839,53.47341,10.230678,1
+"Hamburg, Pommernweg",,246066,53.642708,9.956588,1
+"Hamburg, Poppenbütteler Berg",,425313,53.668762,10.082564,1
+"Hamburg, Poppenbütteler Bogen",,194389,53.670593,10.070091,1
+"Hamburg, Poppenbüttler Markt",,150273,53.65941,10.084959,1
+"Hamburg, Poppenbüttler Stieg",,314645,53.644775,10.051781,1
+"Hamburg, Porgesring",,575208,53.521503,10.098073,1
+"Hamburg, Potsdamer Straße",,290567,53.58589,10.148625,1
+"Hamburg, Preetzer Straße",,519109,53.633045,10.016855,1
+"Hamburg, Prehnsweg",,606557,53.604618,10.174695,1
+"Hamburg, Prinzenweg",,388753,53.55472,10.113465,1
+"Hamburg, Pröbenweg",,111710,53.55445,10.050157,1
+"Hamburg, Pulverhofsweg",,286471,53.598682,10.123549,1
+"Hamburg, Pumpwerk Allermöhe",,315083,53.481934,10.117989,1
+"Hamburg, Püttenhorst (Süd)",,117374,53.477898,10.186222,1
+"Hamburg, Quellgrund",,528998,53.452885,9.867097,1
+"Hamburg, Querkamp",,108238,53.551434,10.094292,1
+"Hamburg, Quittenweg",,258240,53.62726,10.109208,1
+"Hamburg, Raalandsweg",,410202,53.57727,9.761182,1
+"Hamburg, Rabenstein",,342432,53.446198,9.969253,1
+"Hamburg, Radickestraße",,279622,53.439445,10.002191,1
+"Hamburg, Rahel-Varnhagen-Weg",,128110,53.488007,10.174406,1
+"Hamburg, Rahewinkel",,335409,53.52275,10.155253,1
+"Hamburg, Rahlstedt",,168702,53.604813,10.154472,1
+"Hamburg, Rahlstedt Center",,51821,53.604248,10.158338,1
+"Hamburg, Rahlstedter Kamp",,52108,53.609524,10.173743,1
+"Hamburg, Rahlstedter Weg (Mitte)",,230729,53.602634,10.127703,1
+"Hamburg, Rahmwerder Straße",,372800,53.511932,10.021036,1
+"Hamburg, Rahnstraße",,526599,53.605663,10.070932,1
+"Hamburg, Rambachstraße",,149927,53.544548,9.97602,1
+"Hamburg, Rathaus Altona",,234412,53.547726,9.936324,1
+"Hamburg, Rathaus Bergedorf",,639961,53.487545,10.220315,1
+"Hamburg, Rathaus Stellingen",,11422,53.592625,9.934946,1
+"Hamburg, Rathaus Wilhelmsburg",,218277,53.49937,9.996688,1
+"Hamburg, Rathausmarkt",,176517,53.550488,9.99457,1
+"Hamburg, Rathausmarkt (Petrikirche)",,370136,53.55035,9.996025,1
+"Hamburg, Ratsmühlendamm",,139792,53.62739,10.013015,1
+"Hamburg, Rauchschwalbenweg",,309500,53.621174,10.14251,1
+"Hamburg, Rauhes Haus",,44843,53.554188,10.066145,1
+"Hamburg, Rauschener Ring",,4753,53.594334,10.081202,1
+"Hamburg, Rebenacker",,396979,53.61912,9.901181,1
+"Hamburg, Recknitzstraße",,55078,53.599354,9.867286,1
+"Hamburg, Reclamstraße",,58952,53.538597,10.110206,1
+"Hamburg, Redderblock",,109227,53.615997,10.152268,1
+"Hamburg, Redingskamp",,516738,53.612667,9.890768,1
+"Hamburg, Reeseberg",,229235,53.450684,9.987584,1
+"Hamburg, Reestück",,631288,53.650078,10.009158,1
+"Hamburg, Regerstraße (Ost)",,274754,53.571064,9.916914,1
+"Hamburg, Rehkoppel",,464902,53.560345,10.119665,1
+"Hamburg, Rehmbrook",,427149,53.66073,10.076655,1
+"Hamburg, Rehrstieg",,216489,53.477367,9.875022,1
+"Hamburg, Reichsbahnstraße",,530818,53.602524,9.912233,1
+"Hamburg, Reiherstieg Hauptdeich",,452294,53.51115,9.978161,1
+"Hamburg, Reimboldweg",,351486,53.48265,10.227285,1
+"Hamburg, Reinheimerweg",,229683,53.583065,9.814436,1
+"Hamburg, Reinskamp",,86635,53.54433,10.127238,1
+"Hamburg, Reitbrooker Hinterdeich",,126833,53.461227,10.139413,1
+"Hamburg, Reitbrooker Mühle",,563523,53.467823,10.170747,1
+"Hamburg, Reitbrooker Mühlenbrücke",,76931,53.46797,10.176006,1
+"Hamburg, Reitdeich",,276316,53.475163,10.101937,1
+"Hamburg, Rentenversicherung Nord",,117826,53.59211,10.108709,1
+"Hamburg, Repsoldstraße",,634867,53.548416,10.015442,1
+"Hamburg, Rethebrücke (Süd)",,644849,53.50218,9.967812,1
+"Hamburg, Reventlowstraße",,372787,53.552402,9.890573,1
+"Hamburg, Rheingoldweg (Ost)",,238501,53.583885,9.75366,1
+"Hamburg, Rheingoldweg (West)",,591390,53.586292,9.739539,1
+"Hamburg, Rhiemsweg",,463648,53.55787,10.074976,1
+"Hamburg, Richard-Dehmel-Straße",,25936,53.56273,9.798817,1
+"Hamburg, Richard-Gödeke-Weg",,263105,53.48543,10.184806,1
+"Hamburg, Richard-Linde-Weg",,186255,53.50153,10.187952,1
+"Hamburg, Richardstraße",,49619,53.56863,10.038735,1
+"Hamburg, Richeystraße",,98454,53.603237,10.051685,1
+"Hamburg, Rickelstraße",,410251,53.448723,9.94894,1
+"Hamburg, Rieck-Museum",,153631,53.45875,10.215454,1
+"Hamburg, Rieckweg",,272210,53.448906,10.230059,1
+"Hamburg, Riehlstraße",,362373,53.4973,10.196906,1
+"Hamburg, Riepenburg",,239113,53.402115,10.204786,1
+"Hamburg, Riepenburger Brack",,572749,53.4001,10.209165,1
+"Hamburg, Ringheide",,15925,53.46188,9.854497,1
+"Hamburg, Ringstraße",,584675,53.635902,10.16285,1
+"Hamburg, Rispengrasweg",,559264,53.56081,10.126393,1
+"Hamburg, Rissener Busch",,611091,53.5796,9.766176,1
+"Hamburg, Rissener Dorfstraße",,347920,53.58221,9.754416,1
+"Hamburg, Rissener Ufer",,619188,53.56578,9.761005,1
+"Hamburg, Ritterstraße",,336558,53.567596,10.046196,1
+"Hamburg, Rittmerskamp",,230811,53.64828,10.009085,1
+"Hamburg, Rolfinckstraße",,323557,53.639187,10.094779,1
+"Hamburg, Rondenbarg",,456317,53.57841,9.919655,1
+"Hamburg, Rosenbrook",,602055,53.60403,9.985852,1
+"Hamburg, Rostweg",,478895,53.47157,9.832569,1
+"Hamburg, Rote Brücke",,584424,53.530342,10.108784,1
+"Hamburg, Rotenbrückenweg",,371500,53.530396,10.116733,1
+"Hamburg, Rotenhäuser Straße (Ost)",,40661,53.50636,10.004126,1
+"Hamburg, Rotenhäuser Straße (West)",,232638,53.50447,9.991939,1
+"Hamburg, Roter Hahn",,118898,53.625484,10.117399,1
+"Hamburg, Rothenburgsorter Marktplatz",,170489,53.53468,10.038461,1
+"Hamburg, Rothenburgstraße",,534589,53.53152,10.056225,1
+"Hamburg, Rothenhauschaussee 243",,390028,53.471966,10.263468,1
+"Hamburg, Rothestraße",,64279,53.5477,9.929066,1
+"Hamburg, Roßkanal",,405946,53.522114,9.947821,1
+"Hamburg, Roßweg/HDW",,648721,53.522964,9.945834,1
+"Hamburg, Rubbertstraße 30",,66157,53.51091,10.004008,1
+"Hamburg, Rudolf Steiner Schule Harburg",,495957,53.461533,9.89189,1
+"Hamburg, Rudolf-Kinau-Allee",,595448,53.535675,9.853269,1
+"Hamburg, Rudolf-Roß-Allee",,394892,53.55835,10.103027,1
+"Hamburg, Rudorffweg",,181644,53.512444,10.178414,1
+"Hamburg, Rugenbarg (Nord)",,127642,53.58847,9.876199,1
+"Hamburg, Rugenfeld",,69809,53.578743,9.850618,1
+"Hamburg, Ruhrstraße",,149096,53.570694,9.923321,1
+"Hamburg, Rungedamm (Mitte)",,345740,53.49887,10.110313,1
+"Hamburg, Rungedamm (Nord)",,294476,53.499767,10.105845,1
+"Hamburg, Rungedamm (Ost)",,334241,53.49361,10.127006,1
+"Hamburg, Rungedamm (West)",,242491,53.497185,10.097535,1
+"Hamburg, Rupertistraße (Mitte)",,221021,53.55714,9.838127,1
+"Hamburg, Ruscheweyhstraße",,334514,53.649044,10.060977,1
+"Hamburg, Ruselerweg",,269414,53.492493,10.195746,1
+"Hamburg, Ruwoldtweg",,62917,53.609158,10.047556,1
+"Hamburg, Rögenfeld",,217001,53.653313,10.151093,1
+"Hamburg, Rögenweg",,326459,53.656227,10.160187,1
+"Hamburg, Rönkkoppel",,425613,53.613663,10.107295,1
+"Hamburg, Rönneburger Kirchweg",,410177,53.428486,9.982224,1
+"Hamburg, Röntgenstraße",,112610,53.62355,10.011276,1
+"Hamburg, Röpers Weide",,638849,53.557095,9.892965,1
+"Hamburg, Röpraredder",,148648,53.509914,10.21027,1
+"Hamburg, Röschdaalskoppel",,505811,53.587208,9.764456,1
+"Hamburg, Röthmoorweg",,645280,53.628555,9.922363,1
+"Hamburg, Röörfeld",,354365,53.518997,9.952033,1
+"Hamburg, Rübezahlstraße",,468330,53.564278,10.120689,1
+"Hamburg, Rüdigerau (Kinder-Hospiz)",,292225,53.589817,9.752331,1
+"Hamburg, Rüschhalbinsel",,144535,53.535164,9.866108,1
+"Hamburg, Rüschpark",,407646,53.541615,9.863404,1
+"Hamburg, Rüschpark (Fähre)",,470233,53.539978,9.863582,1
+"Hamburg, Rüschpark (Leegerwall)",,208675,53.539307,9.86212,1
+"Hamburg, Rüstweg",,347456,53.417248,9.982847,1
+"Hamburg, S Allermöhe",,38805,53.490494,10.15873,1
+"Hamburg, S Allermöhe (Stellbrinkweg)",,214553,53.489803,10.159675,1
+"Hamburg, S Alte Wöhr",,457955,53.597507,10.036845,1
+"Hamburg, S Bahrenfeld",,476417,53.559914,9.910093,1
+"Hamburg, S Billwerder-Moorfleet",,277758,53.516617,10.095927,1
+"Hamburg, S Blankenese",,574254,53.56375,9.813869,1
+"Hamburg, S Diebsteich (Ostseite)",,538406,53.566673,9.934992,1
+"Hamburg, S Diebsteich (Westseite)",,41893,53.568714,9.931746,1
+"Hamburg, S Elbgaustraße",,648002,53.60338,9.892914,1
+"Hamburg, S Friedrichsberg",,423668,53.57606,10.058423,1
+"Hamburg, S Hamburg Airport",,354990,53.63265,10.00645,1
+"Hamburg, S Hammerbrook (Nord)",,225933,53.54832,10.022546,1
+"Hamburg, S Hammerbrook (Süd)",,421895,53.546185,10.024184,1
+"Hamburg, S Harburg Rathaus",,616384,53.460533,9.981685,1
+"Hamburg, S Harburg Rathaus (Eißendorfer Straße)",,105496,53.460266,9.976966,1
+"Hamburg, S Harburg Rathaus (Hölertwiete)",,59634,53.461403,9.982006,1
+"Hamburg, S Heimfeld",,555482,53.46554,9.962692,1
+"Hamburg, S Hochkamp",,8003,53.561207,9.842675,1
+"Hamburg, S Holstenstraße",,148810,53.56199,9.948537,1
+"Hamburg, S Holstenstraße (Holstenplatz)",,37065,53.561905,9.946402,1
+"Hamburg, S Iserbrook",,424542,53.5774,9.813894,1
+"Hamburg, S Klein Flottbek",,374658,53.55843,9.861559,1
+"Hamburg, S Landwehr (Hasselbrookstraße)",,306965,53.561775,10.037586,1
+"Hamburg, S Landwehr (Ramazan-Avci-Platz)",,480254,53.561474,10.03708,1
+"Hamburg, S Mittlerer Landweg",,154306,53.497337,10.131942,1
+"Hamburg, S Nettelnburg",,455587,53.488525,10.182632,1
+"Hamburg, S Nettelnburg (Südeingang)",,356561,53.486378,10.180026,1
+"Hamburg, S Neugraben",,135332,53.473476,9.853827,1
+"Hamburg, S Neugraben (Am Johannisland)",,88909,53.475533,9.853958,1
+"Hamburg, S Neugraben (Nordseite)",,83366,53.47478,9.853521,1
+"Hamburg, S Neuwiedenthal",,582471,53.47267,9.874338,1
+"Hamburg, S Othmarschen",,128955,53.559,9.887195,1
+"Hamburg, S Ottensen",,124132,53.55969,9.927745,1
+"Hamburg, S Poppenbüttel (Stormarnplatz)",,414481,53.65135,10.094414,1
+"Hamburg, S Poppenbüttel (Wentzelplatz)",,453152,53.651764,10.093169,1
+"Hamburg, S Reeperbahn",,344845,53.549675,9.955574,1
+"Hamburg, S Rissen",,260111,53.582474,9.758603,1
+"Hamburg, S Rothenburgsort",,227221,53.539017,10.042595,1
+"Hamburg, S Rübenkamp",,589285,53.60756,10.032967,1
+"Hamburg, S Rübenkamp (Zugang S-Bahn)",,419821,53.60746,10.03304,1
+"Hamburg, S Stellingen",,317627,53.590027,9.919107,1
+"Hamburg, S Stellingen (Bus-Shuttle)",,263060,53.58994,9.915208,1
+"Hamburg, S Sülldorf",,94334,53.580093,9.796699,1
+"Hamburg, S Tiefstack",,22903,53.530575,10.064707,1
+"Hamburg, S Veddel",,229388,53.52078,10.013263,1
+"Hamburg, S Veddel (Westseite)",,299042,53.52311,10.011534,1
+"Hamburg, S Wellingsbüttel",,369998,53.640774,10.082588,1
+"Hamburg, S Wilhelmsburg",,146653,53.49744,10.00698,1
+"Hamburg, SWOP",,399316,53.531586,9.894011,1
+"Hamburg, Sachsenbrücke",,615243,53.52749,10.016811,1
+"Hamburg, Sachsenstraße",,577788,53.546436,10.027374,1
+"Hamburg, Saling",,584706,53.558918,10.048155,1
+"Hamburg, Salomon-Petri-Ring",,456525,53.547153,10.131959,1
+"Hamburg, Samlandweg",,179850,53.64869,10.003046,1
+"Hamburg, Sandberg",,540390,53.54436,9.944562,1
+"Hamburg, Sande",,543714,53.4063,10.158545,1
+"Hamburg, Sander Markt",,72371,53.492687,10.208574,1
+"Hamburg, Sandkamp",,331804,53.55405,10.089938,1
+"Hamburg, Sandkrugweg",,134844,53.62531,9.891942,1
+"Hamburg, Sandkuhlenkoppel",,17285,53.667793,10.067415,1
+"Hamburg, Sandkule",,95665,53.607403,10.149843,1
+"Hamburg, Sandort",,5609,53.57564,9.846903,1
+"Hamburg, Sandwisch",,266729,53.51526,10.074167,1
+"Hamburg, Sanmannreihe",,328932,53.497887,10.208134,1
+"Hamburg, Sarenweg",,367626,53.683628,10.115473,1
+"Hamburg, Sartoriusstraße",,57567,53.57802,9.941327,1
+"Hamburg, Saselbekstraße",,83312,53.655983,10.134043,1
+"Hamburg, Saseler Bogen",,192014,53.642296,10.127022,1
+"Hamburg, Saseler Damm (Mitte)",,275583,53.65634,10.093702,1
+"Hamburg, Saseler Kamp",,113183,53.649105,10.117585,1
+"Hamburg, Saseler Markt",,267247,53.653866,10.111631,1
+"Hamburg, Saseler Straße",,131644,53.6227,10.166129,1
+"Hamburg, Saselheider Weg",,373281,53.628483,10.132625,1
+"Hamburg, Schadesweg",,90040,53.54761,10.052251,1
+"Hamburg, Schafshagenberg",,254818,53.440895,9.945635,1
+"Hamburg, Schanzengrund",,566514,53.465588,9.890455,1
+"Hamburg, Scharbeutzer Straße",,619339,53.599823,10.131419,1
+"Hamburg, Scharfsche Schlucht",,12593,53.426277,9.975594,1
+"Hamburg, Schatzmeisterstraße",,548551,53.56714,10.078245,1
+"Hamburg, Scheelring",,600905,53.638783,9.910551,1
+"Hamburg, Schellerdamm",,148835,53.465946,9.986854,1
+"Hamburg, Schenefelder Holt",,168237,53.58291,9.829231,1
+"Hamburg, Schierenberg",,512374,53.62414,10.145924,1
+"Hamburg, Schiffbeker Höhe",,488678,53.547585,10.107243,1
+"Hamburg, Schiffbeker Weg",,203550,53.570927,10.1247,1
+"Hamburg, Schillerufer",,538529,53.49088,10.211626,1
+"Hamburg, Schillingsbekweg",,506987,53.594788,9.948088,1
+"Hamburg, Schimmelmannstraße (Mitte)",,604231,53.57208,10.10503,1
+"Hamburg, Schimmelreiterweg",,462389,53.590664,10.17831,1
+"Hamburg, Schippelsweg",,596831,53.635544,9.9525,1
+"Hamburg, Schlachthofstraße (Nord)",,373829,53.46244,9.99537,1
+"Hamburg, Schlachthofstraße (Süd)",,228646,53.459354,9.994093,1
+"Hamburg, Schlangenkoppel",,75971,53.54324,10.142219,1
+"Hamburg, Schlankreye (DKH)",,539192,53.571842,9.969916,1
+"Hamburg, Schlebuschweg",,200022,53.492416,10.224689,1
+"Hamburg, Schleemer Weg (Nord)",,507595,53.542454,10.114968,1
+"Hamburg, Schlenzigstraße",,582639,53.514755,10.001807,1
+"Hamburg, Schleusendamm",,601218,53.465137,10.189721,1
+"Hamburg, Schlump",,52178,53.567593,9.970126,1
+"Hamburg, Schmuckshöhe",,127114,53.61121,10.03706,1
+"Hamburg, Schnackenburgallee",,600362,53.592037,9.904305,1
+"Hamburg, Schnackenburgallee (Mitte)",,73903,53.58378,9.911149,1
+"Hamburg, Schnackenburgallee 56",,178939,53.580315,9.91801,1
+"Hamburg, Schubackstraße",,362614,53.596905,9.988511,1
+"Hamburg, Schulbergredder",,441155,53.65662,10.085463,1
+"Hamburg, Schule Altengamme",,570808,53.42758,10.268936,1
+"Hamburg, Schule Arp-Schnitger-Stieg",,23734,53.51622,9.811298,1
+"Hamburg, Schule Billbrookdeich",,523220,53.532883,10.111022,1
+"Hamburg, Schule Curslack",,625944,53.447792,10.221372,1
+"Hamburg, Schule Curslack (Kehre)",,31964,53.448036,10.221153,1
+"Hamburg, Schule Fünfhausen",,347962,53.448624,10.13334,1
+"Hamburg, Schule Marschweg",,591085,53.584972,9.761079,1
+"Hamburg, Schule Mittlerer Landweg",,644779,53.499203,10.134268,1
+"Hamburg, Schule Mümmelmannsberg",,526560,53.52984,10.141526,1
+"Hamburg, Schule Neuland",,168691,53.467934,10.036574,1
+"Hamburg, Schule Norderschulweg",,510158,53.531868,9.876493,1
+"Hamburg, Schule Ochsenwerder",,441236,53.471558,10.074599,1
+"Hamburg, Schule Zollenspieker",,198367,53.400826,10.18358,1
+"Hamburg, Schulen Stübenhofer Weg",,66046,53.482567,10.015886,1
+"Hamburg, Schulenburgring",,75318,53.508057,10.186884,1
+"Hamburg, Schulredder",,133237,53.51419,10.162377,1
+"Hamburg, Schulterblatt",,571051,53.563873,9.960708,1
+"Hamburg, Schulweg",,533611,53.574677,9.959464,1
+"Hamburg, Schumannstraße",,610486,53.576588,10.023862,1
+"Hamburg, Schwarzer Weg",,537760,53.606373,10.055691,1
+"Hamburg, Schweidnitzer Straße",,2632,53.577057,10.135974,1
+"Hamburg, Schwentnerring",,381440,53.49349,10.01009,1
+"Hamburg, Schweriner Straße",,499772,53.60502,10.162227,1
+"Hamburg, Schwersweg",,364745,53.47751,10.077581,1
+"Hamburg, Schön Klinik Eilbek",,68348,53.578697,10.049732,1
+"Hamburg, Schönsberg",,372511,53.65882,10.113244,1
+"Hamburg, Schöpfwerk Neuland",,510175,53.469563,9.999317,1
+"Hamburg, Schützenhof",,579045,53.478508,10.023953,1
+"Hamburg, Schützenstraße (Mitte)",,436724,53.563507,9.92893,1
+"Hamburg, See Hinterm Horn",,26569,53.474815,10.158483,1
+"Hamburg, Seefelder Fischteiche",,458325,53.451225,10.157043,1
+"Hamburg, Seehafenbrücke (Amtsgericht)",,344034,53.464966,9.977602,1
+"Hamburg, Seehof",,249507,53.518223,9.781742,1
+"Hamburg, Seehofring",,581397,53.521202,9.779701,1
+"Hamburg, Seehofring (Nord)",,371266,53.525097,9.780511,1
+"Hamburg, Seehofring (Süd)",,590120,53.521133,9.781539,1
+"Hamburg, Seehofweg",,630289,53.52409,9.783162,1
+"Hamburg, Seestücken",,63510,53.449474,9.953863,1
+"Hamburg, Sellhopsweg (Albertinen-Haus)",,391802,53.629444,9.928796,1
+"Hamburg, Semperstraße",,585420,53.586533,10.017564,1
+"Hamburg, Sengelmannstraße (City Nord)",,612376,53.609432,10.022436,1
+"Hamburg, Sengelmannstraße (Mitte)",,45130,53.61409,10.019708,1
+"Hamburg, Seniorensitz Am Hegen",,123330,53.59277,10.171542,1
+"Hamburg, Seumestraße",,361739,53.573,10.054738,1
+"Hamburg, Shanghaiallee",,54903,53.54101,10.003921,1
+"Hamburg, Siebenbuchen",,128038,53.573322,9.806927,1
+"Hamburg, Sieberlingstraße",,54171,53.550335,9.845265,1
+"Hamburg, Siedenfelder Weg (Mitte)",,394800,53.495,10.020599,1
+"Hamburg, Siedenfelder Weg (West)",,593553,53.496784,10.015518,1
+"Hamburg, Siedfeld",,552587,53.435116,10.129836,1
+"Hamburg, Siedlung Curslack (Nord)",,224991,53.471703,10.20376,1
+"Hamburg, Siedlung Fünfhausen",,293194,53.450787,10.116343,1
+"Hamburg, Siegrunweg",,620843,53.589256,9.767136,1
+"Hamburg, Sieker Landstraße",,65498,53.605686,10.167382,1
+"Hamburg, Sielkuhle",,481306,53.417576,10.201343,1
+"Hamburg, Siemersplatz",,241240,53.59978,9.963885,1
+"Hamburg, Sietas",,197854,53.531258,9.787517,1
+"Hamburg, Sievekingdamm",,211687,53.56047,10.052208,1
+"Hamburg, Sievekingplatz",,144724,53.555946,9.97755,1
+"Hamburg, Sieversstücken",,264456,53.580605,9.786114,1
+"Hamburg, Silcherstraße",,379484,53.56899,9.90271,1
+"Hamburg, Siloahweg",,427706,53.635376,9.90127,1
+"Hamburg, Singapurstraße",,583381,53.543793,9.996766,1
+"Hamburg, Sinstorfer Kirche",,636235,53.424236,9.973321,1
+"Hamburg, Sinstorfer Kirchweg",,395077,53.424564,9.980775,1
+"Hamburg, Sinstorfer Kirchweg (Schultwiete)",,164879,53.42434,9.979616,1
+"Hamburg, Skaldenweg",,480562,53.63354,10.179384,1
+"Hamburg, Sonnenland",,483318,53.53677,10.134699,1
+"Hamburg, Sonnenweg (Mitte)",,326623,53.5903,10.123342,1
+"Hamburg, Sophie-Schoop-Weg",,202264,53.489388,10.163627,1
+"Hamburg, Sophienterrasse",,578512,53.576664,9.993367,1
+"Hamburg, Sorbusallee",,320838,53.62709,10.073244,1
+"Hamburg, Sorenkoppel",,395516,53.591084,10.185073,1
+"Hamburg, Sorthmannweg",,82292,53.58344,9.956109,1
+"Hamburg, Spadenländer Ecke",,611430,53.49134,10.065125,1
+"Hamburg, Spadenländer Elbdeich",,170587,53.477196,10.062963,1
+"Hamburg, Spaldingstraße",,524365,53.547745,10.013253,1
+"Hamburg, Spanische Furt",,377439,53.625084,9.917012,1
+"Hamburg, Speckenweg",,366822,53.47244,10.261043,1
+"Hamburg, Speckenwegbrücke",,125548,53.467808,10.258872,1
+"Hamburg, Specksaalredder",,201359,53.701645,10.103593,1
+"Hamburg, Speersort",,344294,53.54952,9.996624,1
+"Hamburg, Sperlingsweg",,231479,53.645542,9.974965,1
+"Hamburg, Sperrwerk Estemündung",,75129,53.53396,9.79372,1
+"Hamburg, Spieringstraße",,394681,53.484703,10.226681,1
+"Hamburg, Spitzbergenweg",,142950,53.62927,10.166038,1
+"Hamburg, Spliedtring",,408930,53.562504,10.108659,1
+"Hamburg, Spreenende",,330934,53.612724,9.973498,1
+"Hamburg, Spritzenhaus",,372437,53.43722,10.187872,1
+"Hamburg, St. Pauli Hafenstraße",,348810,53.546436,9.9649,1
+"Hamburg, St.-Michael-Kirche",,551109,53.483284,10.225058,1
+"Hamburg, Stadionstraße",,18761,53.58052,9.884475,1
+"Hamburg, Stadtbahnstraße",,31447,53.65365,10.106906,1
+"Hamburg, Stadtbahnstraße (Mitte)",,418923,53.649597,10.098335,1
+"Hamburg, Stadtpark (Planetarium)",,350551,53.59607,10.013882,1
+"Hamburg, Stadtteilschule Bergedorf",,556803,53.492664,10.190477,1
+"Hamburg, Stauffenbergstraße",,185162,53.560265,9.832334,1
+"Hamburg, Stavenhagenstraße",,24539,53.610092,9.968708,1
+"Hamburg, Steendiek",,95114,53.532284,9.878794,1
+"Hamburg, Steilshooper Allee",,23893,53.608803,10.072749,1
+"Hamburg, Steinbeker Grenzdamm",,58730,53.524113,10.150088,1
+"Hamburg, Steinbeker Marktstraße",,165187,53.532543,10.127301,1
+"Hamburg, Steinfurther Allee",,437053,53.54101,10.139042,1
+"Hamburg, Steinfurther Allee (Nord)",,214446,53.54133,10.137898,1
+"Hamburg, Steinstraße",,365356,53.549107,10.00615,1
+"Hamburg, Steinwegel",,171042,53.65515,10.125021,1
+"Hamburg, Steinwerder",,6126,53.540123,9.966506,1
+"Hamburg, Steinwerder (Alter Elbtunnel)",,197037,53.54132,9.966548,1
+"Hamburg, Steinwerder (Fähre)",,611495,53.53986,9.965942,1
+"Hamburg, Steinwiesenweg",,509028,53.60987,9.916017,1
+"Hamburg, Stellingen (Arenen)",,535387,53.58978,9.918474,1
+"Hamburg, Stemmeshay",,378377,53.59169,10.130643,1
+"Hamburg, Stengelestraße",,271529,53.54918,10.090975,1
+"Hamburg, Stenzelring",,26850,53.517776,10.000326,1
+"Hamburg, Stephansplatz (Oper/CCH)",,481291,53.558807,9.989357,1
+"Hamburg, Stephanstraße",,199988,53.58626,10.085965,1
+"Hamburg, Sternbergweg",,487776,53.56579,9.84663,1
+"Hamburg, Sternbrücke",,596128,53.56126,9.955125,1
+"Hamburg, Sterntwiete",,611102,53.50417,10.214191,1
+"Hamburg, Sternwarte (Besucherzentrum)",,483061,53.482143,10.239578,1
+"Hamburg, Sternwarte (Universität)",,216111,53.4803,10.238153,1
+"Hamburg, Stiftung Alsterdorf",,510409,53.614925,10.022025,1
+"Hamburg, Stillhorner Weg",,389676,53.478397,10.033576,1
+"Hamburg, Stoeckhardtstraße",,35882,53.55778,10.049696,1
+"Hamburg, Stoppelfeld",,521796,53.612133,10.147569,1
+"Hamburg, Strandtreppe",,132703,53.558334,9.810852,1
+"Hamburg, Straßburger Platz",,312675,53.580933,10.062063,1
+"Hamburg, Straßburger Straße",,300045,53.5818,10.067913,1
+"Hamburg, Streekbrücke",,179378,53.58358,9.994939,1
+"Hamburg, Stremelweg",,60613,53.47271,9.844173,1
+"Hamburg, Stresemannstraße",,356344,53.563793,9.94498,1
+"Hamburg, Strietkoppel",,157784,53.52858,10.153798,1
+"Hamburg, Strucksbarg",,609431,53.449924,9.937647,1
+"Hamburg, Studio Hamburg",,160797,53.586098,10.124864,1
+"Hamburg, Stuhtsweg",,217092,53.619713,10.112516,1
+"Hamburg, Stutsmoor",,174868,53.57278,9.887061,1
+"Hamburg, Störtebekerweg",,635758,53.46955,9.863687,1
+"Hamburg, Stübenhofer Weg",,288311,53.484104,10.012458,1
+"Hamburg, Stübenhofer Wettern",,1859,53.48521,10.0241,1
+"Hamburg, Stübenplatz",,613624,53.51738,9.987597,1
+"Hamburg, Stückenstraße (Schön Klinik)",,180151,53.579205,10.049442,1
+"Hamburg, Stüffel",,534860,53.670326,10.133853,1
+"Hamburg, Stüffeleck",,460552,53.669167,10.143192,1
+"Hamburg, Suhrenkamp",,169418,53.619232,10.01415,1
+"Hamburg, Susettestraße",,355208,53.54645,9.925343,1
+"Hamburg, Suurheid",,59900,53.582848,9.768515,1
+"Hamburg, Swebenhöhe",,333221,53.60976,10.108583,1
+"Hamburg, Sydneystraße",,97257,53.6054,10.017782,1
+"Hamburg, Sylter Weg",,393553,53.590214,10.104945,1
+"Hamburg, Süderelbe (Süd)",,611500,53.47016,9.99397,1
+"Hamburg, Süderquerweg 208",,632025,53.411575,10.163034,1
+"Hamburg, Süderquerweg 263",,431223,53.41294,10.15665,1
+"Hamburg, Süderquerweg 399",,167556,53.421616,10.144279,1
+"Hamburg, Süderstraße",,365783,53.545334,10.030424,1
+"Hamburg, Sülldorfer Brooksweg",,487831,53.57735,9.768641,1
+"Hamburg, Sülldorfer Landstraße",,181713,53.576355,9.82326,1
+"Hamburg, Sülzbrack",,244404,53.399223,10.173838,1
+"Hamburg, Talweg",,156510,53.472126,9.883679,1
+"Hamburg, Tannenberg",,171485,53.584087,9.880714,1
+"Hamburg, Tannenhof",,182234,53.686512,10.094963,1
+"Hamburg, Tannhäuserweg",,38490,53.5858,9.749164,1
+"Hamburg, Tarpen",,466306,53.664913,10.001283,1
+"Hamburg, Tarpenbekstraße",,557913,53.59432,9.983934,1
+"Hamburg, Tatenberger Damm",,344716,53.49251,10.067776,1
+"Hamburg, Tatenberger Schleuse",,426135,53.497757,10.077929,1
+"Hamburg, Tegelsbarg (Nord)",,248090,53.66137,10.059259,1
+"Hamburg, Tegelweg",,8384,53.605904,10.106835,1
+"Hamburg, Terminal O'Swaldkai",,82551,53.52903,10.013078,1
+"Hamburg, Teufelsbrück",,550628,53.546444,9.862869,1
+"Hamburg, Teufelsbrück (Fähre)",,195017,53.547623,9.863844,1
+"Hamburg, Teufelsort",,133731,53.412403,10.191782,1
+"Hamburg, Teufelsort (Kehre)",,514272,53.411465,10.191107,1
+"Hamburg, Thadenstraße (West)",,393657,53.55499,9.951498,1
+"Hamburg, Theater im Hafen",,134745,53.540764,9.974244,1
+"Hamburg, Theodor-Storm-Straße",,639101,53.593063,10.160796,1
+"Hamburg, Theodor-Yorck-Straße",,537654,53.46413,9.987926,1
+"Hamburg, Thiedingreihe",,636472,53.533657,10.046128,1
+"Hamburg, Thielenstraße (Ost)",,614604,53.500954,10.013463,1
+"Hamburg, Thielenstraße (West)",,92914,53.50251,10.003764,1
+"Hamburg, Thomas-Mann-Straße",,518238,53.627823,10.112019,1
+"Hamburg, Thörlstraße",,123411,53.464676,9.959781,1
+"Hamburg, Tiedemannstraße",,602507,53.579937,9.934983,1
+"Hamburg, Tietzestraße",,49456,53.566784,9.832628,1
+"Hamburg, Tilsiter Straße",,300172,53.588818,10.078555,1
+"Hamburg, Tilsiter Straße (Mitte)",,269265,53.5907,10.084431,1
+"Hamburg, Timmendorfer Straße",,175813,53.60381,10.130876,1
+"Hamburg, Timmerloh",,634063,53.657513,10.020015,1
+"Hamburg, Tinsdaler Heideweg",,201702,53.57152,9.74227,1
+"Hamburg, Tinsdaler Kirchenweg",,3411,53.571075,9.75778,1
+"Hamburg, Tonndorf",,633713,53.586365,10.123011,1
+"Hamburg, Trabrennbahn",,228681,53.59844,10.102642,1
+"Hamburg, Trabrennbahn Bahrenfeld",,519907,53.573685,9.892484,1
+"Hamburg, Trebelstraße",,224736,53.598473,9.861135,1
+"Hamburg, Treptower Straße",,90461,53.61375,10.136144,1
+"Hamburg, Trettaustraße",,565831,53.493896,9.990577,1
+"Hamburg, Treudelberg",,46265,53.67497,10.092711,1
+"Hamburg, Tribünenweg",,211738,53.559486,10.081038,1
+"Hamburg, Triftstraße",,99018,53.458107,9.942645,1
+"Hamburg, Trilluper Weg",,360296,53.70745,10.11006,1
+"Hamburg, Turnierstieg",,25971,53.5998,10.091439,1
+"Hamburg, Twietenkoppel",,348790,53.67306,10.121972,1
+"Hamburg, Twistering",,101959,53.4779,9.879295,1
+"Hamburg, Tönninger Weg",,5661,53.568546,9.846791,1
+"Hamburg, U  Meßberg",,250568,53.547348,10.001672,1
+"Hamburg, U Alsterdorf",,195991,53.606865,10.012433,1
+"Hamburg, U Alter Teichweg",,172301,53.586517,10.064589,1
+"Hamburg, U Baumwall",,341929,53.544346,9.981316,1
+"Hamburg, U Berne (Berner Heerweg)",,576926,53.6267,10.138517,1
+"Hamburg, U Berne (Berner Stieg)",,419944,53.627316,10.143762,1
+"Hamburg, U Berne (Kriegkamp)",,345947,53.626205,10.139623,1
+"Hamburg, U Billstedt",,98052,53.542343,10.106563,1
+"Hamburg, U Borgweg",,215108,53.590916,10.015767,1
+"Hamburg, U Buchenkamp",,309633,53.65236,10.186428,1
+"Hamburg, U Burgstraße",,313560,53.55558,10.041453,1
+"Hamburg, U Christuskirche",,138129,53.569622,9.963194,1
+"Hamburg, U Dehnhaide",,544480,53.580193,10.041313,1
+"Hamburg, U Emilienstraße",,601879,53.571514,9.95267,1
+"Hamburg, U Eppendorfer Baum",,6692,53.58378,9.983825,1
+"Hamburg, U Farmsen",,363001,53.607143,10.117524,1
+"Hamburg, U Feldstraße",,548777,53.557312,9.96904,1
+"Hamburg, U Fuhlsbüttel",,348083,53.632565,10.025889,1
+"Hamburg, U Fuhlsbüttel Nord",,638511,53.6401,10.016934,1
+"Hamburg, U Gänsemarkt",,378788,53.555378,9.988493,1
+"Hamburg, U Gänsemarkt (Valentinskamp)",,133001,53.55567,9.985828,1
+"Hamburg, U Habichtstraße",,471139,53.593674,10.050964,1
+"Hamburg, U Habichtstraße (Steilshooper Straße)",,203520,53.59513,10.050099,1
+"Hamburg, U HafenCity Universität",,468528,53.54068,10.004773,1
+"Hamburg, U Hagenbecks Tierpark",,233885,53.59333,9.943782,1
+"Hamburg, U Hallerstraße",,110045,53.572685,9.988655,1
+"Hamburg, U Hamburger Straße",,374250,53.57504,10.035631,1
+"Hamburg, U Hammer Kirche",,577264,53.55539,10.055794,1
+"Hamburg, U Hammer Kirche (Hammer Landstraße)",,307703,53.554928,10.057412,1
+"Hamburg, U Hoheluftbrücke",,253735,53.57832,9.976222,1
+"Hamburg, U Horner Rennbahn",,369540,53.55416,10.084509,1
+"Hamburg, U Hudtwalckerstraße",,33214,53.59407,9.996359,1
+"Hamburg, U Kellinghusenstraße",,480650,53.58863,9.991489,1
+"Hamburg, U Klosterstern",,286281,53.582176,9.987487,1
+"Hamburg, U Langenhorn Markt (Krohnstieg)",,131555,53.649406,10.016266,1
+"Hamburg, U Langenhorn Markt (Tangstedter Landstraße)",,111197,53.648975,10.016255,1
+"Hamburg, U Langenhorn Nord",,397957,53.66142,10.01834,1
+"Hamburg, U Lattenkamp",,640777,53.59983,9.99511,1
+"Hamburg, U Legienstraße",,25743,53.546223,10.097904,1
+"Hamburg, U Lohmühlenstraße",,480614,53.5572,10.02018,1
+"Hamburg, U Lübecker Straße",,558648,53.560047,10.028624,1
+"Hamburg, U Meiendorfer Weg",,369064,53.639233,10.156682,1
+"Hamburg, U Merkenstraße",,566960,53.538803,10.127332,1
+"Hamburg, U Mundsburg",,271672,53.570076,10.027358,1
+"Hamburg, U Mümmelmannsberg",,490920,53.526974,10.149849,1
+"Hamburg, U Niendorf Markt",,16910,53.619373,9.95204,1
+"Hamburg, U Niendorf Nord",,156061,53.640213,9.949637,1
+"Hamburg, U Ochsenzoll",,253145,53.677658,10.000874,1
+"Hamburg, U Ohlstedt",,37186,53.69502,10.136834,1
+"Hamburg, U Rauhes Haus",,205835,53.553925,10.065067,1
+"Hamburg, U Ritterstraße",,543311,53.567158,10.044027,1
+"Hamburg, U Rödingsmarkt (Großer Burstah)",,128169,53.54836,9.988917,1
+"Hamburg, U S Barmbek",,257563,53.587822,10.044149,1
+"Hamburg, U S Berliner Tor (Beim Strohhause)",,449069,53.553455,10.023077,1
+"Hamburg, U S Berliner Tor (Bürgerweide)",,235279,53.5532,10.025581,1
+"Hamburg, U S Elbbrücken",,451930,53.53533,10.024163,1
+"Hamburg, U S Elbbrücken (Baakenwerder Straße)",,166206,53.53662,10.022435,1
+"Hamburg, U S Elbbrücken (Zweibrückenstraße)",,412332,53.53428,10.02551,1
+"Hamburg, U S Jungfernstieg",,277540,53.553135,9.992851,1
+"Hamburg, U S Landungsbrücken",,119500,53.54621,9.969435,1
+"Hamburg, U S Ohlsdorf (Alsterdorfer Straße)",,24681,53.61973,10.032494,1
+"Hamburg, U S Ohlsdorf (Fuhlsbüttler Straße)",,635375,53.62117,10.0333,1
+"Hamburg, U S Ohlsdorf (Im Grünen Grunde)",,397344,53.62077,10.030977,1
+"Hamburg, U S Sternschanze",,352174,53.564102,9.965936,1
+"Hamburg, U S Sternschanze (Kehre)",,556881,53.56426,9.968822,1
+"Hamburg, U S Wandsbeker Chaussee",,293476,53.570004,10.058483,1
+"Hamburg, U S Wandsbeker Chaussee (Hammer Straße)",,371146,53.570007,10.061124,1
+"Hamburg, U Saarlandstraße",,221155,53.58807,10.033126,1
+"Hamburg, U Saarlandstraße (Süd)",,543397,53.586678,10.033318,1
+"Hamburg, U Schlump",,537646,53.567745,9.970698,1
+"Hamburg, U Sengelmannstraße",,47578,53.608906,10.022046,1
+"Hamburg, U Sierichstraße",,462554,53.59055,10.002468,1
+"Hamburg, U St. Pauli",,507670,53.550076,9.970374,1
+"Hamburg, U Steinfurther Allee",,457783,53.5412,10.139433,1
+"Hamburg, U Steinstraße (Deichtorplatz)",,190305,53.54886,10.005857,1
+"Hamburg, U Stephansplatz",,80211,53.55815,9.989025,1
+"Hamburg, U Straßburger Straße",,52662,53.582367,10.067746,1
+"Hamburg, U Uhlandstraße",,485643,53.56552,10.026131,1
+"Hamburg, U Volksdorf",,647688,53.650093,10.162701,1
+"Hamburg, U Wandsbek Markt",,33066,53.572258,10.068714,1
+"Hamburg, U Wandsbek-Gartenstadt",,68516,53.592022,10.076105,1
+"Hamburg, U Wartenau",,481156,53.564186,10.03446,1
+"Hamburg, U Überseequartier",,443853,53.540752,9.997006,1
+"Hamburg, UK Eppendorf",,270269,53.5889,9.975764,1
+"Hamburg, UK Eppendorf (Haupteingang)",,122410,53.58946,9.974775,1
+"Hamburg, Uferstraße",,18536,53.567142,10.03094,1
+"Hamburg, Uhlandstraße",,308185,53.56461,10.026803,1
+"Hamburg, Ulmenliet",,484521,53.495228,10.202619,1
+"Hamburg, Ulzburger Straße",,387370,53.663647,10.076083,1
+"Hamburg, Universität der Bundeswehr",,37193,53.57049,10.105638,1
+"Hamburg, Universität/Staatsbibliothek",,619637,53.56443,9.98419,1
+"Hamburg, Unterelbestraße",,593822,53.466732,9.972085,1
+"Hamburg, Unterer Landweg (Nord)",,499134,53.526264,10.110592,1
+"Hamburg, Unterm Heilbrunnen",,573983,53.48167,10.225328,1
+"Hamburg, Up den Wiemen (EKZ Marmstorf)",,271591,53.440678,9.959571,1
+"Hamburg, Uppenhof",,338917,53.647842,10.161227,1
+"Hamburg, Urenfleet",,522610,53.521996,9.783259,1
+"Hamburg, Vahrenwinkelweg",,22043,53.46019,9.934862,1
+"Hamburg, Valvo",,431342,53.666645,9.991913,1
+"Hamburg, Veddeler Marktplatz",,569190,53.529396,10.023764,1
+"Hamburg, Veilchenweg (Ost)",,189331,53.588654,9.967942,1
+"Hamburg, Veilchenweg (West)",,458131,53.58878,9.957604,1
+"Hamburg, Veringstraße (Mitte)",,144617,53.510513,9.986684,1
+"Hamburg, Victoriaallee",,602914,53.609547,10.192525,1
+"Hamburg, Victoriaring",,600498,53.60269,10.187965,1
+"Hamburg, Vielohweg (Mitte)",,412746,53.638523,9.945184,1
+"Hamburg, Vielohweg (West)",,211366,53.6392,9.924198,1
+"Hamburg, Vielohwisch",,207069,53.639137,9.930758,1
+"Hamburg, Vierbergen",,519303,53.54663,10.092644,1
+"Hamburg, Vierlandenstraße",,168780,53.485897,10.210023,1
+"Hamburg, Vierzigstücken 31",,4342,53.507977,9.836508,1
+"Hamburg, Vierzigstücken 73",,320266,53.51146,9.829115,1
+"Hamburg, Vietinghoffweg",,294714,53.634132,9.941261,1
+"Hamburg, Vogelhüttenberg",,191211,53.442657,9.949692,1
+"Hamburg, Vogelhüttendeich",,65452,53.51594,9.993383,1
+"Hamburg, Vogelreth",,312102,53.532497,9.981821,1
+"Hamburg, Vogt-Cordes-Damm",,189634,53.613888,9.951937,1
+"Hamburg, Vogtredder",,148310,53.67509,10.136423,1
+"Hamburg, Vogtskamp",,23154,53.643345,10.065219,1
+"Hamburg, Volksdorf",,149267,53.650974,10.163467,1
+"Hamburg, Volksdorfer Grenzweg",,327622,53.67595,10.141526,1
+"Hamburg, Volksparkstraße",,174271,53.59219,9.928613,1
+"Hamburg, Von-Haeften-Straße",,111813,53.486816,10.165364,1
+"Hamburg, Von-Sauer-Straße",,11624,53.5657,9.911062,1
+"Hamburg, Von-Scheliha-Straße",,6430,53.48545,10.162781,1
+"Hamburg, Von-Suppé-Straße",,31871,53.63294,10.164694,1
+"Hamburg, Vorderdeich 119",,504421,53.469143,10.152561,1
+"Hamburg, Vorderdeich 75",,307537,53.468708,10.160139,1
+"Hamburg, Vorderkamp",,508654,53.43995,10.01052,1
+"Hamburg, Vorhornweg",,208361,53.59249,9.881765,1
+"Hamburg, Vossmoorbrücke",,531140,53.445805,10.29728,1
+"Hamburg, Voßkulen",,284685,53.594303,10.086001,1
+"Hamburg, Vörstekoppel",,409481,53.662624,10.080591,1
+"Hamburg, Wachtelstraße",,74090,53.58827,10.052657,1
+"Hamburg, Wagnerstraße",,121042,53.570087,10.039918,1
+"Hamburg, Wagrierweg",,147313,53.63923,9.941238,1
+"Hamburg, Walddörferstraße",,223103,53.579998,10.081199,1
+"Hamburg, Waldfrieden (Kehre)",,595023,53.44939,9.867883,1
+"Hamburg, Waldingstraße",,96093,53.635944,10.101665,1
+"Hamburg, Waldwinkel",,185662,53.59188,10.174311,1
+"Hamburg, Waltershof",,13769,53.52565,9.937224,1
+"Hamburg, Wandsbek Markt",,402929,53.57165,10.066313,1
+"Hamburg, Wandsbek-Gartenstadt",,645263,53.592476,10.074893,1
+"Hamburg, Wandsbeker Allee",,226575,53.579384,10.069799,1
+"Hamburg, Wandsbeker Chaussee",,111945,53.570335,10.059578,1
+"Hamburg, Warnckesweg",,34780,53.61035,9.974501,1
+"Hamburg, Warnemünder Weg",,188498,53.608143,10.164156,1
+"Hamburg, Wartenau",,543804,53.56476,10.035515,1
+"Hamburg, Warwischer Hinterdeich",,541262,53.425434,10.121455,1
+"Hamburg, Waseberg",,479955,53.56181,9.797879,1
+"Hamburg, Washingtonallee",,490645,53.54232,10.096033,1
+"Hamburg, Wasserkunst Kaltehofe",,369401,53.524612,10.051997,1
+"Hamburg, Wasserturm",,287384,53.619717,10.049798,1
+"Hamburg, Wasserwerk",,507040,53.462803,10.235701,1
+"Hamburg, Waterblöckenwiese",,585427,53.608112,10.175819,1
+"Hamburg, Wattkorn",,286063,53.664654,10.023743,1
+"Hamburg, Weg zum Freibad",,123805,53.448242,10.293832,1
+"Hamburg, Wegenkamp",,279580,53.598995,9.925585,1
+"Hamburg, Wehrdeich",,36517,53.486294,10.18947,1
+"Hamburg, Weidenallee",,519226,53.565132,9.965054,1
+"Hamburg, Weidenbruch",,435899,53.483906,9.864295,1
+"Hamburg, Weidendamm",,139767,53.48088,10.006136,1
+"Hamburg, Weidende",,551704,53.65797,10.10106,1
+"Hamburg, Weistritzstraße",,233302,53.606747,9.871351,1
+"Hamburg, Wendemuthstraße",,480679,53.57462,10.074948,1
+"Hamburg, Wendenstraße",,396125,53.547794,10.028493,1
+"Hamburg, Wendenstraße (Mitte)",,94636,53.549664,10.036686,1
+"Hamburg, Wendlohstraße",,9927,53.62987,9.939261,1
+"Hamburg, Wendts Weg",,62361,53.468502,10.011906,1
+"Hamburg, Wentorfer Straße (Ost)",,587697,53.488415,10.23387,1
+"Hamburg, Werfelring",,221327,53.62797,10.115364,1
+"Hamburg, Werkcentrum Elbinsel",,518578,53.51995,9.999629,1
+"Hamburg, Werner-Otto-Straße",,212257,53.60132,10.068662,1
+"Hamburg, Werner-Otto-Straße (Mitte)",,206434,53.599934,10.06982,1
+"Hamburg, Werner-Siemens-Straße 20",,40672,53.531433,10.085224,1
+"Hamburg, Werner-Siemens-Straße 34",,590062,53.530277,10.091423,1
+"Hamburg, Werner-Witt-Straße (Nord)",,387790,53.49671,10.112577,1
+"Hamburg, Werner-Witt-Straße (Süd)",,364277,53.49374,10.106547,1
+"Hamburg, Wesselstraat",,237311,53.655407,10.067807,1
+"Hamburg, West-Kraueler Bogen",,607197,53.398804,10.215894,1
+"Hamburg, Westerweiden (AIRBUS)",,528880,53.52944,9.841878,1
+"Hamburg, Wiebischenkamp",,181792,53.616264,9.907028,1
+"Hamburg, Wiesendamm",,242827,53.589977,10.014949,1
+"Hamburg, Wiesendamm (Mitte)",,212913,53.588997,10.022758,1
+"Hamburg, Wiesenhöfen",,389616,53.64755,10.16928,1
+"Hamburg, Wiesingerweg",,398341,53.58328,9.960323,1
+"Hamburg, Wiesnerring",,256854,53.482574,10.200091,1
+"Hamburg, Wietersheim",,427952,53.62519,9.898272,1
+"Hamburg, Wildacker",,185462,53.621376,9.888141,1
+"Hamburg, Wildschwanbrook",,319567,53.626812,10.169235,1
+"Hamburg, Wildschwanbrook (Mitte)",,62644,53.62883,10.175081,1
+"Hamburg, Wilhelm-Grimm-Straße",,38052,53.60017,10.156172,1
+"Hamburg, Wilhelm-Iwan-Ring",,362348,53.49095,10.109533,1
+"Hamburg, Wilhelm-Metzger-Straße",,337277,53.604618,9.999538,1
+"Hamburg, Wilhelm-Osterhold-Stieg",,455798,53.483658,10.161587,1
+"Hamburg, Wilhelm-Stein-Weg",,631213,53.64465,10.033481,1
+"Hamburg, Wilhelm-Weber-Straße",,308379,53.473423,9.978006,1
+"Hamburg, Wilhelmsburger Mühle",,257988,53.499638,10.025503,1
+"Hamburg, Wilhelmsburger Platz",,505239,53.52286,10.016399,1
+"Hamburg, Wilmans Park",,573988,53.563133,9.804348,1
+"Hamburg, Wilsonstraße",,398257,53.58793,10.129425,1
+"Hamburg, Winckelmannstraße",,310235,53.55522,9.835132,1
+"Hamburg, Windmühlenweg",,531428,53.571198,9.868989,1
+"Hamburg, Windpark Horst",,582666,53.465244,10.261597,1
+"Hamburg, Windpark Neuengamme",,257045,53.431145,10.241929,1
+"Hamburg, Winsberg (Nord)",,15283,53.576557,9.915236,1
+"Hamburg, Winsberg (Süd)",,90219,53.574455,9.917591,1
+"Hamburg, Winsberg (West)",,412480,53.5754,9.912901,1
+"Hamburg, Winsener Straße (Nord)",,13542,53.445972,9.990981,1
+"Hamburg, Winterhuder Marktplatz",,280235,53.594585,9.999346,1
+"Hamburg, Wischhöfen",,414564,53.64475,10.013084,1
+"Hamburg, Wittenbergener Weg (Mitte)",,306571,53.577305,9.757559,1
+"Hamburg, Wittenbergener Weg (Nord)",,150605,53.580887,9.758031,1
+"Hamburg, Wittland (S Sülldorf)",,526192,53.579765,9.793557,1
+"Hamburg, Wogenmannsburg",,12872,53.62603,9.903505,1
+"Hamburg, Wohldorf",,85913,53.703945,10.120069,1
+"Hamburg, Wohlersweg",,621243,53.455704,9.999654,1
+"Hamburg, Worthdamm",,426437,53.528923,9.981406,1
+"Hamburg, Worthdamm (Süd)",,189754,53.527615,9.98124,1
+"Hamburg, Wragekamp",,302304,53.711185,10.107523,1
+"Hamburg, Wrangelkoppel",,228729,53.648415,9.99634,1
+"Hamburg, Wrangelpark",,447522,53.54972,9.902058,1
+"Hamburg, Wraust",,580161,53.42329,10.139386,1
+"Hamburg, Wulffsbrücke",,634185,53.45922,10.136754,1
+"Hamburg, Wulfsdal",,42291,53.569195,9.808947,1
+"Hamburg, Wunderbrunnen",,265211,53.646603,9.926326,1
+"Hamburg, Wählingsweg",,546002,53.631596,9.919602,1
+"Hamburg, Wöhlerstraße",,354617,53.535496,10.082825,1
+"Hamburg, Wördemanns Weg",,66312,53.599728,9.917248,1
+"Hamburg, Wördenmoorweg",,208967,53.6546,10.019537,1
+"Hamburg, Wülpensand",,156388,53.579185,9.749636,1
+"Hamburg, Zamenhofweg",,464576,53.622566,10.133932,1
+"Hamburg, Zedernweg",,360726,53.54656,9.880583,1
+"Hamburg, Zeisehallen",,17392,53.55457,9.927451,1
+"Hamburg, Zeltplatz Altengamme",,648187,53.432816,10.298494,1
+"Hamburg, Zeppelinstraße",,578784,53.627434,10.008194,1
+"Hamburg, Ziegelerstraße",,500627,53.498455,9.991151,1
+"Hamburg, Ziesenißstraße",,113433,53.567577,10.074754,1
+"Hamburg, Ziethenstraße",,37932,53.5768,10.102511,1
+"Hamburg, Zimmerstraße",,321198,53.574585,10.014937,1
+"Hamburg, Zitadellenstraße",,546269,53.469307,9.982399,1
+"Hamburg, Zollamt Waltershof",,65700,53.519398,9.926607,1
+"Hamburg, Zollenspieker (Fähre)",,13018,53.398373,10.18273,1
+"Hamburg, Zollvereinsstraße",,567665,53.53251,10.051378,1
+"Hamburg, Zoologisches Museum",,13342,53.566998,9.977594,1
+"Hamburg, Zu den Eichen",,168831,53.485252,10.22052,1
+"Hamburg, Zum Dubben",,116981,53.473923,9.904289,1
+"Hamburg, Zum Fürstenmoor",,141900,53.471756,9.931141,1
+"Hamburg, Zum Hünengrab (DESY)",,538660,53.57216,9.881251,1
+"Hamburg, Zum Jägerfeld",,532514,53.435688,9.97756,1
+"Hamburg, Zweibrückenstraße",,143104,53.53393,10.027961,1
+"Hamburg, Zweite Hafenstraße",,123505,53.47157,9.966036,1
+"Hamburg, Zweiter Fersenweg",,255945,53.410187,10.209797,1
+"Hamburg, Zwischen den Zäunen",,390142,53.440434,10.231696,1
+"Hamburg, Ödenweg",,28473,53.68038,10.095106,1
+"Hamburg, Öjendorfer Höhe",,348329,53.542164,10.127587,1
+"Hamburg, Öjendorfer Steinkamp",,99728,53.539745,10.13321,1
+"Hamburg, Öjendorfer Weg",,57998,53.545544,10.11416,1
+"Hamburg, Ölmühlenweg (Nord)",,29522,53.58454,10.100463,1
+"Hamburg, Ölmühlenweg (Süd)",,92522,53.579994,10.102398,1
+"Hamburg, Überseequartier",,96750,53.54053,9.999043,1
+"Hamburg, Überseering (West)",,278684,53.60047,10.017159,1
+Hamburg-Altona,168085,31175,53.552803,9.934821,
+Hamburg-Harburg,382485,491629,53.455902,9.991704,
+Hamburg-Neugraben,420741,153981,53.474144,9.852053,
+Hamburg-Rahlstedt,168702,287014,53.604923,10.154616,
+Hamburg-Stellingen,535387,309237,53.589844,9.918338,
+Hamburg-Tonndorf,633713,448757,53.58647,10.123049,
+

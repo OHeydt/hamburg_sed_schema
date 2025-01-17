@@ -1,0 +1,337 @@
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix schema: <https://schema.org/> .
+@prefix sed: <http://heydt-schemas.com/socio-economic-data#> .
+
+# Shape for Districts
+sed:DistrictShape
+    a sh:NodeShape ;
+    sh:targetClass sed:District ;
+    sh:property [
+        sh:path schema:name ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path schema:population ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 0 ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path owl:sameAs ;
+        sh:minCount 2 ;
+        sh:maxCount 2;
+    ] ;
+    sh:property [
+        sh:path sed:districtCode ;
+        sh:datatype xsd:integer ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path sed:accidentsWithInjuries ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 0 ;
+    ] ;
+    sh:property [
+        sh:path sed:approvedHousingUnits ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 0 ;
+    ] ;
+    sh:property [
+        sh:path sed:approvedResidentialUnits ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 0 ;
+    ] ;
+    sh:property [
+        sh:path sed:approvedUnitsPerThousandPeople ;
+        sh:datatype xsd:float ;
+        sh:minInclusive 0 ;
+    ] ;
+    sh:property [
+        sh:path sed:averageAge ;
+        sh:datatype xsd:float ;
+        sh:minInclusive 0 ;
+    ] ;
+    sh:property [
+        sh:path sed:averageApartmentSize ;
+        sh:datatype xsd:float ;
+        sh:minInclusive 0 ;
+    ] ;
+    sh:property [
+        sh:path sed:buildingPermitsResidential ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 0 ;
+    ] ;
+    sh:property [
+        sh:path sed:completedHousingUnits ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 0 ;
+    ] ;
+    sh:property [
+        sh:path sed:completedResidentialBuildings ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 0 ;
+    ] ;
+    sh:property [
+        sh:path sed:completedResidentialUnits ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 0 ;
+    ] ;
+    sh:property [
+        sh:path sed:completedUnitsPerThousandPeople ;
+        sh:datatype xsd:float ;
+        sh:minInclusive 0 ;
+    ] ;
+    sh:property [
+        sh:path sed:elderlyQuotient ;
+        sh:datatype xsd:float ;
+        sh:minInclusive 0 ;
+    ] ;
+    sh:property [
+        sh:path sed:femalePopulation ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 0 ;
+    ] ;
+    sh:property [
+        sh:path sed:foreignPopulation ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 0 ;
+    ] ;
+    sh:property [
+        sh:path sed:foreignPopulationPercentage ;
+        sh:datatype xsd:float ;
+        sh:minInclusive 0 ;
+        sh:maxInclusive 100 ;
+    ] ;
+    sh:property [
+        sh:path sed:householdsWithChildren ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 0 ;
+    ] ;
+    sh:property [
+        sh:path sed:householdsWithChildrenPercentage ;
+        sh:datatype xsd:float ;
+        sh:minInclusive 0 ;
+        sh:maxInclusive 100 ;
+    ] ;
+    sh:property [
+        sh:path sed:livingSpacePerCapita ;
+        sh:datatype xsd:float ;
+        sh:minInclusive 0 ;
+    ] ;
+    sh:property [
+        sh:path sed:numberOfApartments ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 0 ;
+    ] ;
+    sh:property [
+        sh:path sed:numberOfHouseholds ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 0 ;
+    ] ;
+    sh:property [
+        sh:path sed:numberOfPrivateCars ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 0 ;
+    ] ;
+    sh:property [
+        sh:path sed:numberOfResidentialBuildings ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 0 ;
+    ] ;
+    sh:property [
+        sh:path sed:numberOfSocialHousingUnits ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 0 ;
+    ] ;
+    sh:property [
+        sh:path sed:over65Population ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 0 ;
+    ] ;
+    sh:property [
+        sh:path sed:over65PopulationPercentage ;
+        sh:datatype xsd:float ;
+        sh:minInclusive 0 ;
+        sh:maxInclusive 100 ;
+    ] ;
+    sh:property [
+        sh:path sed:personsPerHousehold ;
+        sh:datatype xsd:float ;
+        sh:minInclusive 0 ;
+    ] ;
+    sh:property [
+        sh:path sed:populationDensity ;
+        sh:datatype xsd:float ;
+        sh:minInclusive 0 ;
+    ] ;
+    sh:property [
+        sh:path sed:populationWithMigrationBackground ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 0 ;
+    ] ;
+    sh:property [
+        sh:path sed:populationWithMigrationBackgroundPercentage ;
+        sh:datatype xsd:float ;
+        sh:minInclusive 0 ;
+        sh:maxInclusive 100 ;
+    ] ;
+    sh:property [
+        sh:path sed:privateCarsPerThousandPeople ;
+        sh:datatype xsd:float ;
+        sh:minInclusive 0 ;
+    ] ;
+    sh:property [
+        sh:path sed:singleParentHouseholds ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 0 ;
+    ] ;
+    sh:property [
+        sh:path sed:singleParentHouseholdsPercentage ;
+        sh:datatype xsd:float ;
+        sh:minInclusive 0 ;
+        sh:maxInclusive 100 ;
+    ] ;
+    sh:property [
+        sh:path sed:singlePersonHouseholds ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 0 ;
+    ] ;
+    sh:property [
+        sh:path sed:singlePersonHouseholdsPercentage ;
+        sh:datatype xsd:float ;
+        sh:minInclusive 0 ;
+        sh:maxInclusive 100 ;
+    ] ;
+    sh:property [
+        sh:path sed:socialHousingEndingIn5Years ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 0 ;
+    ] ;
+    sh:property [
+        sh:path sed:socialHousingEndingIn5YearsPercentage ;
+        sh:datatype xsd:float ;
+        sh:minInclusive 0 ;
+        sh:maxInclusive 100 ;
+    ] ;
+    sh:property [
+        sh:path sed:socialHousingPercentage ;
+        sh:datatype xsd:float ;
+        sh:minInclusive 0 ;
+        sh:maxInclusive 100 ;
+    ] ;
+    sh:property [
+        sh:path sed:totalTrafficAccidents ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 0 ;
+    ] ;
+    sh:property [
+        sh:path sed:totalUnemployed ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 0 ;
+    ] ;
+    sh:property [
+        sh:path sed:trafficFatalities ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 0 ;
+    ] ;
+    sh:property [
+        sh:path sed:trafficInjuries ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 0 ;
+    ] ;
+    sh:property [
+        sh:path sed:under18Population ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 0 ;
+    ] ;
+    sh:property [
+        sh:path sed:under18PopulationPercentage ;
+        sh:datatype xsd:float ;
+        sh:minInclusive 0 ;
+        sh:maxInclusive 100 ;
+    ] ;
+    sh:property [
+        sh:path sed:under18WithMigrationBackground ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 0 ;
+    ] ;
+    sh:property [
+        sh:path sed:under18WithMigrationBackgroundPercentage ;
+        sh:datatype xsd:float ;
+        sh:minInclusive 0 ;
+        sh:maxInclusive 100 ;
+    ] ;
+    sh:property [
+        sh:path sed:unemployed55To65 ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 0 ;
+    ] ;
+    sh:property [
+        sh:path sed:unemployed55To65Percentage ;
+        sh:datatype xsd:float ;
+        sh:minInclusive 0 ;
+        sh:maxInclusive 100 ;
+    ] ;
+    sh:property [
+        sh:path sed:unemployedUnder25 ;
+        sh:datatype xsd:integer ;
+        sh:minInclusive 0 ;
+    ] ;
+    sh:property [
+        sh:path sed:unemployedUnder25Percentage ;
+        sh:datatype xsd:float ;
+        sh:minInclusive 0 ;
+        sh:maxInclusive 100 ;
+    ] ;
+    sh:property [
+        sh:path sed:unemploymentRate ;
+        sh:datatype xsd:float ;
+        sh:minInclusive 0 ;
+        sh:maxInclusive 100 ;
+    ] ;
+    sh:property [
+        sh:path sed:youthQuotient ;
+        sh:datatype xsd:float ;
+        sh:minInclusive 0 ;
+    ] .
+
+
+
+# Shape for Public Transport Stops
+schema:BusStationShape
+    a sh:NodeShape ;
+    sh:targetClass schema:BusStation ;
+    sh:property [
+        sh:path schema:name ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path schema:containedIn ;
+        sh:class sed:District ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+    ] ;
+    sh:property [
+        sh:path <https://www.w3.org/2003/01/geo/wgs84_pos#lat> ;
+        sh:datatype xsd:float ;
+        sh:minInclusive -90 ;
+        sh:maxInclusive 90 ;
+        sh:minCount 1 ;
+        sh:maxCount 1;
+    ] ;
+    sh:property [
+        sh:path <https://www.w3.org/2003/01/geo/wgs84_pos#long> ;
+        sh:datatype xsd:float ;
+        sh:minInclusive -180 ;
+        sh:maxInclusive 180 ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+    ] .
