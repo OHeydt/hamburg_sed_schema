@@ -2,13 +2,14 @@ import pandas as pd
 from rdflib import Graph, Literal, Namespace, URIRef
 from rdflib.namespace import RDF, XSD
 
-# Load files
+# Load both files
 file_path = 'Hamburg.csv'
 hamburg = pd.read_csv(file_path, delimiter='\t', encoding='utf-8')
 file_path2 = 'stops_with_districts.csv'
 stops = pd.read_csv(file_path2, delimiter=',', encoding='utf-8')
 
-# fix german commas in float
+# For each column with float numbers
+# Fix german commas with international/ english comma for those numbers
 float_columns = [
     'Durchschnittsalter der Bevölkerung',
     'Arbeitslose in % der 15- bis unter 65-Jährigen',
@@ -39,22 +40,25 @@ for col in float_columns:
         hamburg[col] = hamburg[col].astype(str).str.replace(',', '.').str.strip()
         hamburg[col] = pd.to_numeric(hamburg[col], errors='coerce') 
 
-
+# Set the namespaces
 SCHEMA = Namespace("https://schema.org/")
 SED = Namespace("http://heydt-schemas.com/socio-economic-data#")
 LOC = Namespace("http://heydt-schemas.com/location#")
 STOP = Namespace("http://heydt-schemas.com/stops#")
 GEO = Namespace("https://www.w3.org/2003/01/geo/wgs84_pos#")
 
+# Create the graph and bind the namespaces to it
 g = Graph()
-
 g.bind("loc", LOC)
 g.bind("schema", SCHEMA)
 g.bind("sed", SED)
 g.bind("geo", GEO)
 g.bind("stop", STOP)
 
-# hamburg data
+# For each entry in the socio-economic data enter all possible triples
+# Build the district ui and use it always as subject
+# Use the custom namespaces as predicate
+# Build literals with the entries in the socia-economic data
 for _, entry in hamburg.iterrows():
     district_uri = LOC[entry["Region"]]
     g.add((district_uri, RDF.type, SCHEMA.AdministrativeArea))
@@ -114,12 +118,15 @@ for _, entry in hamburg.iterrows():
     g.add((district_uri, SED.numberOfPrivateCars, Literal(entry["PKW-Bestand: Private PKW"], datatype=XSD.integer)))
     g.add((district_uri, SED.privateCarsPerThousandPeople, Literal(entry["PKW-Bestand: Private PKW je 1000 Einwohner:innen"], datatype=XSD.float)))
 
-# busstop data
+# Check, if every Busstop has a District number.
+# If there is then add that busstop to that district
 for _, stop in stops.iterrows():
     if pd.isna(stop["Bezirk_Name"]):
         print(f"Skipping stop due to missing Bezirk_Name: {stop['stop_name']}")
         continue
     
+    # Busstop names have symbols in them, that you cant use within the shortened versions
+    # So we stay with the longer version
     stop_uri = URIRef(f"http://heydt-schema.com/stop/{stop['stop_name'].replace(' ', '_')}")
     #stop_uri = STOP[stop["stop_name"].replace(' ', '_')]
     district_uri = LOC[stop["Bezirk_Name"]]
@@ -130,7 +137,7 @@ for _, stop in stops.iterrows():
     g.add((stop_uri, SCHEMA.containedIn, district_uri))
 
 
+# Write the graph to the file
 output_file = 'hamburg.ttl'
 g.serialize(destination=output_file, format='turtle')
-
-print(f"RDF data written to {output_file}")
+print(f"RDF data written")
